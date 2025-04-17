@@ -1,0 +1,2079 @@
+,Actor,Movie,Year,Genre,Rating
+0,Johnny Depp,Johnny Puff: Secret Mission,2024,['Animation'],5.7
+1,Johnny Depp,Jeanne du Barry,2023,"['Biography', 'Drama', 'History']",6.7
+2,Johnny Depp,Minamata,2020,['Drama'],7.2
+3,Johnny Depp,Warten auf die Barbaren,2019,"['Drama', 'History']",5.9
+4,Johnny Depp,City of Lies,2018,"['Biography', 'Crime', 'Drama']",6.5
+5,Johnny Depp,Phantastische Tierwesen: Grindelwalds Verbrechen,2018,"['Adventure', 'Family', 'Fantasy']",6.5
+6,Johnny Depp,The Professor,2018,"['Comedy', 'Drama']",6.7
+7,Johnny Depp,London Fields,2018,"['Crime', 'Mystery', 'Thriller']",3.9
+8,Johnny Depp,Sherlock Gnomes,2018,"['Animation', 'Adventure', 'Comedy']",5.2
+9,Johnny Depp,Mord im Orient-Express,2017,"['Crime', 'Drama', 'Mystery']",6.5
+10,Johnny Depp,Pirates of the Caribbean: Salazars Rache,2017,"['Action', 'Adventure', 'Fantasy']",6.5
+11,Johnny Depp,Phantastische Tierwesen und wo sie zu finden sind,2016,"['Adventure', 'Family', 'Fantasy']",7.2
+12,Johnny Depp,Alice im Wunderland: Hinter den Spiegeln,2016,"['Adventure', 'Family', 'Fantasy']",6.2
+13,Johnny Depp,Yoga Hosers,2016,"['Action', 'Comedy', 'Horror']",4.2
+14,Johnny Depp,Black Mass,2015,"['Biography', 'Crime', 'Drama']",6.8
+15,Johnny Depp,Mortdecai - Der Teilzeitgauner,2015,"['Action', 'Adventure', 'Comedy']",5.5
+16,Johnny Depp,Into the Woods,2014,"['Adventure', 'Comedy', 'Drama']",5.9
+17,Johnny Depp,Tusk,2014,"['Comedy', 'Horror']",5.3
+18,Johnny Depp,Transcendence,2014,"['Action', 'Drama', 'Sci-Fi']",6.2
+19,Johnny Depp,Lucky Them - Auf der Suche nach Matthew Smith,2013,"['Comedy', 'Drama']",6.1
+20,Johnny Depp,Lone Ranger,2013,"['Action', 'Adventure', 'Drama']",6.4
+21,Johnny Depp,Dark Shadows,2012,"['Comedy', 'Fantasy', 'Horror']",6.2
+22,Johnny Depp,21 Jump Street,2012,"['Action', 'Comedy', 'Crime']",7.2
+23,Johnny Depp,Jack und Jill,2011,['Comedy'],3.3
+24,Johnny Depp,Rum Diary,2011,"['Comedy', 'Drama']",6.1
+25,Johnny Depp,Pirates of the Caribbean - Fremde Gezeiten,2011,"['Action', 'Adventure', 'Fantasy']",6.6
+26,Johnny Depp,Rango,2011,"['Animation', 'Action', 'Adventure']",7.3
+27,Johnny Depp,The Tourist,2010,"['Action', 'Thriller']",6.0
+28,Johnny Depp,Alice im Wunderland,2010,"['Adventure', 'Family', 'Fantasy']",6.4
+29,Johnny Depp,Public Enemies,2009,"['Action', 'Biography', 'Crime']",7.0
+30,Johnny Depp,Das Kabinett des Doktor Parnassus,2009,"['Adventure', 'Comedy', 'Fantasy']",6.8
+31,Johnny Depp,Sweeney Todd: Der teuflische Barbier aus der Fleet Street,2007,"['Drama', 'Horror', 'Musical']",7.3
+32,Johnny Depp,Pirates of the Caribbean - Am Ende der Welt,2007,"['Action', 'Adventure', 'Fantasy']",7.1
+33,Johnny Depp,Pirates of the Caribbean - Fluch der Karibik 2,2006,"['Action', 'Adventure', 'Fantasy']",7.4
+34,Johnny Depp,Corpse Bride - Hochzeit mit einer Leiche,2005,"['Animation', 'Comedy', 'Drama']",7.4
+35,Johnny Depp,Charlie und die Schokoladenfabrik,2005,"['Adventure', 'Comedy', 'Family']",6.7
+36,Johnny Depp,"The Libertine - Sex, Drugs & Rococo",2004,"['Biography', 'Drama', 'History']",6.2
+37,Johnny Depp,Wenn Träume fliegen lernen,2004,"['Biography', 'Drama', 'Family']",7.7
+38,Johnny Depp,Happy End mit Hindernissen,2004,"['Comedy', 'Drama', 'Music']",6.4
+39,Johnny Depp,Das geheime Fenster,2004,"['Drama', 'Mystery', 'Thriller']",6.5
+40,Johnny Depp,Irgendwann in Mexico,2003,"['Action', 'Crime', 'Thriller']",6.3
+41,Johnny Depp,Fluch der Karibik,2003,"['Action', 'Adventure', 'Fantasy']",8.1
+42,Johnny Depp,From Hell,2001,"['Horror', 'Mystery', 'Thriller']",6.7
+43,Johnny Depp,Blow,2001,"['Biography', 'Crime', 'Drama']",7.5
+44,Johnny Depp,Chocolat... ein kleiner Biss genügt!,2000,"['Drama', 'Romance']",7.2
+45,Johnny Depp,Bevor es Nacht wird,2000,"['Biography', 'Drama', 'Romance']",7.1
+46,Johnny Depp,In stürmischen Zeiten,2000,"['Drama', 'Music', 'Romance']",6.1
+47,Johnny Depp,Sleepy Hollow,1999,"['Fantasy', 'Horror', 'Mystery']",7.3
+48,Johnny Depp,The Astronaut's Wife - Das Böse hat ein neues Gesicht,1999,"['Drama', 'Sci-Fi', 'Thriller']",5.4
+49,Johnny Depp,Die neun Pforten,1999,"['Mystery', 'Thriller']",6.7
+50,Johnny Depp,L.A. Without a Map,1998,"['Comedy', 'Drama', 'Romance']",6.0
+51,Johnny Depp,Angst und Schrecken in Las Vegas,1998,"['Adventure', 'Comedy', 'Drama']",7.5
+52,Johnny Depp,The Brave,1997,['Drama'],6.1
+53,Johnny Depp,Donnie Brasco,1997,"['Biography', 'Crime', 'Drama']",7.7
+54,Johnny Depp,Cannes Man,1996,"['Comedy', 'Drama']",5.1
+55,Johnny Depp,Gegen die Zeit,1995,"['Action', 'Crime', 'Drama']",6.3
+56,Johnny Depp,Dead Man,1995,"['Adventure', 'Drama', 'Fantasy']",7.5
+57,Johnny Depp,Don Juan DeMarco,1994,"['Comedy', 'Drama', 'Romance']",6.7
+58,Johnny Depp,Ed Wood,1994,"['Biography', 'Comedy', 'Drama']",7.8
+59,Johnny Depp,Gilbert Grape - Irgendwo in Iowa,1993,['Drama'],7.7
+60,Johnny Depp,Benny und Joon,1993,"['Comedy', 'Drama', 'Romance']",7.1
+61,Johnny Depp,Arizona Dream,1993,"['Comedy', 'Drama', 'Fantasy']",7.2
+62,Johnny Depp,A Nightmare on Elm Street 6: Freddy's Finale,1991,"['Fantasy', 'Horror']",4.7
+63,Johnny Depp,Edward mit den Scherenhänden,1990,"['Drama', 'Fantasy', 'Romance']",7.9
+64,Johnny Depp,Cry-Baby,1990,"['Comedy', 'Musical']",6.5
+65,Johnny Depp,Platoon,1986,"['Drama', 'War']",8.1
+66,Johnny Depp,Die Superaufreißer,1985,['Comedy'],5.2
+67,Johnny Depp,Nightmare - Mörderische Träume,1984,['Horror'],7.4
+68,Al Pacino,A Killer's Memory,2023,['Thriller'],6.9
+69,Al Pacino,House of Gucci,2021,"['Biography', 'Crime', 'Drama']",6.6
+70,Al Pacino,American Traitor: The Trial of Axis Sally,2021,"['Drama', 'History', 'War']",5.7
+71,Al Pacino,The Irishman,2019,"['Biography', 'Crime', 'Drama']",7.8
+72,Al Pacino,Once Upon a Time In... Hollywood,2019,"['Comedy', 'Drama']",7.6
+73,Al Pacino,Hangman: The Killing Game,2017,"['Crime', 'Drama', 'Horror']",5.2
+74,Al Pacino,The Pirates of Somalia,2017,"['Biography', 'Drama']",6.7
+75,Al Pacino,Ruf der Macht - Im Sumpf der Korruption,2016,"['Crime', 'Drama', 'Mystery']",5.3
+76,Al Pacino,Mr. Collins' zweiter Frühling,2015,"['Comedy', 'Drama', 'Music']",7.0
+77,Al Pacino,Manglehorn - Schlüssel zum Glück,2014,['Drama'],5.5
+78,Al Pacino,Der letzte Akt,2014,"['Comedy', 'Drama', 'Romance']",5.6
+79,Al Pacino,Salomé,2013,['Drama'],6.3
+80,Al Pacino,No somos animales,2013,"['Comedy', 'Drama']",4.8
+81,Al Pacino,Stand Up Guys,2012,"['Comedy', 'Crime', 'Thriller']",6.4
+82,Al Pacino,Jack und Jill,2011,['Comedy'],3.3
+83,Al Pacino,Ein Cop mit dunkler Vergangenheit,2011,"['Action', 'Crime', 'Drama']",5.1
+84,Al Pacino,Kurzer Prozess - Righteous Kill,2008,"['Crime', 'Mystery', 'Thriller']",6.0
+85,Al Pacino,Ocean's 13,2007,"['Crime', 'Thriller']",6.9
+86,Al Pacino,88 Minuten,2007,"['Crime', 'Drama', 'Mystery']",5.9
+87,Al Pacino,Das schnelle Geld,2005,"['Crime', 'Drama', 'Sport']",6.2
+88,Al Pacino,Der Kaufmann von Venedig,2004,"['Drama', 'Romance']",7.0
+89,Al Pacino,Liebe mit Risiko - Gigli,2003,"['Comedy', 'Crime', 'Romance']",2.6
+90,Al Pacino,Der Einsatz,2003,"['Action', 'Thriller']",6.6
+91,Al Pacino,Im inneren Kreis,2002,"['Crime', 'Drama', 'Mystery']",5.4
+92,Al Pacino,S1m0ne,2002,"['Comedy', 'Drama', 'Sci-Fi']",6.1
+93,Al Pacino,Insomnia - Schlaflos,2002,"['Drama', 'Mystery', 'Thriller']",7.2
+94,Al Pacino,Chinese Coffee,2000,['Drama'],7.1
+95,Al Pacino,An jedem verdammten Sonntag,1999,"['Drama', 'Sport']",6.9
+96,Al Pacino,Insider,1999,"['Biography', 'Drama', 'History']",7.8
+97,Al Pacino,Im Auftrag des Teufels,1997,"['Drama', 'Fantasy', 'Mystery']",7.5
+98,Al Pacino,Donnie Brasco,1997,"['Biography', 'Crime', 'Drama']",7.7
+99,Al Pacino,City Hall,1996,"['Crime', 'Drama', 'Mystery']",6.2
+100,Al Pacino,Heat,1995,"['Action', 'Crime', 'Drama']",8.3
+101,Al Pacino,Two Bits,1995,"['Comedy', 'Drama']",6.1
+102,Al Pacino,Carlito's Way,1993,"['Crime', 'Drama', 'Thriller']",7.9
+103,Al Pacino,Der Duft der Frauen,1992,['Drama'],8.0
+104,Al Pacino,Glengarry Glen Ross,1992,"['Crime', 'Drama', 'Mystery']",7.7
+105,Al Pacino,Frankie und Johnny,1991,"['Comedy', 'Drama', 'Romance']",6.7
+106,Al Pacino,Der Pate 3,1990,"['Crime', 'Drama']",7.6
+107,Al Pacino,Dick Tracy,1990,"['Action', 'Comedy', 'Crime']",6.2
+108,Al Pacino,The Local Stigmatic,1990,['Drama'],5.6
+109,Al Pacino,Sea of Love - Melodie des Todes,1989,"['Crime', 'Drama', 'Mystery']",6.8
+110,Al Pacino,Revolution,1985,"['Adventure', 'Drama', 'History']",5.3
+111,Al Pacino,Scarface,1983,"['Crime', 'Drama']",8.3
+112,Al Pacino,Daddy! Daddy! Fünf Nervensägen und ein Vater,1982,"['Comedy', 'Drama', 'Family']",6.2
+113,Al Pacino,Cruising,1980,"['Crime', 'Drama', 'Mystery']",6.5
+114,Al Pacino,... und Gerechtigkeit für alle,1979,"['Crime', 'Drama', 'Thriller']",7.4
+115,Al Pacino,Bobby Deerfield,1977,"['Drama', 'Romance']",5.8
+116,Al Pacino,Hundstage,1975,"['Biography', 'Crime', 'Drama']",8.0
+117,Al Pacino,Der Pate 2,1974,"['Crime', 'Drama']",9.0
+118,Al Pacino,Serpico,1973,"['Biography', 'Crime', 'Drama']",7.7
+119,Al Pacino,Asphalt-Blüten,1973,['Drama'],7.2
+120,Al Pacino,Der Pate,1972,"['Crime', 'Drama']",9.2
+121,Al Pacino,Panik im Needle Park,1971,['Drama'],7.1
+122,Al Pacino,"Ich, Natalie",1969,"['Comedy', 'Drama']",6.4
+123,Robert De Niro,Ezra,2023,"['Comedy', 'Drama']",6.4
+124,Robert De Niro,Und dann kam Dad,2023,['Comedy'],5.7
+125,Robert De Niro,Killers of the Flower Moon,2023,"['Crime', 'Drama', 'History']",7.6
+126,Robert De Niro,Pfad der Vergeltung,2022,"['Action', 'Thriller']",4.8
+127,Robert De Niro,Amsterdam,2022,"['Comedy', 'Drama', 'History']",6.1
+128,Robert De Niro,Kings of Hollywood,2020,"['Comedy', 'Crime']",5.7
+129,Robert De Niro,Immer Ärger mit Grandpa,2020,"['Comedy', 'Drama', 'Family']",5.7
+130,Robert De Niro,The Irishman,2019,"['Biography', 'Crime', 'Drama']",7.8
+131,Robert De Niro,Joker,2019,"['Crime', 'Drama', 'Thriller']",8.4
+132,Robert De Niro,The Comedian - Wer zuletzt lacht,2016,"['Comedy', 'Drama', 'Romance']",5.8
+133,Robert De Niro,Hands of Stone,2016,"['Biography', 'Drama', 'Sport']",6.6
+134,Kevin Spacey,Peter Five Eight,2024,"['Comedy', 'Drama', 'Thriller']",4.4
+135,Kevin Spacey,Control,2023,"['Action', 'Thriller']",3.6
+136,Kevin Spacey,L'uomo che disegnò Dio,2022,['Drama'],5.6
+137,Kevin Spacey,Billionaire Boys Club,2018,"['Biography', 'Drama', 'Thriller']",5.6
+138,Kevin Spacey,Baby Driver,2017,"['Action', 'Crime', 'Drama']",7.5
+139,Kevin Spacey,Das verschwiegene Buch,2017,"['Biography', 'Drama', 'Romance']",6.7
+140,Kevin Spacey,Voll verkatert,2016,"['Comedy', 'Drama', 'Family']",5.3
+141,Kevin Spacey,Elvis & Nixon,2016,"['Comedy', 'History']",6.4
+142,Kevin Spacey,Kill the Boss 2,2014,"['Comedy', 'Crime']",6.3
+143,Kevin Spacey,NOW: In the Wings on a World Stage,2014,['Documentary'],7.2
+144,Kevin Spacey,Unzertrennlich,2011,"['Drama', 'Mystery']",5.4
+145,Kevin Spacey,Kill the Boss,2011,"['Comedy', 'Crime']",6.9
+146,Kevin Spacey,Der große Crash - Margin Call,2011,"['Drama', 'Thriller']",7.1
+147,Kevin Spacey,Casino Jack,2010,"['Biography', 'Comedy', 'Crime']",6.2
+148,Kevin Spacey,Selfmade-Dad - Not macht erfinderisch,2010,"['Comedy', 'Drama']",5.7
+149,Kevin Spacey,"Männer, die auf Ziegen starren",2009,"['Comedy', 'War']",6.2
+150,Kevin Spacey,Moon,2009,"['Drama', 'Mystery', 'Sci-Fi']",7.8
+151,Kevin Spacey,Shrink - Nur nicht die Nerven verlieren,2009,"['Comedy', 'Drama']",6.6
+152,Kevin Spacey,Telstar: The Joe Meek Story,2008,"['Biography', 'Drama', 'Music']",6.4
+153,Kevin Spacey,21,2008,"['Crime', 'Drama', 'Thriller']",6.8
+154,Kevin Spacey,Die Gebrüder Weihnachtsmann,2007,"['Comedy', 'Family', 'Fantasy']",5.7
+155,Kevin Spacey,Superman Returns,2006,"['Action', 'Adventure', 'Sci-Fi']",6.1
+156,Kevin Spacey,Edison,2005,"['Action', 'Crime', 'Drama']",5.3
+157,Kevin Spacey,Beyond the Sea - Musik war sein Leben,2004,"['Biography', 'Drama', 'Music']",6.7
+158,Kevin Spacey,Das Leben des David Gale,2003,"['Crime', 'Drama', 'Mystery']",7.5
+159,Kevin Spacey,State of Mind,2003,['Drama'],7.0
+160,Kevin Spacey,Austin Powers in Goldständer,2002,"['Action', 'Adventure', 'Comedy']",6.2
+161,Kevin Spacey,Schiffsmeldungen,2001,['Drama'],6.7
+162,Kevin Spacey,K-PAX - Alles ist möglich,2001,"['Drama', 'Mystery', 'Sci-Fi']",7.4
+163,Kevin Spacey,Das Glücksprinzip,2000,['Drama'],7.2
+164,Kevin Spacey,Ein ganz gewöhnlicher Dieb,2000,"['Comedy', 'Crime']",6.3
+165,Kevin Spacey,The Big Kahuna - Ein dicker Fisch,1999,"['Drama', 'Comedy']",6.5
+166,Kevin Spacey,American Beauty,1999,['Drama'],8.3
+167,Kevin Spacey,Das große Krabbeln,1998,"['Animation', 'Adventure', 'Comedy']",7.2
+168,Kevin Spacey,Hurlyburly,1998,"['Comedy', 'Drama']",5.8
+169,Kevin Spacey,Verhandlungssache,1998,"['Action', 'Crime', 'Drama']",7.3
+170,Kevin Spacey,Mitternacht im Garten von Gut und Böse,1997,"['Crime', 'Drama', 'Mystery']",6.6
+171,Kevin Spacey,L.A. Confidential,1997,"['Crime', 'Drama', 'Mystery']",8.2
+172,Kevin Spacey,Die Jury,1996,"['Crime', 'Drama', 'Thriller']",7.5
+173,Kevin Spacey,Sieben,1995,"['Crime', 'Drama', 'Mystery']",8.6
+174,Kevin Spacey,Outbreak - Lautlose Killer,1995,"['Action', 'Drama', 'Thriller']",6.6
+175,Kevin Spacey,Die üblichen Verdächtigen,1995,"['Crime', 'Drama', 'Mystery']",8.5
+176,Kevin Spacey,Unter Haien in Hollywood,1994,"['Comedy', 'Crime']",7.0
+177,Kevin Spacey,No Panic - Gute Geiseln sind selten,1994,"['Comedy', 'Crime', 'Drama']",6.9
+178,Kevin Spacey,Iron Will - Der Wille zum Sieg,1994,"['Adventure', 'Family']",6.6
+179,Kevin Spacey,Gewagtes Spiel,1992,"['Crime', 'Drama', 'Mystery']",5.7
+180,Kevin Spacey,Glengarry Glen Ross,1992,"['Crime', 'Drama', 'Mystery']",7.7
+181,Kevin Spacey,Henry & June,1990,"['Biography', 'Drama']",6.3
+182,Kevin Spacey,Die Stärke der Macht,1990,"['Drama', 'Thriller']",5.3
+183,Kevin Spacey,Dad,1989,"['Comedy', 'Drama']",6.3
+184,Kevin Spacey,Die Glücksjäger,1989,"['Comedy', 'Crime']",6.8
+185,Kevin Spacey,Die Waffen der Frauen,1988,"['Comedy', 'Drama', 'Romance']",6.8
+186,Kevin Spacey,Rocket Gibraltar,1988,['Drama'],6.6
+187,Kevin Spacey,Sodbrennen,1986,"['Comedy', 'Drama']",6.1
+188,Denzel Washington,The Equalizer 3 - The Final Chapter,2023,"['Action', 'Crime', 'Thriller']",6.8
+189,Denzel Washington,Macbeth,2021,"['Drama', 'Mystery', 'Thriller']",7.1
+190,Denzel Washington,The Little Things,2021,"['Crime', 'Drama', 'Mystery']",6.3
+191,Denzel Washington,The Equalizer 2,2018,"['Action', 'Crime', 'Thriller']",6.7
+192,Denzel Washington,"Roman J. Israel, Esq. - Die Wahrheit und nichts als die Wahrheit",2017,"['Crime', 'Drama', 'Thriller']",6.5
+193,Denzel Washington,Fences,2016,['Drama'],7.2
+194,Denzel Washington,Die glorreichen Sieben,2016,"['Action', 'Adventure', 'Drama']",6.9
+195,Denzel Washington,The Equalizer,2014,"['Action', 'Crime', 'Thriller']",7.2
+196,Denzel Washington,2 Guns,2013,"['Action', 'Comedy', 'Thriller']",6.7
+197,Denzel Washington,Flight,2012,"['Drama', 'Thriller']",7.3
+198,Denzel Washington,Safe House,2012,"['Action', 'Thriller']",6.7
+199,Denzel Washington,Unstoppable - Außer Kontrolle,2010,"['Action', 'Thriller']",6.8
+200,Denzel Washington,The Book of Eli,2010,"['Action', 'Adventure', 'Drama']",6.8
+201,Denzel Washington,Die Entführung der U-Bahn Pelham 1 2 3,2009,"['Action', 'Crime', 'Thriller']",6.4
+202,Denzel Washington,The Great Debaters - Die Macht der Worte,2007,"['Biography', 'Drama', 'Romance']",7.5
+203,Denzel Washington,American Gangster,2007,"['Biography', 'Crime', 'Drama']",7.8
+204,Denzel Washington,Déjà Vu - Wettlauf gegen die Zeit,2006,"['Action', 'Crime', 'Sci-Fi']",7.1
+205,Denzel Washington,Inside Man,2006,"['Crime', 'Drama', 'Mystery']",7.6
+206,Denzel Washington,Der Manchurian Kandidat,2004,"['Drama', 'Mystery', 'Sci-Fi']",6.6
+207,Denzel Washington,Mann unter Feuer,2004,"['Action', 'Crime', 'Drama']",7.7
+208,Denzel Washington,Out of Time - Sein Gegner ist die Zeit,2003,"['Crime', 'Drama', 'Mystery']",6.5
+209,Denzel Washington,Antwone Fisher,2002,"['Biography', 'Drama']",7.3
+210,Denzel Washington,John Q. - Verzweifelte Wut,2002,"['Crime', 'Drama', 'Thriller']",7.1
+211,Denzel Washington,Training Day,2001,"['Crime', 'Drama', 'Thriller']",7.7
+212,Denzel Washington,Gegen jede Regel,2000,"['Biography', 'Comedy', 'Drama']",7.8
+213,Denzel Washington,Hurricane,1999,"['Biography', 'Drama', 'Sport']",7.6
+214,Denzel Washington,Der Knochenjäger,1999,"['Crime', 'Drama', 'Mystery']",6.7
+215,Denzel Washington,Ausnahmezustand,1998,"['Action', 'Thriller']",6.4
+216,Denzel Washington,Spiel des Lebens,1998,"['Drama', 'Sport']",6.9
+217,Denzel Washington,Dämon - Trau keiner Seele,1998,"['Action', 'Crime', 'Drama']",7.0
+218,Denzel Washington,Rendezvous mit einem Engel,1996,"['Comedy', 'Drama', 'Fantasy']",5.7
+219,Denzel Washington,Mut zur Wahrheit,1996,"['Action', 'Drama', 'Mystery']",6.6
+220,Denzel Washington,Teufel in Blau,1995,"['Crime', 'Drama', 'Mystery']",6.8
+221,Denzel Washington,Virtuosity,1995,"['Action', 'Crime', 'Sci-Fi']",5.5
+222,Denzel Washington,Crimson Tide - In tiefster Gefahr,1995,"['Action', 'Drama', 'Thriller']",7.3
+223,Denzel Washington,Philadelphia,1993,['Drama'],7.7
+224,Denzel Washington,Die Akte,1993,"['Crime', 'Drama', 'Mystery']",6.6
+225,Denzel Washington,Viel Lärm um nichts,1993,"['Comedy', 'Drama', 'Romance']",7.3
+226,Denzel Washington,Malcolm X,1992,"['Biography', 'Drama', 'History']",7.7
+227,Denzel Washington,Ricochet - Der Aufprall,1991,"['Action', 'Crime', 'Drama']",6.2
+228,Denzel Washington,Mississippi Masala,1991,"['Drama', 'Romance']",6.7
+229,Denzel Washington,Mo' Better Blues,1990,"['Drama', 'Music', 'Romance']",6.7
+230,Denzel Washington,Der Chaoten-Cop,1990,"['Comedy', 'Crime', 'Drama']",5.5
+231,Denzel Washington,Glory,1989,"['Biography', 'Drama', 'History']",7.8
+232,Denzel Washington,Big Bad Man,1989,"['Action', 'Crime', 'Drama']",6.0
+233,Denzel Washington,Für Königin und Vaterland,1988,"['Action', 'Crime', 'Drama']",5.6
+234,Denzel Washington,Schrei nach Freiheit,1987,"['Biography', 'Drama', 'History']",7.4
+235,Denzel Washington,Power - Der Weg zum Ruhm,1986,['Drama'],5.7
+236,Denzel Washington,Sergeant Waters - Eine Soldatengeschichte,1984,"['Crime', 'Drama', 'Mystery']",7.2
+237,Denzel Washington,Eine schöne Bescherung,1981,"['Comedy', 'Drama']",5.6
+238,Russell Crowe,The Exorcism,2024,"['Horror', 'Thriller']",4.5
+239,Russell Crowe,Sleeping Dogs,2024,"['Crime', 'Mystery', 'Thriller']",6.1
+240,Russell Crowe,Land of Bad,2024,"['Action', 'Thriller']",6.5
+241,Russell Crowe,The Pope's Exorcist,2023,"['Horror', 'Thriller']",6.1
+242,Russell Crowe,Poker Face,2022,"['Action', 'Crime', 'Thriller']",5.2
+243,Russell Crowe,The Greatest Beer Run Ever,2022,"['Adventure', 'Drama', 'War']",6.8
+244,Russell Crowe,Prizefighter: The Life of Jem Belcher,2022,"['Biography', 'Drama', 'History']",5.6
+245,Russell Crowe,Thor: Love and Thunder,2022,"['Action', 'Adventure', 'Comedy']",6.2
+246,Russell Crowe,Zack Snyder's Justice League,2021,"['Action', 'Adventure', 'Fantasy']",7.9
+247,Russell Crowe,Unhinged - Außer Kontrolle,2020,"['Action', 'Thriller']",6.0
+248,Russell Crowe,True History of the Kelly Gang,2019,"['Action', 'Biography', 'Crime']",6.0
+249,Russell Crowe,Der verlorene Sohn,2018,"['Biography', 'Drama']",6.9
+250,Russell Crowe,War Machine,2017,"['Comedy', 'Drama', 'War']",6.0
+251,Russell Crowe,Die Mumie,2017,"['Action', 'Adventure', 'Fantasy']",5.4
+252,Russell Crowe,The Nice Guys,2016,"['Action', 'Comedy', 'Crime']",7.4
+253,Russell Crowe,Väter und Töchter - Ein ganzes Leben,2015,['Drama'],7.0
+254,Russell Crowe,Das Versprechen eines Lebens,2014,"['Drama', 'History', 'War']",7.0
+255,Russell Crowe,Noah,2014,"['Action', 'Adventure', 'Drama']",5.8
+256,Russell Crowe,Winter's Tale,2014,"['Drama', 'Fantasy', 'Mystery']",6.1
+257,Russell Crowe,Man of Steel,2013,"['Action', 'Adventure', 'Sci-Fi']",7.1
+258,Russell Crowe,Broken City - Stadt des Verbrechens,2013,"['Action', 'Crime', 'Drama']",6.1
+259,Russell Crowe,Les Misérables,2012,"['Drama', 'Musical', 'Romance']",7.5
+260,Russell Crowe,The Man with the Iron Fists,2012,['Action'],5.4
+261,Russell Crowe,72 Stunden - The Next Three Days,2010,"['Action', 'Crime', 'Drama']",7.3
+262,Russell Crowe,Robin Hood,2010,"['Action', 'Adventure', 'Drama']",6.6
+263,Russell Crowe,State of Play - Stand der Dinge,2009,"['Crime', 'Drama', 'Mystery']",7.1
+264,Russell Crowe,Tenderness - Auf der Spur des Killers,2009,"['Crime', 'Drama', 'Mystery']",5.4
+265,Russell Crowe,"Der Mann, der niemals lebte",2008,"['Action', 'Drama', 'Thriller']",7.0
+266,Russell Crowe,American Gangster,2007,"['Biography', 'Crime', 'Drama']",7.8
+267,Russell Crowe,Todeszug nach Yuma,2007,"['Action', 'Crime', 'Drama']",7.6
+268,Russell Crowe,Ein gutes Jahr,2006,"['Comedy', 'Drama', 'Romance']",6.9
+269,Russell Crowe,Das Comeback,2005,"['Biography', 'Drama', 'Romance']",8.0
+270,Russell Crowe,Master & Commander: Bis ans Ende der Welt,2003,"['Action', 'Adventure', 'Drama']",7.5
+271,Russell Crowe,A Beautiful Mind: Genie und Wahnsinn,2001,"['Biography', 'Drama', 'Mystery']",8.2
+272,Russell Crowe,Lebenszeichen - Proof of Life,2000,"['Action', 'Drama', 'Thriller']",6.3
+273,Russell Crowe,Gladiator,2000,"['Action', 'Adventure', 'Drama']",8.5
+274,Russell Crowe,Insider,1999,"['Biography', 'Drama', 'History']",7.8
+275,Russell Crowe,Mystery - New York: Ein Spiel um die Ehre,1999,"['Comedy', 'Drama', 'Sport']",6.7
+276,Russell Crowe,Paradies in Flammen,1997,"['Action', 'Crime', 'Drama']",5.7
+277,Russell Crowe,Breaking Up,1997,"['Comedy', 'Drama', 'Romance']",4.7
+278,Russell Crowe,L.A. Confidential,1997,"['Crime', 'Drama', 'Mystery']",8.2
+279,Russell Crowe,Wilder Zauber,1995,"['Comedy', 'Drama', 'Romance']",5.4
+280,Russell Crowe,Virtuosity,1995,"['Action', 'Crime', 'Sci-Fi']",5.5
+281,Russell Crowe,No Way Back,1995,"['Action', 'Crime', 'Drama']",5.1
+282,Russell Crowe,Schneller als der Tod,1995,"['Action', 'Drama', 'Romance']",6.5
+283,Russell Crowe,Immer Ärger mit der Liebe,1994,"['Comedy', 'Drama']",7.3
+284,Russell Crowe,For the Moment,1993,"['Romance', 'War', 'Drama']",6.0
+285,Russell Crowe,Der silberne Hengst,1993,"['Drama', 'Family']",5.8
+286,Russell Crowe,Love in Limbo,1993,['Comedy'],5.4
+287,Russell Crowe,Sommer des Erwachens,1993,"['Biography', 'Drama', 'Romance']",5.6
+288,Russell Crowe,Romper Stomper,1992,"['Crime', 'Drama', 'Thriller']",6.8
+289,Russell Crowe,Made in Spotswood - Die Fabrik der schrägen Vögel,1991,"['Comedy', 'Drama']",6.2
+290,Russell Crowe,Proof - Blindes Vertrauen,1991,"['Drama', 'Romance']",7.2
+291,Russell Crowe,The Crossing,1990,"['Drama', 'Romance']",5.4
+292,Russell Crowe,Blutiger Schwur,1990,"['Drama', 'War']",6.4
+293,Brad Pitt,IF,2024,"['Animation', 'Comedy', 'Drama']",6.5
+294,Brad Pitt,Babylon,2022,"['Comedy', 'Drama', 'History']",7.1
+295,Brad Pitt,Bullet Train,2022,"['Action', 'Comedy', 'Thriller']",7.3
+296,Brad Pitt,The Lost City,2022,"['Action', 'Adventure', 'Comedy']",6.1
+297,Brad Pitt,Ad Astra,2019,"['Adventure', 'Drama', 'Mystery']",6.5
+298,Brad Pitt,Once Upon a Time... in Hollywood,2019,"['Comedy', 'Drama']",7.6
+299,Brad Pitt,Deadpool 2,2018,"['Action', 'Adventure', 'Comedy']",7.6
+300,Brad Pitt,War Machine,2017,"['Comedy', 'Drama', 'War']",6.0
+301,Brad Pitt,Allied,2016,"['Action', 'Drama', 'Romance']",7.1
+302,Brad Pitt,Voyage of Time,2016,"['Documentary', 'Animation']",7.0
+303,Brad Pitt,The Big Short,2015,"['Biography', 'Comedy', 'Drama']",7.8
+304,Brad Pitt,By the Sea,2015,"['Drama', 'Romance']",5.3
+305,Angelina Jolie,Eternals,2021,"['Action', 'Adventure', 'Fantasy']",6.3
+306,Angelina Jolie,They Want Me Dead,2021,"['Action', 'Drama', 'Thriller']",6.0
+307,Angelina Jolie,Der einzig wahre Ivan,2020,"['Adventure', 'Comedy', 'Drama']",6.6
+308,Angelina Jolie,Die Magie der Träume,2020,"['Adventure', 'Drama', 'Fantasy']",5.7
+309,Angelina Jolie,Maleficent - Mächte der Finsternis,2019,"['Adventure', 'Drama', 'Family']",6.6
+310,Angelina Jolie,Kung Fu Panda 3,2016,"['Animation', 'Action', 'Adventure']",7.1
+311,Angelina Jolie,By the Sea,2015,"['Drama', 'Romance']",5.3
+312,Angelina Jolie,Maleficent - Die dunkle Fee,2014,"['Action', 'Adventure', 'Drama']",6.9
+313,Angelina Jolie,Kung Fu Panda 2,2011,"['Animation', 'Action', 'Adventure']",7.3
+314,Angelina Jolie,The Tourist,2010,"['Action', 'Thriller']",6.0
+315,Angelina Jolie,Salt,2010,"['Action', 'Thriller']",6.5
+316,Angelina Jolie,Wanted,2008,"['Action', 'Crime', 'Thriller']",6.7
+317,Angelina Jolie,Der fremde Sohn,2008,"['Biography', 'Crime', 'Drama']",7.7
+318,Angelina Jolie,Kung Fu Panda,2008,"['Animation', 'Action', 'Adventure']",7.6
+319,Angelina Jolie,Die Legende von Beowulf,2007,"['Animation', 'Action', 'Adventure']",6.3
+320,Angelina Jolie,Ein mutiger Weg,2007,"['Biography', 'Drama', 'History']",6.6
+321,Angelina Jolie,Der gute Hirte,2006,"['Drama', 'History', 'Thriller']",6.7
+322,Angelina Jolie,Mr. & Mrs. Smith,2005,"['Action', 'Comedy', 'Crime']",6.5
+323,Angelina Jolie,Alexander,2004,"['Action', 'Biography', 'Drama']",5.6
+324,Angelina Jolie,The Fever,2004,['Drama'],5.6
+325,Angelina Jolie,Große Haie - Kleine Fische,2004,"['Animation', 'Adventure', 'Comedy']",6.0
+326,Angelina Jolie,Sky Captain and the World of Tomorrow,2004,"['Action', 'Adventure', 'Mystery']",6.1
+327,Angelina Jolie,Taking Lives - Für Dein Leben würde er töten,2004,"['Crime', 'Mystery', 'Thriller']",6.2
+328,Angelina Jolie,Jenseits aller Grenzen,2003,"['Adventure', 'Drama', 'Romance']",6.4
+329,Angelina Jolie,Lara Croft - Tomb Raider: Die Wiege des Lebens,2003,"['Action', 'Adventure', 'Fantasy']",5.5
+330,Angelina Jolie,Leben oder so ähnlich,2002,"['Comedy', 'Romance']",5.8
+331,Angelina Jolie,Original Sin,2001,"['Drama', 'Mystery', 'Romance']",6.0
+332,Angelina Jolie,Lara Croft: Tomb Raider,2001,"['Action', 'Adventure', 'Fantasy']",5.8
+333,Angelina Jolie,Nur noch 60 Sekunden,2000,"['Action', 'Crime', 'Thriller']",6.5
+334,Angelina Jolie,Durchgeknallt,1999,"['Biography', 'Drama']",7.3
+335,Angelina Jolie,Der Knochenjäger,1999,"['Crime', 'Drama', 'Mystery']",6.7
+336,Angelina Jolie,Turbulenzen - und andere Katastrophen,1999,"['Comedy', 'Drama', 'Romance']",6.0
+337,Angelina Jolie,Leben und lieben in L.A.,1998,"['Comedy', 'Drama', 'Romance']",6.9
+338,Angelina Jolie,Hell's Kitchen - Vorhof zur Hölle,1998,"['Crime', 'Drama']",4.6
+339,Angelina Jolie,Playing God,1997,"['Crime', 'Drama', 'Thriller']",5.6
+340,Angelina Jolie,Nichts als Trouble mit den Frauen,1996,"['Comedy', 'Romance', 'Thriller']",5.2
+341,Angelina Jolie,Foxfire,1996,"['Drama', 'Romance']",6.1
+342,Angelina Jolie,Love Is All There Is,1996,"['Comedy', 'Romance']",5.0
+343,Angelina Jolie,Without Evidence,1995,"['Crime', 'Drama', 'Mystery']",3.9
+344,Angelina Jolie,Hackers - Im Netz des FBI,1995,"['Crime', 'Drama', 'Romance']",6.2
+345,Angelina Jolie,Der Zocker,1982,['Comedy'],5.1
+346,Leonardo DiCaprio,Killers of the Flower Moon,2023,"['Crime', 'Drama', 'History']",7.6
+347,Leonardo DiCaprio,Don't Look Up,2021,"['Comedy', 'Drama', 'Sci-Fi']",7.2
+348,Leonardo DiCaprio,Once Upon a Time... in Hollywood,2019,"['Comedy', 'Drama']",7.6
+349,Leonardo DiCaprio,The Revenant,2015,"['Action', 'Adventure', 'Drama']",8.0
+350,Leonardo DiCaprio,The Wolf of Wall Street,2013,"['Biography', 'Comedy', 'Crime']",8.2
+351,Leonardo DiCaprio,The Great Gatsby,2013,"['Drama', 'Romance']",7.2
+352,Leonardo DiCaprio,Django Unchained,2012,"['Comedy', 'Drama', 'Western']",8.5
+353,Leonardo DiCaprio,J. Edgar,2011,"['Biography', 'Drama', 'Romance']",6.5
+354,Leonardo DiCaprio,Inception,2010,"['Action', 'Adventure', 'Sci-Fi']",8.8
+355,Leonardo DiCaprio,Shutter Island,2010,"['Drama', 'Mystery', 'Thriller']",8.2
+356,Tom Cruise,Mission: Impossible - Dead Reckoning Teil Eins,2023,"['Action', 'Adventure', 'Thriller']",7.7
+357,Tom Cruise,Top Gun: Maverick,2022,"['Action', 'Drama']",8.2
+358,Tom Cruise,Mission: Impossible - Fallout,2018,"['Action', 'Adventure', 'Thriller']",7.7
+359,Tom Cruise,Barry Seal - Only in America,2017,"['Action', 'Comedy', 'Crime']",7.1
+360,Tom Cruise,Die Mumie,2017,"['Action', 'Adventure', 'Fantasy']",5.4
+361,Tom Cruise,Jack Reacher: Kein Weg zurück,2016,"['Action', 'Crime', 'Drama']",6.1
+362,Tom Cruise,Mission: Impossible - Rogue Nation,2015,"['Action', 'Adventure', 'Thriller']",7.4
+363,Tom Cruise,Edge of Tomorrow - Live. Die. Repeat,2014,"['Action', 'Adventure', 'Sci-Fi']",7.9
+364,Tom Cruise,Oblivion,2013,"['Action', 'Adventure', 'Sci-Fi']",7.0
+365,Tom Cruise,Jack Reacher,2012,"['Action', 'Mystery', 'Thriller']",7.0
+366,Tom Cruise,Rock of Ages,2012,"['Comedy', 'Drama', 'Musical']",5.9
+367,Tom Cruise,Mission: Impossible - Phantom Protokoll,2011,"['Action', 'Adventure', 'Thriller']",7.4
+368,Tom Cruise,Knight and Day,2010,"['Action', 'Adventure', 'Comedy']",6.3
+369,Tom Cruise,Operation Walküre - Das Stauffenberg-Attentat,2008,"['Drama', 'History', 'Thriller']",7.1
+370,Tom Cruise,Tropic Thunder,2008,"['Action', 'Comedy', 'War']",7.1
+371,Tom Cruise,Von Löwen und Lämmern,2007,"['Crime', 'Drama', 'Mystery']",6.2
+372,Tom Cruise,Mission: Impossible III,2006,"['Action', 'Adventure', 'Thriller']",6.9
+373,Tom Cruise,Krieg der Welten,2005,"['Action', 'Adventure', 'Sci-Fi']",6.5
+374,Tom Cruise,Collateral,2004,"['Action', 'Crime', 'Drama']",7.5
+375,Tom Cruise,Last Samurai,2003,"['Action', 'Drama']",7.8
+376,Tom Cruise,Austin Powers in Goldständer,2002,"['Action', 'Adventure', 'Comedy']",6.2
+377,Tom Cruise,Minority Report,2002,"['Action', 'Crime', 'Mystery']",7.6
+378,Tom Cruise,Vanilla Sky,2001,"['Fantasy', 'Mystery', 'Romance']",6.9
+379,Tom Cruise,Mission: Impossible II,2000,"['Action', 'Adventure', 'Thriller']",6.1
+380,Tom Cruise,Magnolia,1999,['Drama'],8.0
+381,Tom Cruise,Eyes Wide Shut,1999,"['Drama', 'Mystery', 'Thriller']",7.5
+382,Tom Cruise,Jerry Maguire: Spiel des Lebens,1996,"['Comedy', 'Drama', 'Romance']",7.3
+383,Tom Cruise,Mission: Impossible,1996,"['Action', 'Adventure', 'Thriller']",7.2
+384,Tom Cruise,Interview mit einem Vampir,1994,"['Drama', 'Fantasy', 'Horror']",7.5
+385,Tom Cruise,Die Firma,1993,"['Drama', 'Mystery', 'Thriller']",6.9
+386,Tom Cruise,Eine Frage der Ehre,1992,"['Drama', 'Thriller']",7.7
+387,Tom Cruise,In einem fernen Land,1992,"['Adventure', 'Drama', 'Romance']",6.6
+388,Tom Cruise,Tage des Donners,1990,"['Action', 'Drama', 'Sport']",6.1
+389,Tom Cruise,Geboren am 4. Juli,1989,"['Biography', 'Drama', 'War']",7.2
+390,Tom Cruise,Rain Man,1988,['Drama'],8.0
+391,Tom Cruise,Young Guns - Sie fürchten weder Tod noch Teufel,1988,"['Action', 'Drama', 'Western']",6.8
+392,Tom Cruise,Cocktail,1988,"['Comedy', 'Drama', 'Romance']",5.9
+393,Tom Cruise,Die Farbe des Geldes,1986,"['Drama', 'Sport']",7.0
+394,Tom Cruise,Top Gun,1986,"['Action', 'Drama']",6.9
+395,Tom Cruise,Legende,1985,"['Adventure', 'Fantasy', 'Romance']",6.3
+396,Tom Cruise,Der richtige Dreh,1983,"['Drama', 'Romance', 'Sport']",6.0
+397,Tom Cruise,Lockere Geschäfte,1983,"['Comedy', 'Crime', 'Drama']",6.8
+398,Tom Cruise,Outsider: Rebellen ohne Grund,1983,"['Crime', 'Drama']",7.0
+399,Tom Cruise,Die Aufreißer von der Highschool,1982,"['Comedy', 'Drama']",4.9
+400,Tom Cruise,Die Kadetten von Bunker Hill,1981,['Drama'],6.8
+401,Tom Cruise,Endless Love,1981,"['Drama', 'Romance']",4.9
+402,John Travolta,Cash Out,2024,['Action'],4.7
+403,John Travolta,Mob Land,2023,"['Action', 'Crime', 'Thriller']",5.3
+404,John Travolta,Die Hart,2023,"['Action', 'Comedy']",5.2
+405,John Travolta,Paradise City: Endstation Rache,2022,"['Action', 'Thriller']",3.7
+406,John Travolta,The Fanatic,2019,"['Crime', 'Drama', 'Horror']",4.1
+407,John Travolta,The Poison Rose,2019,"['Crime', 'Mystery', 'Thriller']",4.8
+408,John Travolta,Burning Speed - Sieg um jeden Preis,2019,"['Action', 'Drama', 'Sport']",4.5
+409,John Travolta,Speed Kills,2018,"['Action', 'Crime', 'Drama']",4.3
+410,John Travolta,Gotti,2018,"['Biography', 'Crime', 'Drama']",4.8
+411,John Travolta,Rage: Tage der Vergeltung,2016,"['Action', 'Thriller']",5.4
+412,John Travolta,In a Valley of Violence,2016,"['Action', 'Western']",6.1
+413,John Travolta,Criminal Activities,2015,"['Crime', 'Drama', 'Thriller']",5.8
+414,John Travolta,Der Sturm - Life on the Line,2015,"['Action', 'Thriller']",5.2
+415,John Travolta,Der Auftrag - Für einen letzten Coup ist es nie zu spät!,2014,"['Crime', 'Drama', 'Thriller']",5.8
+416,John Travolta,Killing Season,2013,"['Action', 'Drama', 'Thriller']",5.4
+417,John Travolta,Savages,2012,"['Action', 'Crime', 'Drama']",6.4
+418,John Travolta,From Paris with Love,2010,"['Action', 'Crime', 'Thriller']",6.4
+419,John Travolta,Old Dogs - Daddy oder Deal,2009,"['Comedy', 'Family']",5.3
+420,John Travolta,Die Entführung der U-Bahn Pelham 1 2 3,2009,"['Action', 'Crime', 'Thriller']",6.4
+421,John Travolta,Bolt: Ein Hund für alle Fälle,2008,"['Animation', 'Adventure', 'Comedy']",6.8
+422,John Travolta,Hairspray,2007,"['Comedy', 'Drama', 'Musical']",6.7
+423,John Travolta,Born to Be Wild - Saumäßig unterwegs,2007,"['Action', 'Adventure', 'Comedy']",5.8
+424,John Travolta,Lonely Hearts Killers,2006,"['Biography', 'Crime', 'Drama']",6.4
+425,John Travolta,Be Cool - Jeder ist auf der Suche nach dem nächsten großen Hit,2005,"['Comedy', 'Crime', 'Music']",5.6
+426,John Travolta,Im Feuer,2004,"['Action', 'Drama', 'Thriller']",6.5
+427,John Travolta,Lovesong für Bobby Long,2004,['Drama'],7.1
+428,John Travolta,The Punisher,2004,"['Action', 'Crime', 'Drama']",6.4
+429,John Travolta,Basic - Hinter jeder Lüge eine Wahrheit,2003,"['Action', 'Crime', 'Drama']",6.4
+430,John Travolta,Austin Powers in Goldständer,2002,"['Action', 'Adventure', 'Comedy']",6.2
+431,John Travolta,Tödliches Vertrauen,2001,"['Crime', 'Thriller']",5.6
+432,John Travolta,Passwort: Swordfish,2001,"['Action', 'Crime', 'Thriller']",6.5
+433,John Travolta,Lucky Numbers,2000,"['Comedy', 'Crime']",5.1
+434,John Travolta,Battlefield Earth - Kampf um die Erde,2000,"['Action', 'Adventure', 'Sci-Fi']",2.5
+435,John Travolta,Wehrlos - Die Tochter des Generals,1999,"['Crime', 'Drama', 'Mystery']",6.4
+436,John Travolta,Zivilprozeß,1998,"['Biography', 'Drama']",6.6
+437,John Travolta,Der schmale Grat,1998,"['Drama', 'History', 'War']",7.6
+438,John Travolta,Willkommen in Hollywood,1998,['Comedy'],4.9
+439,John Travolta,Mit aller Macht,1998,"['Comedy', 'Drama']",6.7
+440,John Travolta,Mad City,1997,"['Crime', 'Drama', 'Thriller']",6.3
+441,John Travolta,Im Körper des Feindes,1997,"['Action', 'Crime', 'Sci-Fi']",7.3
+442,John Travolta,She's So Lovely - Alles aus Liebe,1997,"['Drama', 'Romance']",5.9
+443,John Travolta,Michael,1996,"['Comedy', 'Drama', 'Fantasy']",5.7
+444,John Travolta,Phenomenon - Das Unmögliche wird wahr,1996,"['Drama', 'Fantasy', 'Romance']",6.4
+445,John Travolta,Operation: Broken Arrow,1996,"['Action', 'Adventure', 'Thriller']",6.1
+446,John Travolta,Schnappt Shorty,1995,"['Comedy', 'Crime', 'Thriller']",6.9
+447,John Travolta,Straße der Rache,1995,"['Drama', 'Thriller']",5.3
+448,John Travolta,Pulp Fiction,1994,"['Crime', 'Drama']",8.9
+449,John Travolta,Kuck' mal wer da jetzt spricht!,1993,"['Comedy', 'Family', 'Romance']",4.4
+450,John Travolta,Shout,1991,"['Drama', 'Music', 'Romance']",5.2
+451,John Travolta,Ein Deal auf Leben und Tod,1991,['Drama'],5.2
+452,John Travolta,"Kuck' mal, wer da spricht 2",1990,"['Comedy', 'Family', 'Romance']",4.7
+453,John Travolta,Gewalt der Straße,1990,"['Action', 'Crime', 'Drama']",5.1
+454,John Travolta,Kuck' mal wer da spricht!,1989,['Comedy'],5.9
+455,John Travolta,Die Experten,1989,['Comedy'],4.9
+456,John Travolta,Perfect,1985,"['Drama', 'Romance']",4.7
+457,John Travolta,Zwei vom gleichen Schlag,1983,"['Comedy', 'Fantasy', 'Romance']",4.7
+458,John Travolta,Staying Alive,1983,"['Drama', 'Music', 'Romance']",4.8
+459,John Travolta,Blow Out - Der Tod löscht alle Spuren,1981,"['Crime', 'Drama', 'Mystery']",7.4
+460,John Travolta,Urban Cowboy,1980,"['Drama', 'Romance', 'Western']",6.4
+461,John Travolta,Von Augenblick zu Augenblick,1978,"['Drama', 'Romance']",3.1
+462,John Travolta,Grease,1978,"['Comedy', 'Musical', 'Romance']",7.2
+463,John Travolta,Nur Samstag Nacht,1977,"['Drama', 'Music']",6.8
+464,John Travolta,Carrie: Des Satans jüngste Tochter,1976,"['Horror', 'Mystery']",7.4
+465,John Travolta,"Nachts, wenn die Leichen schreien",1975,['Horror'],5.1
+466,Arnold Schwarzenegger,Terminator: Dark Fate,2019,"['Action', 'Adventure', 'Sci-Fi']",6.2
+467,Arnold Schwarzenegger,The Iron Mask,2019,"['Action', 'Adventure', 'Fantasy']",4.7
+468,Arnold Schwarzenegger,Killing Gunther,2017,"['Action', 'Comedy', 'Thriller']",4.8
+469,Arnold Schwarzenegger,Vendetta: Alles was ihm blieb war Rache,2017,"['Drama', 'Mystery', 'Thriller']",5.7
+470,Arnold Schwarzenegger,Terminator - Genisys,2015,"['Action', 'Adventure', 'Sci-Fi']",6.3
+471,Arnold Schwarzenegger,Maggie,2015,"['Drama', 'Horror', 'Sci-Fi']",5.6
+472,Arnold Schwarzenegger,The Expendables 3,2014,"['Action', 'Adventure', 'Thriller']",6.1
+473,Arnold Schwarzenegger,Sabotage,2014,"['Action', 'Crime', 'Drama']",5.7
+474,Arnold Schwarzenegger,Escape Plan,2013,"['Action', 'Thriller']",6.7
+475,Arnold Schwarzenegger,The Last Stand,2013,"['Action', 'Thriller', 'Western']",6.3
+476,Arnold Schwarzenegger,The Expendables 2,2012,"['Action', 'Adventure', 'Thriller']",6.6
+477,Arnold Schwarzenegger,The Expendables,2010,"['Action', 'Adventure', 'Thriller']",6.4
+478,Arnold Schwarzenegger,The Kid & I,2005,['Comedy'],5.2
+479,Arnold Schwarzenegger,In 80 Tagen um die Welt,2004,"['Action', 'Adventure', 'Comedy']",5.9
+480,Arnold Schwarzenegger,Welcome to the Jungle,2003,"['Action', 'Adventure', 'Comedy']",6.7
+481,Arnold Schwarzenegger,Terminator 3: Rebellion der Maschinen,2003,"['Action', 'Sci-Fi']",6.3
+482,Arnold Schwarzenegger,Collateral Damage - Zeit der Vergeltung,2002,"['Action', 'Drama', 'Thriller']",5.5
+483,Arnold Schwarzenegger,The 6th Day,2000,"['Action', 'Mystery', 'Sci-Fi']",5.9
+484,Arnold Schwarzenegger,End of Days - Nacht ohne morgen,1999,"['Action', 'Fantasy', 'Horror']",5.8
+485,Arnold Schwarzenegger,Batman & Robin,1997,"['Action', 'Sci-Fi']",3.8
+486,Arnold Schwarzenegger,Versprochen ist versprochen,1996,"['Adventure', 'Comedy', 'Family']",5.7
+487,Arnold Schwarzenegger,Eraser,1996,"['Action', 'Crime', 'Thriller']",6.2
+488,Arnold Schwarzenegger,Junior,1994,"['Comedy', 'Romance', 'Sci-Fi']",4.7
+489,Arnold Schwarzenegger,True Lies - Wahre Lügen,1994,"['Action', 'Comedy', 'Thriller']",7.3
+490,Arnold Schwarzenegger,Last Action Hero,1993,"['Action', 'Adventure', 'Comedy']",6.5
+491,Arnold Schwarzenegger,Terminator 2: Tag der Abrechnung,1991,"['Action', 'Adventure', 'Sci-Fi']",8.6
+492,Arnold Schwarzenegger,Kindergarten Cop,1990,"['Action', 'Comedy', 'Crime']",6.2
+493,Arnold Schwarzenegger,Total Recall - Die totale Erinnerung,1990,"['Action', 'Adventure', 'Sci-Fi']",7.5
+494,Arnold Schwarzenegger,Twins - Zwillinge,1988,"['Comedy', 'Crime']",6.2
+495,Arnold Schwarzenegger,Red Heat,1988,"['Action', 'Comedy', 'Crime']",6.1
+496,Arnold Schwarzenegger,Running Man,1987,"['Action', 'Sci-Fi', 'Thriller']",6.6
+497,Arnold Schwarzenegger,Predator,1987,"['Action', 'Adventure', 'Horror']",7.8
+498,Arnold Schwarzenegger,Der City Hai,1986,"['Action', 'Crime', 'Thriller']",5.6
+499,Arnold Schwarzenegger,Phantom Kommando,1985,"['Action', 'Adventure', 'Thriller']",6.7
+500,Arnold Schwarzenegger,Red Sonja,1985,"['Action', 'Adventure', 'Fantasy']",5.1
+501,Arnold Schwarzenegger,Terminator,1984,"['Action', 'Adventure', 'Sci-Fi']",8.1
+502,Arnold Schwarzenegger,Conan der Zerstörer,1984,"['Action', 'Adventure', 'Fantasy']",5.9
+503,Arnold Schwarzenegger,"Conan, der Barbar",1982,"['Action', 'Adventure', 'Fantasy']",6.9
+504,Arnold Schwarzenegger,Scavenger Hunt,1979,['Comedy'],5.8
+505,Arnold Schwarzenegger,Kaktus Jack,1979,"['Comedy', 'Western']",5.3
+506,Arnold Schwarzenegger,Mister Universum,1976,"['Comedy', 'Drama']",5.6
+507,Arnold Schwarzenegger,Der Tod kennt keine Wiederkehr,1973,"['Comedy', 'Crime', 'Drama']",7.5
+508,Arnold Schwarzenegger,Hercules in New York,1970,"['Adventure', 'Comedy', 'Fantasy']",3.3
+509,Sylvester Stallone,The Expendables 4,2023,"['Action', 'Adventure', 'Thriller']",4.8
+510,Sylvester Stallone,Guardians of the Galaxy Vol. 3,2023,"['Action', 'Adventure', 'Comedy']",7.9
+511,Sylvester Stallone,Samaritan,2022,"['Action', 'Drama', 'Fantasy']",5.7
+512,Sylvester Stallone,The Suicide Squad,2021,"['Action', 'Adventure', 'Comedy']",7.2
+513,Sylvester Stallone,Rambo: Last Blood,2019,"['Action', 'Crime', 'Thriller']",6.1
+514,Sylvester Stallone,Escape Plan: The Extractors,2019,"['Action', 'Crime', 'Thriller']",4.4
+515,Sylvester Stallone,Backtrace,2018,"['Action', 'Crime', 'Drama']",3.8
+516,Sylvester Stallone,Creed II: Rocky's Legacy,2018,"['Action', 'Drama', 'Sport']",7.1
+517,Sylvester Stallone,Escape Plan 2: Hades,2018,"['Action', 'Crime', 'Mystery']",3.9
+518,Sylvester Stallone,Ein tierischer Zirkus,2017,"['Animation', 'Adventure', 'Comedy']",5.8
+519,Sylvester Stallone,Guardians of the Galaxy Vol. 2,2017,"['Action', 'Adventure', 'Comedy']",7.6
+520,Sylvester Stallone,Ratchet & Clank,2016,"['Animation', 'Action', 'Adventure']",5.5
+521,Sylvester Stallone,Creed: Rocky's Legacy,2015,"['Action', 'Drama', 'Sport']",7.6
+522,Sylvester Stallone,Reach Me - Stop at Nothing,2014,"['Comedy', 'Crime', 'Drama']",4.9
+523,Sylvester Stallone,The Expendables 3,2014,"['Action', 'Adventure', 'Thriller']",6.1
+524,Sylvester Stallone,Zwei vom alten Schlag,2013,"['Comedy', 'Drama', 'Sport']",6.4
+525,Sylvester Stallone,Escape Plan,2013,"['Action', 'Thriller']",6.7
+526,Sylvester Stallone,Shootout - Keine Gnade,2012,"['Action', 'Crime', 'Thriller']",5.7
+527,Sylvester Stallone,The Expendables 2,2012,"['Action', 'Adventure', 'Thriller']",6.6
+528,Sylvester Stallone,Der Zoowärter,2011,"['Comedy', 'Family', 'Fantasy']",5.2
+529,Sylvester Stallone,The Expendables,2010,"['Action', 'Adventure', 'Thriller']",6.4
+530,Sylvester Stallone,Kambakkht Ishq,2009,"['Action', 'Comedy', 'Romance']",3.8
+531,Sylvester Stallone,John Rambo,2008,"['Action', 'Adventure', 'Thriller']",7.0
+532,Sylvester Stallone,Rocky Balboa,2006,"['Action', 'Drama', 'Sport']",7.1
+533,Sylvester Stallone,Spy Kids 3: Game Over,2003,"['Action', 'Adventure', 'Comedy']",4.4
+534,Sylvester Stallone,Shade,2003,"['Crime', 'Thriller']",6.3
+535,Sylvester Stallone,Taxi 3,2003,"['Action', 'Comedy', 'Crime']",5.8
+536,Sylvester Stallone,Avenging Angelo - Die Liebe eines Bodyguard,2002,"['Action', 'Comedy', 'Crime']",5.1
+537,Sylvester Stallone,D-Tox - Im Auge der Angst,2002,"['Crime', 'Thriller']",5.3
+538,Sylvester Stallone,Driven,2001,"['Action', 'Drama', 'Sport']",4.6
+539,Sylvester Stallone,Get Carter - Die Wahrheit tut weh,2000,"['Action', 'Crime', 'Drama']",5.1
+540,Sylvester Stallone,Antz,1998,"['Animation', 'Adventure', 'Comedy']",6.5
+541,Sylvester Stallone,The Good Life,1997,"['Comedy', 'Crime']",4.5
+542,Sylvester Stallone,Fahr zur Hölle Hollywood,1997,['Comedy'],3.5
+543,Sylvester Stallone,Cop Land,1997,"['Crime', 'Drama', 'Thriller']",7.0
+544,Sylvester Stallone,Daylight,1996,"['Action', 'Adventure', 'Drama']",5.9
+545,Sylvester Stallone,Assassins - Die Killer,1995,"['Action', 'Crime', 'Thriller']",6.3
+546,Sylvester Stallone,Judge Dredd,1995,"['Action', 'Crime', 'Sci-Fi']",5.6
+547,Sylvester Stallone,The Specialist,1994,"['Action', 'Drama', 'Thriller']",5.6
+548,Sylvester Stallone,Demolition Man,1993,"['Action', 'Sci-Fi', 'Thriller']",6.7
+549,Sylvester Stallone,Cliffhanger - Nur die Starken überleben,1993,"['Action', 'Adventure', 'Thriller']",6.5
+550,Sylvester Stallone,Stop! Oder meine Mami schießt!,1992,"['Action', 'Comedy']",4.4
+551,Sylvester Stallone,Oscar - Vom Regen in die Traufe,1991,"['Comedy', 'Crime']",6.5
+552,Sylvester Stallone,Rocky V,1990,"['Drama', 'Sport']",5.4
+553,Sylvester Stallone,Tango und Cash,1989,"['Action', 'Comedy', 'Crime']",6.4
+554,Sylvester Stallone,Lock Up,1989,"['Action', 'Crime', 'Drama']",6.4
+555,Sylvester Stallone,Rambo III,1988,"['Action', 'Adventure', 'Thriller']",5.8
+556,Sylvester Stallone,Over the Top: Mein Daddy schlägt sie alle,1987,"['Action', 'Drama', 'Sport']",5.8
+557,Sylvester Stallone,Die City-Cobra,1986,"['Action', 'Crime', 'Thriller']",5.8
+558,Sylvester Stallone,Rocky IV - Der Kampf des Jahrhunderts,1985,"['Drama', 'Sport']",6.9
+559,Sylvester Stallone,Rambo II - Der Auftrag,1985,"['Action', 'Adventure', 'Thriller']",6.5
+560,Sylvester Stallone,Der Senkrechtstarter,1984,"['Comedy', 'Music']",4.0
+561,Sylvester Stallone,Staying Alive,1983,"['Drama', 'Music', 'Romance']",4.8
+562,Sylvester Stallone,Rambo,1982,"['Action', 'Adventure', 'Thriller']",7.7
+563,Sylvester Stallone,Rocky III - Das Auge des Tigers,1982,"['Drama', 'Sport']",6.8
+564,Sylvester Stallone,Flucht oder Sieg,1981,"['Drama', 'Sport', 'War']",6.6
+565,Sylvester Stallone,Nachtfalken,1981,"['Action', 'Crime', 'Thriller']",6.3
+566,Sylvester Stallone,Rocky II,1979,"['Drama', 'Sport']",7.3
+567,Sylvester Stallone,Vorhof zum Paradies,1978,['Drama'],5.7
+568,Sylvester Stallone,F.I.S.T. - Ein Mann geht seinen Weg,1978,"['Crime', 'Drama', 'Thriller']",6.4
+569,Sylvester Stallone,Rocky,1976,"['Drama', 'Sport']",8.1
+570,Sylvester Stallone,Cannonball,1976,"['Action', 'Comedy', 'Crime']",5.5
+571,Sylvester Stallone,"Fahr zur Hölle, Liebling",1975,"['Crime', 'Mystery', 'Thriller']",7.0
+572,Sylvester Stallone,Frankensteins Todesrennen,1975,"['Action', 'Comedy', 'Sci-Fi']",6.2
+573,Sylvester Stallone,Capone,1975,"['Biography', 'Crime', 'Drama']",5.7
+574,Sylvester Stallone,Das Nervenbündel,1975,['Comedy'],6.7
+575,Sylvester Stallone,Brooklyn Blues - Das Gesetz der Gosse,1974,"['Comedy', 'Drama', 'Romance']",5.6
+576,Sylvester Stallone,Der letzte Ausweg,1973,"['Drama', 'Thriller']",4.0
+577,Sylvester Stallone,Bananas,1971,['Comedy'],6.9
+578,Sylvester Stallone,The Sidelong Glances of a Pigeon Kicker,1970,['Comedy'],6.0
+579,Sylvester Stallone,Randy - Die Sexabenteuer des Sylvester Stallone,1970,"['Comedy', 'Drama', 'Romance']",2.4
+580,Sylvester Stallone,M*A*S*H,1970,"['Comedy', 'Drama', 'War']",7.4
+581,Sylvester Stallone,The Square Root,1969,['Drama'],5.4
+582,Kate Winslet,Die Fotografin,2023,"['Biography', 'Drama', 'History']",6.9
+583,Kate Winslet,Avatar: The Way of Water,2022,"['Action', 'Adventure', 'Fantasy']",7.5
+584,Kate Winslet,Black Beauty,2020,"['Drama', 'Family']",6.4
+585,Kate Winslet,Ammonite,2020,"['Drama', 'History', 'Romance']",6.5
+586,Kate Winslet,Blackbird: Eine Familiengeschichte,2019,['Drama'],6.6
+587,Kate Winslet,Manou - flieg' flink!,2019,"['Animation', 'Adventure', 'Comedy']",5.4
+588,Kate Winslet,Buttons,2018,"['Drama', 'Family', 'Fantasy']",5.4
+589,Kate Winslet,Wonder Wheel,2017,"['Drama', 'Romance']",6.2
+590,Kate Winslet,Zwischen zwei Leben,2017,"['Drama', 'Thriller']",6.4
+591,Kate Winslet,Mary und die Blume der Hexen,2017,"['Animation', 'Adventure', 'Family']",6.8
+592,Kate Winslet,Verborgene Schönheit,2016,"['Drama', 'Romance']",6.8
+593,Kate Winslet,Triple 9,2016,"['Action', 'Crime', 'Drama']",6.3
+594,Kate Winslet,The Dressmaker - Die Schneiderin,2015,"['Comedy', 'Drama', 'Western']",7.0
+595,Kate Winslet,Steve Jobs,2015,"['Biography', 'Drama']",7.2
+596,Kate Winslet,Die Bestimmung - Insurgent,2015,"['Action', 'Adventure', 'Sci-Fi']",6.2
+597,Kate Winslet,Die Gärtnerin von Versailles,2014,"['Drama', 'Romance']",6.5
+598,Kate Winslet,Die Bestimmung - Divergent,2014,"['Action', 'Adventure', 'Mystery']",6.6
+599,Kate Winslet,Labor Day,2013,"['Drama', 'Romance', 'Thriller']",6.9
+600,Kate Winslet,Movie 43,2013,['Comedy'],4.3
+601,Kate Winslet,Contagion,2011,"['Drama', 'Thriller']",6.8
+602,Kate Winslet,Der Gott des Gemetzels,2011,"['Comedy', 'Drama']",7.1
+603,Kate Winslet,Zeiten des Aufruhrs,2008,"['Drama', 'Romance']",7.3
+604,Kate Winslet,Der Vorleser,2008,"['Drama', 'Mystery', 'Romance']",7.6
+605,Kate Winslet,New York für Anfänger,2008,"['Biography', 'Comedy', 'Drama']",6.4
+606,Kate Winslet,Der Fuchs und das Mädchen,2007,"['Drama', 'Family']",6.8
+607,Kate Winslet,Liebe braucht keine Ferien,2006,"['Comedy', 'Romance']",6.9
+608,Kate Winslet,Flutsch und weg,2006,"['Animation', 'Action', 'Adventure']",6.6
+609,Kate Winslet,Das Spiel der Macht,2006,"['Drama', 'Thriller']",6.1
+610,Kate Winslet,Little Children,2006,"['Drama', 'Romance']",7.5
+611,Kate Winslet,Romance & Cigarettes,2005,"['Comedy', 'Musical', 'Romance']",6.2
+612,Kate Winslet,Wenn Träume fliegen lernen,2004,"['Biography', 'Drama', 'Family']",7.7
+613,Kate Winslet,Vergiss mein nicht,2004,"['Drama', 'Romance', 'Sci-Fi']",8.3
+614,Kate Winslet,Plunge: The Movie,2003,['Drama'],6.2
+615,Kate Winslet,Das Leben des David Gale,2003,"['Crime', 'Drama', 'Mystery']",7.5
+616,Kate Winslet,Iris,2001,"['Biography', 'Drama', 'Romance']",7.0
+617,Kate Winslet,Ein Weihnachtsmärchen,2001,"['Animation', 'Family', 'Fantasy']",5.4
+618,Kate Winslet,Enigma - Das Geheimnis,2001,"['Drama', 'Mystery', 'Romance']",6.4
+619,Kate Winslet,Quills - Macht der Besessenheit,2000,"['Biography', 'Drama']",7.2
+620,Kate Winslet,Holy Smoke!,1999,"['Comedy', 'Drama']",5.9
+621,Kate Winslet,Entführung ins Elfenreich,1999,"['Animation', 'Adventure', 'Family']",5.4
+622,Kate Winslet,Marrakesch,1998,"['Adventure', 'Drama', 'Romance']",6.0
+623,Kate Winslet,Titanic,1997,"['Drama', 'Romance']",7.9
+624,Kate Winslet,Hamlet,1996,['Drama'],7.7
+625,Kate Winslet,Herzen in Aufruhr,1996,"['Drama', 'Romance']",6.9
+626,Kate Winslet,Sinn und Sinnlichkeit,1995,"['Drama', 'Romance']",7.7
+627,Kate Winslet,Knightskater - Ritter auf Rollerblades,1995,"['Adventure', 'Comedy', 'Family']",4.7
+628,Kate Winslet,Heavenly Creatures,1994,"['Biography', 'Crime', 'Drama']",7.3
+629,Christian Bale,Der Junge und der Reiher,2023,"['Animation', 'Adventure', 'Drama']",7.6
+630,Christian Bale,Der denkwürdige Fall des Mr Poe,2022,"['Crime', 'Horror', 'Mystery']",6.6
+631,Christian Bale,Amsterdam,2022,"['Comedy', 'Drama', 'History']",6.1
+632,Christian Bale,Thor: Love and Thunder,2022,"['Action', 'Adventure', 'Comedy']",6.2
+633,Christian Bale,Le Mans 66 - Gegen jede Chance,2019,"['Action', 'Biography', 'Drama']",8.1
+634,Christian Bale,Vice - Der zweite Mann,2018,"['Biography', 'Comedy', 'Drama']",7.2
+635,Christian Bale,Mogli: Legende des Dschungels,2018,"['Adventure', 'Drama', 'Fantasy']",6.5
+636,Christian Bale,Feinde - Hostiles,2017,"['Drama', 'Western']",7.2
+637,Christian Bale,The Promise: Die Erinnerung bleibt,2016,"['Action', 'Adventure', 'Drama']",6.1
+638,Christian Bale,The Big Short,2015,"['Biography', 'Comedy', 'Drama']",7.8
+639,Christian Bale,Knight of Cups,2015,"['Drama', 'Fantasy', 'Romance']",5.6
+640,Christian Bale,Exodus: Götter und Könige,2014,"['Action', 'Adventure', 'Drama']",6.0
+641,Christian Bale,American Hustle,2013,"['Crime', 'Drama']",7.2
+642,Christian Bale,Auge um Auge - Out of the Furnace,2013,"['Action', 'Crime', 'Drama']",6.7
+643,Christian Bale,The Dark Knight Rises,2012,"['Action', 'Drama', 'Thriller']",8.4
+644,Christian Bale,The Flowers of War,2011,"['Drama', 'History', 'Romance']",7.5
+645,Christian Bale,The Fighter,2010,"['Action', 'Biography', 'Drama']",7.8
+646,Christian Bale,Public Enemies,2009,"['Action', 'Biography', 'Crime']",7.0
+647,Christian Bale,Terminator: Die Erlösung,2009,"['Action', 'Adventure', 'Sci-Fi']",6.5
+648,Christian Bale,The Dark Knight,2008,"['Action', 'Crime', 'Drama']",9.0
+649,Christian Bale,I'm Not There,2007,"['Biography', 'Drama', 'Music']",6.8
+650,Christian Bale,Todeszug nach Yuma,2007,"['Action', 'Crime', 'Drama']",7.6
+651,Christian Bale,Prestige - Die Meister der Magie,2006,"['Drama', 'Mystery', 'Sci-Fi']",8.5
+652,Christian Bale,Rescue Dawn,2006,"['Adventure', 'Biography', 'War']",7.3
+653,Christian Bale,The New World,2005,"['Biography', 'Drama', 'History']",6.7
+654,Christian Bale,Batman Begins,2005,"['Action', 'Crime', 'Drama']",8.2
+655,Christian Bale,Harsh Times - Leben am Limit,2005,"['Action', 'Crime', 'Drama']",6.8
+656,Christian Bale,Das wandelnde Schloss,2004,"['Animation', 'Adventure', 'Family']",8.2
+657,Christian Bale,Der Maschinist,2004,"['Drama', 'Thriller']",7.6
+658,Christian Bale,Equilibrium,2002,"['Action', 'Drama', 'Sci-Fi']",7.3
+659,Christian Bale,Die Herrschaft des Feuers,2002,"['Action', 'Adventure', 'Fantasy']",6.2
+660,Christian Bale,Laurel Canyon,2002,['Drama'],6.4
+661,Christian Bale,Corellis Mandoline,2001,"['Drama', 'Music', 'Romance']",5.9
+662,Christian Bale,Shaft - Noch Fragen?,2000,"['Action', 'Crime', 'Thriller']",6.0
+663,Christian Bale,American Psycho,2000,"['Crime', 'Drama', 'Horror']",7.6
+664,Christian Bale,Ein Sommernachtstraum,1999,"['Comedy', 'Fantasy', 'Romance']",6.4
+665,Christian Bale,All the Little Animals,1998,"['Adventure', 'Drama', 'Thriller']",6.7
+666,Christian Bale,Velvet Goldmine,1998,"['Drama', 'Music']",6.9
+667,Christian Bale,Metroland,1997,"['Comedy', 'Drama']",6.3
+668,Christian Bale,Der Geheimagent,1996,"['Drama', 'Thriller']",5.6
+669,Christian Bale,Portrait of a Lady,1996,"['Drama', 'Romance']",6.2
+670,Christian Bale,Pocahontas,1995,"['Animation', 'Adventure', 'Drama']",6.7
+671,Christian Bale,Betty und ihre Schwestern,1994,"['Drama', 'Family', 'Romance']",7.3
+672,Christian Bale,Prince of Jutland,1994,"['Adventure', 'Drama']",5.4
+673,Christian Bale,Swing Kids,1993,"['Drama', 'Music']",6.7
+674,Christian Bale,Die Zeitungsjungen,1992,"['Drama', 'Family', 'History']",6.9
+675,Christian Bale,Henry V.,1989,"['Biography', 'Drama', 'History']",7.5
+676,Christian Bale,Das Reich der Sonne,1987,"['Drama', 'War']",7.7
+677,Christian Bale,"Mio, mein Mio",1987,"['Adventure', 'Family', 'Fantasy']",6.3
+678,Morgan Freeman,My Dead Friend Zoe,2024,"['Comedy', 'Drama', 'War']",7.6
+679,Morgan Freeman,57 Seconds,2023,"['Sci-Fi', 'Thriller']",5.4
+680,Morgan Freeman,A Good Person,2023,['Drama'],7.1
+681,Morgan Freeman,The Ritual Killer,2023,"['Crime', 'Mystery', 'Thriller']",4.3
+682,Morgan Freeman,The Minute you wake up dead,2022,"['Drama', 'Mystery', 'Thriller']",4.5
+683,Morgan Freeman,Paradise Highway,2022,"['Crime', 'Drama', 'Thriller']",5.7
+684,Morgan Freeman,Killer's Bodyguard 2,2021,"['Action', 'Comedy', 'Crime']",6.1
+685,Morgan Freeman,Vanquish,2021,"['Action', 'Thriller']",3.0
+686,Morgan Freeman,Der Prinz aus Zamunda 2,2021,"['Comedy', 'Music']",5.3
+687,Morgan Freeman,Kings of Hollywood,2020,"['Comedy', 'Crime']",5.7
+688,Keanu Reeves,John Wick: Kapitel 4,2023,"['Action', 'Crime', 'Thriller']",7.7
+689,Keanu Reeves,DC League of Super-Pets,2022,"['Animation', 'Action', 'Adventure']",7.1
+690,Keanu Reeves,Matrix Resurrections,2021,"['Action', 'Sci-Fi']",5.7
+691,Keanu Reeves,Bill & Ted retten das Universum,2020,"['Adventure', 'Comedy', 'Music']",5.9
+692,Keanu Reeves,SpongeBob Schwammkopf: Eine schwammtastische Rettung,2020,"['Animation', 'Adventure', 'Comedy']",5.9
+693,Keanu Reeves,Zwischen zwei Farnen: Der Film,2019,['Comedy'],6.1
+694,Keanu Reeves,A Toy Story: Alles hört auf kein Kommando,2019,"['Animation', 'Adventure', 'Comedy']",7.7
+695,Keanu Reeves,Always Be My Maybe,2019,"['Comedy', 'Romance']",6.7
+696,Keanu Reeves,John Wick: Kapitel 3,2019,"['Action', 'Crime', 'Thriller']",7.4
+697,Keanu Reeves,Replicas,2018,"['Action', 'Drama', 'Sci-Fi']",5.5
+698,Keanu Reeves,Destination Wedding,2018,"['Comedy', 'Drama', 'Romance']",6.0
+699,Keanu Reeves,Siberia - Tödliche Nähe,2018,"['Crime', 'Drama', 'Romance']",4.3
+700,Keanu Reeves,Career Day mit Hindernissen,2017,"['Comedy', 'Drama']",4.8
+701,Keanu Reeves,John Wick: Kapitel 2,2017,"['Action', 'Crime', 'Thriller']",7.4
+702,Keanu Reeves,To the Bone,2017,['Drama'],6.8
+703,Keanu Reeves,The Bad Batch,2016,"['Action', 'Horror', 'Mystery']",5.2
+704,Keanu Reeves,The Neon Demon,2016,"['Horror', 'Thriller']",6.1
+705,Keanu Reeves,Lügenspiel,2016,"['Crime', 'Drama', 'Mystery']",6.2
+706,Keanu Reeves,Keanu,2016,"['Action', 'Comedy', 'Crime']",6.2
+707,Keanu Reeves,Exposed: Blutige Offenbarung,2016,"['Crime', 'Drama', 'Mystery']",4.3
+708,Keanu Reeves,Knock Knock,2015,"['Crime', 'Thriller']",4.9
+709,Keanu Reeves,John Wick,2014,"['Action', 'Crime', 'Thriller']",7.4
+710,Keanu Reeves,47 Ronin,2013,"['Action', 'Drama', 'Fantasy']",6.2
+711,Keanu Reeves,Man of Tai Chi,2013,"['Action', 'Drama']",6.0
+712,Keanu Reeves,Threesome - Eine Nacht in New York,2012,['Drama'],3.9
+713,Keanu Reeves,Henry & Julie - Der Gangster und die Diva,2010,"['Comedy', 'Crime', 'Drama']",5.9
+714,Keanu Reeves,Pippa Lee,2009,"['Comedy', 'Drama', 'Romance']",6.3
+715,Keanu Reeves,"Der Tag, an dem die Erde stillstand",2008,"['Adventure', 'Drama', 'Sci-Fi']",5.5
+716,Keanu Reeves,Street Kings,2008,"['Action', 'Crime', 'Thriller']",6.8
+717,Keanu Reeves,Das Haus am See,2006,"['Drama', 'Fantasy', 'Romance']",6.8
+718,Keanu Reeves,A Scanner Darkly - Der dunkle Schirm,2006,"['Animation', 'Comedy', 'Crime']",7.0
+719,Keanu Reeves,Constantine,2005,"['Action', 'Fantasy', 'Horror']",7.0
+720,Keanu Reeves,Thumbsucker - Bleib wie du bist!,2005,"['Comedy', 'Drama']",6.5
+721,Keanu Reeves,Elli Parker - Schauspielerin,2005,"['Comedy', 'Drama']",5.6
+722,Keanu Reeves,Was das Herz begehrt,2003,"['Comedy', 'Drama', 'Romance']",6.7
+723,Keanu Reeves,Matrix Revolutions,2003,"['Action', 'Sci-Fi']",6.7
+724,Keanu Reeves,Matrix Reloaded,2003,"['Action', 'Sci-Fi']",7.2
+725,Keanu Reeves,Hardball,2001,"['Comedy', 'Drama', 'Sport']",6.4
+726,Keanu Reeves,Sweet November - Eine Liebe im Herbst,2001,"['Drama', 'Romance']",6.7
+727,Keanu Reeves,The Gift - Die dunkle Gabe,2000,"['Drama', 'Fantasy', 'Horror']",6.7
+728,Keanu Reeves,The Watcher,2000,"['Crime', 'Drama', 'Mystery']",5.3
+729,Keanu Reeves,Helden aus der zweiten Reihe,2000,"['Comedy', 'Sport']",6.6
+730,Keanu Reeves,Me and Will,1999,['Drama'],5.1
+731,Keanu Reeves,Matrix,1999,"['Action', 'Sci-Fi']",8.7
+732,Keanu Reeves,Im Auftrag des Teufels,1997,"['Drama', 'Fantasy', 'Mystery']",7.5
+733,Keanu Reeves,Wie ich zum ersten Mal Selbstmord beging,1997,"['Biography', 'Drama', 'Romance']",5.5
+734,Keanu Reeves,Minnesota,1996,"['Comedy', 'Crime', 'Drama']",5.4
+735,Keanu Reeves,Außer Kontrolle,1996,"['Action', 'Drama', 'Sci-Fi']",5.6
+736,Keanu Reeves,Dem Himmel so nah,1995,"['Drama', 'Romance']",6.7
+737,Keanu Reeves,Vernetzt - Johnny Mnemonic,1995,"['Action', 'Drama', 'Sci-Fi']",5.6
+738,Keanu Reeves,Speed,1994,"['Action', 'Adventure', 'Thriller']",7.3
+739,Keanu Reeves,Little Buddha,1993,['Drama'],6.1
+740,Keanu Reeves,Cowgirl Blues,1993,"['Comedy', 'Drama', 'Romance']",4.3
+741,Keanu Reeves,Viel Lärm um nichts,1993,"['Comedy', 'Drama', 'Romance']",7.3
+742,Keanu Reeves,Freaked Monstrum,1993,"['Comedy', 'Sci-Fi']",6.4
+743,Keanu Reeves,Bram Stokers Dracula,1992,"['Fantasy', 'Horror', 'Romance']",7.4
+744,Keanu Reeves,My Private Idaho,1991,['Drama'],7.0
+745,Keanu Reeves,Bill & Teds verrückte Reise in die Zukunft,1991,"['Adventure', 'Comedy', 'Fantasy']",6.3
+746,Keanu Reeves,Gefährliche Brandung,1991,"['Action', 'Crime', 'Thriller']",7.3
+747,Keanu Reeves,Providence,1991,['Drama'],5.3
+748,Keanu Reeves,Julia und ihre Liebhaber,1990,"['Comedy', 'Romance']",6.1
+749,Keanu Reeves,Ich liebe Dich zu Tode,1990,"['Comedy', 'Crime']",6.4
+750,Keanu Reeves,Eine Wahnsinnsfamilie,1989,"['Comedy', 'Drama']",7.1
+751,Keanu Reeves,Bill & Teds verrückte Reise durch die Zeit,1989,"['Adventure', 'Comedy', 'Music']",6.9
+752,Keanu Reeves,Gefährliche Liebschaften,1988,"['Drama', 'Romance']",7.5
+753,Keanu Reeves,Der Prinz von Pennsylvania,1988,"['Comedy', 'Drama']",5.6
+754,Keanu Reeves,The Last Song,1988,"['Drama', 'Music', 'Romance']",6.3
+755,Keanu Reeves,Eine verrückte Reise durch die Nacht,1988,['Comedy'],6.1
+756,Keanu Reeves,Das Messer am Ufer,1986,"['Crime', 'Drama']",6.9
+757,Keanu Reeves,Träume werden wahr,1986,"['Drama', 'Romance', 'Sport']",5.1
+758,Keanu Reeves,Bodycheck,1986,"['Drama', 'Romance', 'Sport']",6.2
+759,Nicolas Cage,Longlegs,2024,"['Crime', 'Horror', 'Thriller']",8.2
+760,Nicolas Cage,The Surfer,2024,['Thriller'],6.9
+761,Nicolas Cage,Arcadian,2024,"['Action', 'Horror', 'Thriller']",5.5
+762,Nicolas Cage,The Retirement Plan,2023,"['Action', 'Comedy', 'Crime']",5.1
+763,Nicolas Cage,Dream Scenario,2023,"['Comedy', 'Drama', 'Fantasy']",6.9
+764,Nicolas Cage,Sympathy for the devil,2023,"['Action', 'Thriller']",5.5
+765,Nicolas Cage,The Flash,2023,"['Action', 'Adventure', 'Fantasy']",6.7
+766,Nicolas Cage,Renfield,2023,"['Action', 'Comedy', 'Fantasy']",6.4
+767,Nicolas Cage,The Old Way,2023,"['Action', 'Drama', 'Western']",5.5
+768,Nicolas Cage,Butcher's Crossing,2022,"['Adventure', 'Drama', 'Western']",5.6
+769,Nicolas Cage,Massive Talent,2022,"['Action', 'Comedy', 'Crime']",7.0
+770,Nicolas Cage,Pig,2021,"['Drama', 'Mystery']",6.9
+771,Nicolas Cage,Willy's Wonderland,2021,"['Action', 'Comedy', 'Horror']",5.5
+772,Nicolas Cage,Prisoners of the Ghostland,2021,"['Fantasy', 'Horror', 'Thriller']",4.2
+773,Nicolas Cage,Die Croods - Alles auf Anfang,2020,"['Animation', 'Adventure', 'Comedy']",6.9
+774,Nicolas Cage,Jiu Jitsu,2020,"['Action', 'Sci-Fi', 'Thriller']",2.9
+775,Nicolas Cage,Grand Isle,2019,"['Crime', 'Mystery', 'Thriller']",4.7
+776,Nicolas Cage,Primal,2019,"['Action', 'Thriller']",4.9
+777,Nicolas Cage,Kill Chain,2019,"['Action', 'Thriller']",5.0
+778,Nicolas Cage,Running with the Devil,2019,"['Crime', 'Drama', 'Thriller']",5.4
+779,Nicolas Cage,Die Farbe aus dem All,2019,"['Horror', 'Mystery', 'Sci-Fi']",6.2
+780,Nicolas Cage,A Score to Settle,2019,"['Action', 'Crime', 'Drama']",4.8
+781,Nicolas Cage,Spider-Man: A New Universe,2018,"['Animation', 'Action', 'Adventure']",8.4
+782,Nicolas Cage,Between Worlds,2018,"['Fantasy', 'Mystery', 'Thriller']",3.9
+783,Nicolas Cage,Teen Titans GO! to the Movies,2018,"['Animation', 'Action', 'Adventure']",6.7
+784,Nicolas Cage,211 - Cops Under Fire,2018,"['Action', 'Drama', 'Horror']",4.4
+785,Nicolas Cage,The Watcher - Willkommen im Motor Way Motel,2018,"['Mystery', 'Thriller']",4.7
+786,Nicolas Cage,Mandy,2018,"['Action', 'Fantasy', 'Horror']",6.5
+787,Nicolas Cage,Dark,2017,"['Drama', 'Thriller']",6.0
+788,Nicolas Cage,The Humanity Bureau - Flucht aus New America,2017,"['Sci-Fi', 'Thriller']",4.5
+789,Nicolas Cage,Mom and Dad,2017,"['Comedy', 'Horror', 'Thriller']",5.6
+790,Nicolas Cage,Tödliches Verlangen,2017,"['Drama', 'Thriller']",5.2
+791,Nicolas Cage,Vengeance - Pfad der Vergeltung,2017,"['Action', 'Adventure', 'Crime']",5.2
+792,Nicolas Cage,Arsenal,2017,"['Action', 'Crime', 'Thriller']",4.0
+793,Nicolas Cage,Army of One: Ein Mann auf göttlicher Mission,2016,"['Biography', 'Comedy', 'Crime']",5.2
+794,Nicolas Cage,USS Indianapolis: Men of Courage,2016,"['Action', 'Drama', 'History']",5.3
+795,Nicolas Cage,Snowden,2016,"['Biography', 'Crime', 'Drama']",7.3
+796,Nicolas Cage,Dog Eat Dog,2016,"['Action', 'Crime', 'Thriller']",4.8
+797,Nicolas Cage,The Trust: Big Trouble in Sin City,2016,"['Action', 'Crime', 'Mystery']",5.5
+798,Nicolas Cage,Pay the Ghost,2015,"['Horror', 'Mystery']",5.2
+799,Nicolas Cage,Der Kandidat - Macht hat Ihren Preis,2015,['Drama'],4.7
+800,Nicolas Cage,Dying of the Light: Jede Minute zählt,2014,"['Action', 'Drama', 'Thriller']",4.5
+801,Nicolas Cage,Left Behind,2014,"['Action', 'Fantasy', 'Sci-Fi']",3.1
+802,Nicolas Cage,Outcast - Die letzten Tempelritter,2014,"['Action', 'Adventure', 'Thriller']",4.6
+803,Nicolas Cage,Tokarev,2014,"['Action', 'Thriller']",5.0
+804,Nicolas Cage,Joe - Die Rache ist sein,2013,"['Crime', 'Drama', 'Thriller']",6.8
+805,Nicolas Cage,Die Croods,2013,"['Animation', 'Adventure', 'Comedy']",7.1
+806,Nicolas Cage,Frozen Ground,2013,"['Biography', 'Crime', 'Drama']",6.4
+807,Nicolas Cage,Stolen,2012,"['Action', 'Crime', 'Thriller']",5.5
+808,Nicolas Cage,Ghost Rider: Spirit of Vengeance,2011,"['Action', 'Fantasy', 'Thriller']",4.3
+809,Nicolas Cage,Trespass - Auf Leben und Tod,2011,"['Crime', 'Drama', 'Mystery']",5.3
+810,Nicolas Cage,Pakt der Rache,2011,"['Action', 'Crime', 'Drama']",6.1
+811,Nicolas Cage,Drive Angry,2011,"['Action', 'Comedy', 'Fantasy']",5.4
+812,Nicolas Cage,Der letzte Tempelritter,2011,"['Action', 'Adventure', 'Fantasy']",5.4
+813,Nicolas Cage,Duell der Magier,2010,"['Action', 'Adventure', 'Family']",6.1
+814,Nicolas Cage,Kick-Ass,2010,"['Action', 'Comedy', 'Crime']",7.6
+815,Nicolas Cage,Astro Boy - Der Film,2009,"['Animation', 'Action', 'Adventure']",6.2
+816,Nicolas Cage,Bad Lieutenant - Cop ohne Gewissen,2009,"['Crime', 'Drama', 'Mystery']",6.6
+817,Nicolas Cage,G-Force - Agenten mit Biss,2009,"['Animation', 'Action', 'Adventure']",5.1
+818,Nicolas Cage,Know1ng - Die Zukunft endet jetzt,2009,"['Action', 'Mystery', 'Sci-Fi']",6.2
+819,Nicolas Cage,Bangkok Dangerous,2008,"['Action', 'Crime', 'Thriller']",5.3
+820,Nicolas Cage,Das Vermächtnis des geheimen Buches,2007,"['Action', 'Adventure', 'Mystery']",6.5
+821,Nicolas Cage,Next,2007,"['Action', 'Sci-Fi', 'Thriller']",6.2
+822,Nicolas Cage,Grindhouse,2007,"['Action', 'Horror', 'Thriller']",7.5
+823,Nicolas Cage,Ghost Rider,2007,"['Action', 'Fantasy', 'Thriller']",5.3
+824,Nicolas Cage,Wicker Man - Ritual des Bösen,2006,"['Horror', 'Mystery', 'Thriller']",3.8
+825,Nicolas Cage,World Trade Center,2006,"['Drama', 'History', 'Thriller']",6.0
+826,Nicolas Cage,"Lucas, der Ameisenschreck",2006,"['Animation', 'Adventure', 'Comedy']",5.8
+827,Nicolas Cage,The Weather Man,2005,"['Comedy', 'Drama']",6.6
+828,Nicolas Cage,Lord of War - Händler des Todes,2005,"['Crime', 'Drama']",7.6
+829,Nicolas Cage,Das Vermächtnis der Tempelritter,2004,"['Action', 'Adventure', 'Mystery']",6.9
+830,Nicolas Cage,Tricks,2003,"['Comedy', 'Crime', 'Drama']",7.3
+831,Nicolas Cage,Adaption - Der Orchideen-Dieb,2002,"['Comedy', 'Drama']",7.7
+832,Nicolas Cage,Sonny,2002,"['Crime', 'Drama']",5.6
+833,Nicolas Cage,Windtalkers,2002,"['Action', 'Drama', 'War']",6.1
+834,Nicolas Cage,Ein Weihnachtsmärchen,2001,"['Animation', 'Family', 'Fantasy']",5.4
+835,Nicolas Cage,Corellis Mandoline,2001,"['Drama', 'Music', 'Romance']",5.9
+836,Nicolas Cage,Family Man,2000,"['Comedy', 'Drama', 'Fantasy']",6.8
+837,Nicolas Cage,Nur noch 60 Sekunden,2000,"['Action', 'Crime', 'Thriller']",6.5
+838,Nicolas Cage,Bringing Out the Dead - Nächte der Erinnerung,1999,"['Drama', 'Thriller']",6.9
+839,Nicolas Cage,8mm: Acht Millimeter,1999,"['Crime', 'Drama', 'Mystery']",6.6
+840,Nicolas Cage,Spiel auf Zeit,1998,"['Crime', 'Mystery', 'Thriller']",6.1
+841,Nicolas Cage,Stadt der Engel,1998,"['Drama', 'Fantasy', 'Romance']",6.7
+842,Nicolas Cage,Im Körper des Feindes,1997,"['Action', 'Crime', 'Sci-Fi']",7.3
+843,Nicolas Cage,Con Air,1997,"['Action', 'Crime', 'Thriller']",6.9
+844,Nicolas Cage,The Rock: Fels der Entscheidung,1996,"['Action', 'Adventure', 'Thriller']",7.4
+845,Nicolas Cage,Leaving Las Vegas: Liebe bis in den Tod,1995,"['Drama', 'Romance']",7.5
+846,Nicolas Cage,Kiss of Death,1995,"['Crime', 'Drama', 'Thriller']",5.9
+847,Nicolas Cage,Schneesturm im Paradies,1994,"['Adventure', 'Comedy', 'Crime']",5.9
+848,Nicolas Cage,2 Millionen Dollar Trinkgeld,1994,"['Comedy', 'Drama', 'Romance']",6.4
+849,Nicolas Cage,Tess und ihr Bodyguard,1994,"['Comedy', 'Drama']",6.2
+850,Nicolas Cage,Deadfall,1993,"['Crime', 'Drama']",4.0
+851,Nicolas Cage,Red Rock West,1993,"['Crime', 'Drama', 'Thriller']",7.0
+852,Nicolas Cage,Amos & Andrew - Zwei fast perfekte Chaoten,1993,"['Comedy', 'Crime']",5.7
+853,Nicolas Cage,...aber nicht mit meiner Braut - Honeymoon in Vegas,1992,"['Comedy', 'Romance', 'Thriller']",5.9
+854,Nicolas Cage,Zandalee - Das sechste Gebot,1991,"['Drama', 'Romance', 'Thriller']",4.3
+855,Nicolas Cage,Air Borne - Flügel aus Stahl,1990,"['Action', 'Adventure']",4.7
+856,Nicolas Cage,Wild at Heart: Die Geschichte von Sailor und Lula,1990,"['Crime', 'Drama', 'Thriller']",7.2
+857,Nicolas Cage,"Zeit zu leben, Zeit zu sterben",1989,"['Drama', 'War']",5.1
+858,Nicolas Cage,Vampire's Kiss - Ein beißendes Vergnügen,1988,"['Comedy', 'Crime', 'Fantasy']",6.1
+859,Nicolas Cage,Das Highway-Trio,1988,"['Comedy', 'Drama']",4.5
+860,Nicolas Cage,Mondsüchtig,1987,"['Comedy', 'Drama', 'Romance']",7.2
+861,Nicolas Cage,Arizona Junior,1987,"['Comedy', 'Crime']",7.3
+862,Nicolas Cage,Peggy Sue hat geheiratet,1986,"['Comedy', 'Drama', 'Fantasy']",6.4
+863,Nicolas Cage,Finish: Endspurt bis zum Sieg,1986,"['Biography', 'Drama', 'Sport']",5.3
+864,Nicolas Cage,Birdy,1984,"['Drama', 'War']",7.2
+865,Nicolas Cage,Cotton Club,1984,"['Crime', 'Drama', 'Music']",6.5
+866,Nicolas Cage,Die Zeit verrinnt - die Navy ruft,1984,"['Comedy', 'Drama', 'Romance']",6.6
+867,Nicolas Cage,Rumble Fish,1983,"['Crime', 'Drama', 'Romance']",7.1
+868,Nicolas Cage,Valley Girl,1983,"['Comedy', 'Romance']",6.4
+869,Nicolas Cage,Outsider: Rebellen ohne Grund,1983,"['Crime', 'Drama']",7.0
+870,Nicolas Cage,Ich glaub' ich steh' im Wald,1982,"['Comedy', 'Drama']",7.1
+871,Hugh Jackman,The Son,2022,['Drama'],6.4
+872,Hugh Jackman,Reminiscence: Die Erinnerung stirbt nie,2021,"['Mystery', 'Romance', 'Sci-Fi']",5.9
+873,Hugh Jackman,Free Guy,2021,"['Action', 'Adventure', 'Comedy']",7.1
+874,Hugh Jackman,Bad Education,2019,"['Biography', 'Comedy', 'Crime']",7.1
+875,Hugh Jackman,Mister Link - Ein fellig verrücktes Abenteuer,2019,"['Animation', 'Adventure', 'Comedy']",6.7
+876,Hugh Jackman,Der Spitzenkandidat,2018,"['Biography', 'Drama', 'History']",6.1
+877,Hugh Jackman,Greatest Showman,2017,"['Biography', 'Drama', 'Musical']",7.5
+878,Hugh Jackman,Logan: The Wolverine,2017,"['Action', 'Drama', 'Sci-Fi']",8.1
+879,Hugh Jackman,X-Men: Apocalypse,2016,"['Action', 'Adventure', 'Sci-Fi']",6.9
+880,Hugh Jackman,Eddie the Eagle: Alles ist möglich,2015,"['Adventure', 'Biography', 'Comedy']",7.3
+881,Hugh Jackman,Pan,2015,"['Action', 'Adventure', 'Comedy']",5.7
+882,Hugh Jackman,Chappie,2015,"['Action', 'Crime', 'Drama']",6.8
+883,Hugh Jackman,X-Men: Zukunft ist Vergangenheit,2014,"['Action', 'Adventure', 'Sci-Fi']",7.9
+884,Hugh Jackman,Prisoners,2013,"['Crime', 'Drama', 'Mystery']",8.2
+885,Hugh Jackman,Wolverine: Weg des Kriegers,2013,"['Action', 'Sci-Fi']",6.7
+886,Hugh Jackman,Movie 43,2013,['Comedy'],4.3
+887,Hugh Jackman,Les Misérables,2012,"['Drama', 'Musical', 'Romance']",7.5
+888,Hugh Jackman,Die Hüter des Lichts,2012,"['Animation', 'Action', 'Adventure']",7.2
+889,Hugh Jackman,Real Steel - Stahlharte Gegner,2011,"['Action', 'Drama', 'Sci-Fi']",7.1
+890,Hugh Jackman,Alles in Butter,2011,"['Comedy', 'Drama']",6.2
+891,Hugh Jackman,Der Seidenfächer,2011,"['Drama', 'History']",6.1
+892,Hugh Jackman,X-Men: Erste Entscheidung,2011,"['Action', 'Sci-Fi']",7.7
+893,Hugh Jackman,X-Men Origins: Wolverine,2009,"['Action', 'Sci-Fi']",6.5
+894,Hugh Jackman,Australia,2008,"['Adventure', 'Drama', 'Romance']",6.6
+895,Hugh Jackman,Deception - Tödliche Versuchung,2008,"['Crime', 'Drama', 'Mystery']",6.0
+896,Hugh Jackman,Happy Feet,2006,"['Animation', 'Adventure', 'Comedy']",6.4
+897,Hugh Jackman,Flutsch und weg,2006,"['Animation', 'Action', 'Adventure']",6.6
+898,Hugh Jackman,Prestige - Die Meister der Magie,2006,"['Drama', 'Mystery', 'Sci-Fi']",8.5
+899,Hugh Jackman,The Fountain,2006,"['Drama', 'Mystery', 'Romance']",7.2
+900,Hugh Jackman,Scoop - Der Knüller,2006,"['Comedy', 'Crime', 'Fantasy']",6.6
+901,Hugh Jackman,X-Men: Der letzte Widerstand,2006,"['Action', 'Adventure', 'Sci-Fi']",6.6
+902,Hugh Jackman,Van Helsing,2004,"['Action', 'Adventure', 'Fantasy']",6.1
+903,Hugh Jackman,X-Men 2,2003,"['Action', 'Sci-Fi', 'Thriller']",7.4
+904,Hugh Jackman,Kate & Leopold,2001,"['Comedy', 'Fantasy', 'Romance']",6.4
+905,Hugh Jackman,Passwort: Swordfish,2001,"['Action', 'Crime', 'Thriller']",6.5
+906,Hugh Jackman,Männerzirkus,2001,"['Comedy', 'Romance']",6.1
+907,Hugh Jackman,X-Men,2000,"['Action', 'Adventure', 'Sci-Fi']",7.3
+908,Hugh Jackman,Erskineville Kings,1999,['Drama'],6.3
+909,Hugh Jackman,Trucker mit Herz,1999,"['Comedy', 'Romance']",6.4
+910,Edward Norton,Asteroid City,2023,"['Comedy', 'Drama', 'Romance']",6.5
+911,Edward Norton,Glass Onion: A Knives Out Mystery,2022,"['Comedy', 'Crime', 'Drama']",7.1
+912,Edward Norton,The French Dispatch,2021,"['Comedy', 'Drama', 'Romance']",7.1
+913,Edward Norton,Motherless Brooklyn,2019,"['Crime', 'Drama', 'Mystery']",6.8
+914,Edward Norton,Alita: Battle Angel,2019,"['Action', 'Adventure', 'Sci-Fi']",7.3
+915,Edward Norton,Isle of Dogs - Ataris Reise,2018,"['Animation', 'Adventure', 'Comedy']",7.8
+916,Edward Norton,Verborgene Schönheit,2016,"['Drama', 'Romance']",6.8
+917,Edward Norton,Sausage Party - Es geht um die Wurst,2016,"['Animation', 'Adventure', 'Comedy']",6.1
+918,Edward Norton,Die Schutzbrüder,2015,"['Animation', 'Comedy', 'Family']",5.5
+919,Edward Norton,Birdman oder (Die unverhoffte Macht der Ahnungslosigkeit),2014,"['Comedy', 'Drama']",7.7
+920,Edward Norton,Grand Budapest Hotel,2014,"['Adventure', 'Comedy', 'Crime']",8.1
+921,Edward Norton,Das Bourne Vermächtnis,2012,"['Action', 'Adventure', 'Thriller']",6.6
+922,Edward Norton,Moonrise Kingdom,2012,"['Adventure', 'Comedy', 'Drama']",7.8
+923,Edward Norton,Der Diktator,2012,['Comedy'],6.5
+924,Edward Norton,Stone,2010,"['Action', 'Drama', 'Mystery']",5.4
+925,Edward Norton,Leaves of Grass,2009,"['Comedy', 'Crime', 'Drama']",6.4
+926,Edward Norton,Lügen macht erfinderisch,2009,"['Comedy', 'Fantasy', 'Romance']",6.4
+927,Edward Norton,Das Gesetz der Ehre,2008,"['Crime', 'Drama', 'Thriller']",6.6
+928,Edward Norton,Der unglaubliche Hulk,2008,"['Action', 'Adventure', 'Sci-Fi']",6.6
+929,Edward Norton,Der bunte Schleier,2006,"['Drama', 'Romance']",7.4
+930,Edward Norton,The Illusionist - Nichts ist wie es scheint,2006,"['Drama', 'Fantasy', 'Mystery']",7.5
+931,Edward Norton,Down in the Valley,2005,"['Drama', 'Romance', 'Thriller']",6.4
+932,Edward Norton,Königreich der Himmel,2005,"['Action', 'Adventure', 'Drama']",7.3
+933,Edward Norton,After the Sunset,2004,"['Action', 'Comedy', 'Crime']",6.2
+934,Edward Norton,The Italian Job - Jagd auf Millionen,2003,"['Action', 'Crime', 'Thriller']",7.0
+935,Edward Norton,25 Stunden,2002,['Drama'],7.6
+936,Edward Norton,Roter Drache,2002,"['Crime', 'Drama', 'Thriller']",7.2
+937,Edward Norton,Frida,2002,"['Biography', 'Drama', 'Romance']",7.3
+938,Edward Norton,Tötet Smoochy,2002,"['Comedy', 'Crime', 'Drama']",6.3
+939,Edward Norton,The Score,2001,"['Action', 'Crime', 'Drama']",6.8
+940,Edward Norton,Glauben ist alles!,2000,"['Comedy', 'Drama', 'Romance']",6.4
+941,Edward Norton,Fight Club,1999,['Drama'],8.8
+942,Edward Norton,Rounders,1998,"['Crime', 'Drama']",7.3
+943,Edward Norton,American History X,1998,"['Crime', 'Drama']",8.5
+944,Edward Norton,Larry Flynt - Die nackte Wahrheit,1996,"['Biography', 'Drama']",7.3
+945,Edward Norton,Zwielicht,1996,"['Crime', 'Drama', 'Mystery']",7.7
+946,Edward Norton,Alle sagen: I love you,1996,"['Comedy', 'Musical', 'Romance']",6.7
+947,Bruce Willis,Assassin,2023,"['Action', 'Crime', 'Thriller']",3.2
+948,Bruce Willis,Detective Knight: Independence,2023,"['Action', 'Adventure', 'Crime']",3.4
+949,Bruce Willis,Detective Knight: Redemption,2022,"['Action', 'Adventure', 'Mystery']",4.0
+950,Bruce Willis,Paradise City: Endstation Rache,2022,"['Action', 'Thriller']",3.7
+951,Bruce Willis,Detective Knight: Rogue,2022,"['Action', 'Adventure', 'Crime']",3.8
+952,Bruce Willis,Wire Room,2022,"['Action', 'Thriller']",3.6
+953,Bruce Willis,Wrong Place,2022,"['Action', 'Crime', 'Thriller']",3.4
+954,Bruce Willis,White Elephant,2022,"['Action', 'Thriller']",4.4
+955,Bruce Willis,Vendetta,2022,"['Action', 'Thriller']",3.7
+956,Bruce Willis,Corrective Measures,2022,"['Action', 'Sci-Fi']",4.4
+957,Bruce Willis,Fortress - Sniper's Eye,2022,"['Action', 'Thriller']",3.0
+958,Bruce Willis,A Day to Die,2022,"['Action', 'Crime', 'Drama']",3.5
+959,Bruce Willis,Gasoline Alley,2022,"['Action', 'Thriller']",3.9
+960,Bruce Willis,American Siege,2021,"['Action', 'Thriller']",3.4
+961,Bruce Willis,Fortress - Stunde der Abrechnung,2021,"['Action', 'Thriller']",3.3
+962,Tom Hanks,Freaky Tales,2024,"['Adventure', 'Comedy', 'Drama']",7.2
+963,Tom Hanks,Asteroid City,2023,"['Comedy', 'Drama', 'Romance']",6.5
+964,Tom Hanks,A Man Called Otto,2022,"['Comedy', 'Drama']",7.5
+965,Tom Hanks,Pinocchio,2022,"['Adventure', 'Comedy', 'Drama']",5.1
+966,Tom Hanks,Elvis,2022,"['Biography', 'Drama', 'Music']",7.3
+967,Tom Hanks,Finch,2021,"['Adventure', 'Drama', 'Sci-Fi']",6.9
+968,Tom Hanks,News of the World,2020,"['Action', 'Adventure', 'Drama']",6.8
+969,Tom Hanks,Borat Subsequent Moviefilm,2020,['Comedy'],6.6
+970,Tom Hanks,Greyhound,2020,"['Action', 'Drama', 'History']",7.0
+971,Tom Hanks,A Beautiful Day in the Neighborhood,2019,"['Biography', 'Drama']",7.2
+972,Tom Hanks,Toy Story 4,2019,"['Animation', 'Adventure', 'Comedy']",7.7
+973,Charlize Theron,Fast X,2023,"['Action', 'Adventure', 'Crime']",5.7
+974,Charlize Theron,The School for Good and Evil,2022,"['Action', 'Comedy', 'Drama']",5.9
+975,Charlize Theron,Doctor Strange in the Multiverse of Madness,2022,"['Action', 'Adventure', 'Fantasy']",6.9
+976,Charlize Theron,The Addams Family 2,2021,"['Animation', 'Adventure', 'Comedy']",5.4
+977,Charlize Theron,F9: The Fast Saga,2021,"['Action', 'Crime', 'Thriller']",5.2
+978,Charlize Theron,The Old Guard,2020,"['Action', 'Thriller']",6.7
+979,Charlize Theron,Bombshell,2019,"['Biography', 'Drama']",6.8
+980,Charlize Theron,The Addams Family,2019,"['Animation', 'Comedy', 'Family']",5.8
+981,Charlize Theron,Long Shot,2019,"['Comedy', 'Romance']",6.8
+982,Charlize Theron,Gringo,2018,"['Action', 'Comedy', 'Crime']",6.1
+983,Charlize Theron,Tully,2018,"['Comedy', 'Drama', 'Mystery']",6.9
+984,Will Smith,Bad Boys: Ride or Die,2024,"['Action', 'Adventure', 'Comedy']",7.0
+985,Will Smith,Emancipation,2022,"['Action', 'Thriller']",6.2
+986,Will Smith,King Richard,2021,"['Biography', 'Drama', 'Sport']",7.5
+987,Will Smith,Bad Boys for Life,2020,"['Action', 'Comedy', 'Crime']",6.5
+988,Will Smith,Spies in Disguise,2019,"['Animation', 'Action', 'Adventure']",6.8
+989,Will Smith,Gemini Man,2019,"['Action', 'Sci-Fi', 'Thriller']",5.7
+990,Will Smith,Student of the Year 2,2019,"['Action', 'Comedy', 'Drama']",2.2
+991,Will Smith,Aladdin,2019,"['Adventure', 'Comedy', 'Family']",6.9
+992,Will Smith,Bright,2017,"['Action', 'Fantasy', 'Thriller']",6.3
+993,Sean Connery,Sir Billi,2012,"['Animation', 'Adventure', 'Comedy']",2.8
+994,Sean Connery,Die Liga der außergewöhnlichen Gentlemen,2003,"['Action', 'Adventure', 'Fantasy']",5.8
+995,Sean Connery,Forrester - Gefunden!,2000,['Drama'],7.3
+996,Sean Connery,Verlockende Falle,1999,"['Action', 'Crime', 'Romance']",6.3
+997,Sean Connery,Leben und lieben in L.A.,1998,"['Comedy', 'Drama', 'Romance']",6.9
+998,Sean Connery,"Mit Schirm, Charme und Melone",1998,"['Action', 'Adventure', 'Sci-Fi']",3.8
+999,Sean Connery,The Rock: Fels der Entscheidung,1996,"['Action', 'Adventure', 'Thriller']",7.4
+1000,Sean Connery,Dragonheart,1996,"['Action', 'Adventure', 'Fantasy']",6.4
+1001,Sean Connery,Der erste Ritter,1995,"['Action', 'Adventure', 'Drama']",6.0
+1002,Sean Connery,Im Sumpf des Verbrechens,1995,"['Action', 'Crime', 'Drama']",6.4
+1003,Sean Connery,A Good Man in Africa,1994,['Comedy'],5.0
+1004,Sean Connery,Die Wiege der Sonne,1993,"['Action', 'Crime', 'Drama']",6.2
+1005,Keira Knightley,Boston Strangler,2023,"['Crime', 'Drama', 'History']",6.5
+1006,Keira Knightley,Silent Night - Und morgen sind wir tot,2021,"['Comedy', 'Drama', 'Horror']",5.8
+1007,Keira Knightley,Charlotte,2021,"['Animation', 'Biography', 'Drama']",6.4
+1008,Keira Knightley,Die Misswahl - Der Beginn einer Revolution,2020,"['Comedy', 'Drama', 'History']",6.3
+1009,Keira Knightley,Niemandsland - The Aftermath,2019,"['Drama', 'Romance', 'War']",6.3
+1010,Keira Knightley,"Berlin, I Love You",2019,"['Drama', 'Romance']",4.7
+1011,Keira Knightley,Official Secrets,2019,"['Biography', 'Crime', 'Drama']",7.3
+1012,Keira Knightley,Der Nussknacker und die vier Reiche,2018,"['Adventure', 'Family', 'Fantasy']",5.6
+1013,Keira Knightley,Colette,2018,"['Biography', 'Drama', 'History']",6.7
+1014,Keira Knightley,Pirates of the Caribbean: Salazars Rache,2017,"['Action', 'Adventure', 'Fantasy']",6.5
+1015,Keira Knightley,Verborgene Schönheit,2016,"['Drama', 'Romance']",6.8
+1016,Keira Knightley,Everest,2015,"['Action', 'Adventure', 'Biography']",7.1
+1017,Keira Knightley,The Imitation Game - Ein streng geheimes Leben,2014,"['Biography', 'Drama', 'Thriller']",8.0
+1018,Keira Knightley,Grow Up!? - Erwachsen werd' ich später,2014,"['Comedy', 'Drama', 'Romance']",6.4
+1019,Keira Knightley,Jack Ryan: Shadow Recruit,2014,"['Action', 'Drama', 'Thriller']",6.2
+1020,Keira Knightley,Can a Song Save Your Life?,2013,"['Comedy', 'Drama', 'Music']",7.4
+1021,Keira Knightley,Anna Karenina,2012,"['Drama', 'Romance']",6.6
+1022,Keira Knightley,Auf der Suche nach einem Freund fürs Ende der Welt,2012,"['Adventure', 'Comedy', 'Drama']",6.7
+1023,Keira Knightley,Eine dunkle Begierde,2011,"['Biography', 'Drama', 'Romance']",6.4
+1024,Keira Knightley,London Boulevard,2010,"['Crime', 'Drama']",6.2
+1025,Keira Knightley,Last Night - Nur eine Nacht,2010,"['Drama', 'Romance']",6.5
+1026,Keira Knightley,"Alles, was wir geben mussten",2010,"['Drama', 'Romance', 'Sci-Fi']",7.1
+1027,Keira Knightley,Die Herzogin,2008,"['Biography', 'Drama', 'History']",6.9
+1028,Keira Knightley,Edge of Love - Was von der Liebe bleibt,2008,"['Biography', 'Drama', 'Romance']",6.1
+1029,Keira Knightley,Silk,2007,"['Drama', 'Romance']",5.8
+1030,Keira Knightley,Abbitte,2007,"['Drama', 'Mystery', 'Romance']",7.8
+1031,Keira Knightley,Pirates of the Caribbean - Am Ende der Welt,2007,"['Action', 'Adventure', 'Fantasy']",7.1
+1032,Keira Knightley,Pirates of the Caribbean - Fluch der Karibik 2,2006,"['Action', 'Adventure', 'Fantasy']",7.4
+1033,Keira Knightley,Domino,2005,"['Action', 'Biography', 'Crime']",5.9
+1034,Keira Knightley,Stolz & Vorurteil,2005,"['Drama', 'Romance']",7.8
+1035,Keira Knightley,The Jacket,2005,"['Drama', 'Fantasy', 'Mystery']",7.1
+1036,Keira Knightley,King Arthur,2004,"['Action', 'Adventure', 'Drama']",6.3
+1037,Keira Knightley,Tatsächlich... Liebe,2003,"['Comedy', 'Drama', 'Romance']",7.6
+1038,Keira Knightley,Fluch der Karibik,2003,"['Action', 'Adventure', 'Fantasy']",8.1
+1039,Keira Knightley,Pure,2002,['Drama'],6.8
+1040,Keira Knightley,Donnerhosen,2002,"['Comedy', 'Family', 'Sci-Fi']",3.8
+1041,Keira Knightley,Kick It Like Beckham,2002,"['Comedy', 'Drama', 'Romance']",6.7
+1042,Keira Knightley,The Hole,2001,"['Drama', 'Mystery', 'Thriller']",6.2
+1043,Keira Knightley,Star Wars: Episode I - Die dunkle Bedrohung,1999,"['Action', 'Adventure', 'Fantasy']",6.5
+1044,Keira Knightley,Unschuldige Lügen,1995,"['Drama', 'Mystery', 'Thriller']",4.5
+1045,Vin Diesel,Fast X,2023,"['Action', 'Adventure', 'Crime']",5.7
+1046,Vin Diesel,Guardians of the Galaxy Vol. 3,2023,"['Action', 'Adventure', 'Comedy']",7.9
+1047,Vin Diesel,Thor: Love and Thunder,2022,"['Action', 'Adventure', 'Comedy']",6.2
+1048,Vin Diesel,F9: The Fast Saga,2021,"['Action', 'Crime', 'Thriller']",5.2
+1049,Vin Diesel,Bloodshot,2020,"['Action', 'Adventure', 'Sci-Fi']",5.7
+1050,Vin Diesel,Avengers: Endgame,2019,"['Action', 'Adventure', 'Drama']",8.4
+1051,Vin Diesel,Ralph Breaks the Internet,2018,"['Animation', 'Adventure', 'Comedy']",7.0
+1052,Vin Diesel,Avengers: Infinity War,2018,"['Action', 'Adventure', 'Sci-Fi']",8.4
+1053,Matt Damon,IF,2024,"['Animation', 'Comedy', 'Drama']",6.5
+1054,Matt Damon,Drive-Away Dolls,2024,"['Action', 'Comedy', 'Thriller']",5.5
+1055,Matt Damon,Oppenheimer,2023,"['Biography', 'Drama', 'History']",8.3
+1056,Matt Damon,Air,2023,"['Drama', 'Sport']",7.4
+1057,Matt Damon,Thor: Love and Thunder,2022,"['Action', 'Adventure', 'Comedy']",6.2
+1058,Matt Damon,The Last Duel,2021,"['Action', 'Drama', 'History']",7.4
+1059,Matt Damon,Stillwater,2021,"['Crime', 'Drama', 'Mystery']",6.6
+1060,Matt Damon,No Sudden Move,2021,"['Crime', 'Drama', 'Mystery']",6.4
+1061,Matt Damon,Jay and Silent Bob Reboot,2019,"['Action', 'Adventure', 'Comedy']",5.6
+1062,Matt Damon,Ford v Ferrari,2019,"['Action', 'Biography', 'Drama']",8.1
+1063,Matt Damon,Deadpool 2,2018,"['Action', 'Adventure', 'Comedy']",7.6
+1064,Matt Damon,Unsane,2018,"['Drama', 'Horror', 'Mystery']",6.4
+1065,Richard Gere,Longing,2024,"['Comedy', 'Drama']",6.1
+1066,Richard Gere,Oh Canada,2024,['Drama'],5.2
+1067,Richard Gere,Hochzeit auf Umwegen,2023,"['Comedy', 'Romance']",5.0
+1068,Richard Gere,Three Christs,2017,['Drama'],6.3
+1069,Richard Gere,The Dinner,2017,"['Crime', 'Drama', 'Thriller']",4.5
+1070,Richard Gere,Norman,2016,"['Drama', 'Thriller']",6.1
+1071,Richard Gere,Der Glücksbringer - Liebe gibt es nicht umsonst,2015,['Drama'],5.2
+1072,Richard Gere,Best Exotic Marigold Hotel 2,2015,"['Comedy', 'Drama', 'Romance']",6.5
+1073,Richard Gere,Time Out of Mind,2014,['Drama'],5.8
+1074,Richard Gere,Henry & Me,2014,"['Animation', 'Family']",6.0
+1075,Richard Gere,Movie 43,2013,['Comedy'],4.3
+1076,Richard Gere,Arbitrage - Macht ist das beste Alibi,2012,"['Drama', 'Thriller']",6.6
+1077,Richard Gere,The Double - Eiskaltes Duell,2011,"['Action', 'Adventure', 'Crime']",5.9
+1078,Richard Gere,Amelia,2009,"['Adventure', 'Biography', 'Drama']",5.8
+1079,Richard Gere,Hachiko - Eine wunderbare Freundschaft,2009,"['Biography', 'Drama', 'Family']",8.1
+1080,Richard Gere,Gesetz der Strasse - Brooklyn's Finest,2009,"['Action', 'Crime', 'Drama']",6.7
+1081,Richard Gere,Das Lächeln der Sterne,2008,"['Drama', 'Romance']",6.0
+1082,Richard Gere,Hunting Party - Wenn der Jäger zum Gejagten wird,2007,"['Adventure', 'Comedy', 'Drama']",6.8
+1083,Richard Gere,I'm Not There,2007,"['Biography', 'Drama', 'Music']",6.8
+1084,Richard Gere,The Flock - Dunkle Triebe,2007,"['Crime', 'Drama', 'Mystery']",5.7
+1085,Richard Gere,Der große Bluff,2006,"['Biography', 'Comedy', 'Drama']",6.7
+1086,Richard Gere,Die Buchstabenprinzessin,2005,"['Drama', 'Family']",5.5
+1087,Richard Gere,Darf ich bitten?,2004,"['Comedy', 'Drama', 'Music']",6.2
+1088,Richard Gere,Chicago,2002,"['Comedy', 'Crime', 'Musical']",7.2
+1089,Richard Gere,Untreu,2002,"['Drama', 'Romance', 'Thriller']",6.7
+1090,Richard Gere,The Mothman Prophecies - Tödliche Visionen,2002,"['Drama', 'Horror', 'Mystery']",6.4
+1091,Richard Gere,Dr. T and the Women,2000,"['Comedy', 'Drama', 'Romance']",4.7
+1092,Richard Gere,Es begann im September,2000,"['Drama', 'Romance']",5.6
+1093,Richard Gere,"Die Braut, die sich nicht traut",1999,"['Comedy', 'Romance']",5.6
+1094,Richard Gere,Der Schakal,1997,"['Action', 'Crime', 'Drama']",6.4
+1095,Richard Gere,Red Corner - Labyrinth ohne Ausweg,1997,"['Crime', 'Drama', 'Thriller']",6.3
+1096,Richard Gere,Zwielicht,1996,"['Crime', 'Drama', 'Mystery']",7.7
+1097,Richard Gere,Der erste Ritter,1995,"['Action', 'Adventure', 'Drama']",6.0
+1098,Richard Gere,Begegnungen,1994,"['Drama', 'Romance']",5.4
+1099,Richard Gere,Mr. Jones,1993,"['Drama', 'Romance']",5.8
+1100,Richard Gere,Sommersby,1993,"['Drama', 'Mystery', 'Romance']",6.3
+1101,Richard Gere,Eiskalte Leidenschaft,1992,"['Drama', 'Thriller']",5.9
+1102,Richard Gere,Rhapsodie im August,1991,"['Drama', 'War']",7.2
+1103,Richard Gere,Pretty Woman,1990,"['Comedy', 'Romance']",7.1
+1104,Richard Gere,"Internal Affairs - Trau' ihm, er ist ein Cop",1990,"['Crime', 'Drama', 'Thriller']",6.5
+1105,Richard Gere,Der letzte Outlaw,1988,"['Action', 'Crime', 'Drama']",5.7
+1106,Richard Gere,Gnadenlos,1986,"['Crime', 'Drama', 'Romance']",5.7
+1107,Richard Gere,Power - Der Weg zum Ruhm,1986,['Drama'],5.7
+1108,Richard Gere,König David,1985,"['Adventure', 'Biography', 'Drama']",5.3
+1109,Richard Gere,Cotton Club,1984,"['Crime', 'Drama', 'Music']",6.5
+1110,Richard Gere,Der Honorarkonsul,1983,"['Drama', 'Romance', 'Thriller']",5.7
+1111,Richard Gere,Atemlos,1983,"['Action', 'Drama', 'Romance']",6.0
+1112,Richard Gere,Ein Offizier und Gentleman,1982,"['Drama', 'Romance']",7.1
+1113,Richard Gere,Ein Mann für gewisse Stunden,1980,"['Crime', 'Drama', 'Mystery']",6.3
+1114,Richard Gere,Yanks - Gestern waren wir noch Fremde,1979,"['Drama', 'War']",6.4
+1115,Richard Gere,Heißes Blut,1978,['Drama'],5.8
+1116,Richard Gere,In der Glut des Südens,1978,"['Drama', 'Romance']",7.7
+1117,Richard Gere,Auf der Suche nach Mr. Goodbar,1977,['Drama'],6.7
+1118,Richard Gere,Baby Blue Marine,1976,['Drama'],6.1
+1119,Richard Gere,Der einsame Job,1975,"['Action', 'Crime', 'Drama']",6.7
+1120,Catherine Zeta-Jones,Dad's Army,2016,"['Comedy', 'War']",5.2
+1121,Catherine Zeta-Jones,R.E.D. 2 - Noch Älter. Härter. Besser.,2013,"['Action', 'Comedy', 'Crime']",6.6
+1122,Catherine Zeta-Jones,Side Effects - Tödliche Nebenwirkungen,2013,"['Crime', 'Drama', 'Mystery']",7.1
+1123,Catherine Zeta-Jones,Broken City - Stadt des Verbrechens,2013,"['Action', 'Crime', 'Drama']",6.1
+1124,Catherine Zeta-Jones,Kiss the Coach,2012,"['Comedy', 'Romance', 'Sport']",5.7
+1125,Catherine Zeta-Jones,Rock of Ages,2012,"['Comedy', 'Drama', 'Musical']",5.9
+1126,Catherine Zeta-Jones,Lady Vegas,2012,"['Comedy', 'Drama', 'Romance']",4.8
+1127,Catherine Zeta-Jones,Lieber verliebt,2009,"['Comedy', 'Romance']",6.3
+1128,Catherine Zeta-Jones,Tödliche Magie,2007,"['Drama', 'History', 'Romance']",5.8
+1129,Catherine Zeta-Jones,Rezept zum Verlieben,2007,"['Comedy', 'Drama', 'Romance']",6.3
+1130,Catherine Zeta-Jones,Die Legende des Zorro,2005,"['Action', 'Adventure', 'Romance']",6.0
+1131,Catherine Zeta-Jones,Ocean's Twelve,2004,"['Crime', 'Thriller']",6.5
+1132,Catherine Zeta-Jones,Terminal,2004,"['Comedy', 'Drama', 'Romance']",7.4
+1133,Catherine Zeta-Jones,Ein (un)möglicher Härtefall,2003,"['Comedy', 'Crime', 'Romance']",6.3
+1134,Catherine Zeta-Jones,Sinbad - Der Herr der sieben Meere,2003,"['Animation', 'Adventure', 'Comedy']",6.7
+1135,Catherine Zeta-Jones,Chicago,2002,"['Comedy', 'Crime', 'Musical']",7.2
+1136,Catherine Zeta-Jones,America's Sweethearts,2001,"['Comedy', 'Romance']",5.7
+1137,Catherine Zeta-Jones,Traffic - Macht des Kartells,2000,"['Crime', 'Drama', 'Thriller']",7.6
+1138,Catherine Zeta-Jones,High Fidelity,2000,"['Comedy', 'Drama', 'Music']",7.4
+1139,Catherine Zeta-Jones,Das Geisterschloss,1999,"['Fantasy', 'Horror', 'Mystery']",5.0
+1140,Catherine Zeta-Jones,Verlockende Falle,1999,"['Action', 'Crime', 'Romance']",6.3
+1141,Catherine Zeta-Jones,Die Maske des Zorro,1998,"['Action', 'Adventure', 'Comedy']",6.8
+1142,Catherine Zeta-Jones,Das Phantom,1996,"['Action', 'Adventure', 'Comedy']",5.1
+1143,Catherine Zeta-Jones,Gegen die Brandung,1995,"['Comedy', 'Drama', 'Romance']",5.2
+1144,Catherine Zeta-Jones,Und ewig schleichen die Erben,1993,"['Comedy', 'Crime']",5.5
+1145,Catherine Zeta-Jones,Christopher Columbus - Der Entdecker,1992,"['Adventure', 'Biography', 'Drama']",4.4
+1146,Catherine Zeta-Jones,Sheherazade - Mit 1001 PS ins Abenteuer,1990,"['Adventure', 'Comedy', 'Fantasy']",5.4
+1147,Clive Owen,Lui,2021,"['Drama', 'Thriller']",4.7
+1148,Clive Owen,Guida romantica a posti perduti,2020,['Drama'],5.5
+1149,Clive Owen,Gemini Man,2019,"['Action', 'Sci-Fi', 'Thriller']",5.7
+1150,Clive Owen,The Song of Names,2019,"['Drama', 'Music', 'Mystery']",6.5
+1151,Clive Owen,The Informer,2019,"['Action', 'Crime', 'Drama']",6.6
+1152,Clive Owen,Anon,2018,"['Crime', 'Mystery', 'Sci-Fi']",6.1
+1153,Clive Owen,Ophelia,2018,"['Drama', 'Romance', 'Thriller']",6.5
+1154,Clive Owen,Valerian - Die Stadt der tausend Planeten,2017,"['Action', 'Adventure', 'Fantasy']",6.4
+1155,Clive Owen,The Confirmation,2016,"['Adventure', 'Comedy', 'Drama']",6.4
+1156,Clive Owen,Last Knights - Die Ritter des 7. Ordens,2015,"['Action', 'Drama', 'History']",6.2
+1157,Clive Owen,Words & Pictures,2013,"['Comedy', 'Drama', 'Romance']",6.6
+1158,Clive Owen,Blood Ties,2013,"['Action', 'Crime', 'Drama']",6.5
+1159,Clive Owen,Shadow Dancer,2012,"['Drama', 'Mystery', 'Thriller']",6.2
+1160,Clive Owen,Intruders,2011,"['Fantasy', 'Horror', 'Thriller']",5.4
+1161,Clive Owen,Killer Elite,2011,"['Action', 'Crime', 'Thriller']",6.4
+1162,Clive Owen,Trust - Blindes Vertrauen,2010,"['Crime', 'Drama', 'Mystery']",6.9
+1163,Clive Owen,The Boys Are Back - Zurück ins Leben,2009,['Drama'],6.8
+1164,Clive Owen,Duplicity - Gemeinsame Geheimsache,2009,"['Comedy', 'Crime', 'Romance']",6.1
+1165,Clive Owen,The International,2009,"['Action', 'Crime', 'Drama']",6.5
+1166,Clive Owen,Elizabeth - Das goldene Königreich,2007,"['Biography', 'Drama', 'History']",6.8
+1167,Clive Owen,Shoot 'Em Up,2007,"['Action', 'Comedy', 'Thriller']",6.6
+1168,Clive Owen,Children of Men,2006,"['Action', 'Drama', 'Sci-Fi']",7.9
+1169,Clive Owen,Inside Man,2006,"['Crime', 'Drama', 'Mystery']",7.6
+1170,Clive Owen,Der rosarote Panther,2006,"['Adventure', 'Comedy', 'Crime']",5.7
+1171,Clive Owen,Entgleist,2005,"['Crime', 'Drama', 'Thriller']",6.6
+1172,Clive Owen,Sin City,2005,"['Crime', 'Thriller']",8.0
+1173,Clive Owen,Hautnah,2004,"['Drama', 'Romance']",7.2
+1174,Clive Owen,King Arthur,2004,"['Action', 'Adventure', 'Drama']",6.3
+1175,Clive Owen,Jenseits aller Grenzen,2003,"['Adventure', 'Drama', 'Romance']",6.4
+1176,Clive Owen,Dead Simple,2003,"['Crime', 'Drama', 'Mystery']",5.8
+1177,Clive Owen,Die Bourne Identität,2002,"['Action', 'Mystery', 'Thriller']",7.8
+1178,Clive Owen,Gosford Park,2001,"['Comedy', 'Drama', 'Mystery']",7.2
+1179,Clive Owen,Greenfingers - Harte Jungs & zarte Triebe,2000,"['Comedy', 'Crime', 'Drama']",6.8
+1180,Clive Owen,Der Croupier,1998,"['Crime', 'Drama']",7.0
+1181,Clive Owen,Bent,1997,"['Drama', 'History', 'Romance']",7.1
+1182,Clive Owen,The Rich Man's Wife,1996,['Thriller'],5.3
+1183,Clive Owen,The Turnaround,1995,"['Crime', 'Drama']",7.3
+1184,Clive Owen,Century,1993,"['Drama', 'Romance']",6.2
+1185,Clive Owen,Schließe meine Augen - Begehre oder Töte mich,1991,"['Drama', 'Romance']",6.2
+1186,Clive Owen,Vroom! - Ab in die Freiheit,1990,"['Drama', 'Romance']",5.2
+1187,Mel Gibson,Desperation Road,2023,"['Action', 'Crime', 'Drama']",5.8
+1188,Mel Gibson,New York Confidential,2023,"['Action', 'Crime', 'Thriller']",3.9
+1189,Mel Gibson,On the Line,2022,['Thriller'],5.4
+1190,Mel Gibson,Bandit,2022,"['Crime', 'Drama', 'Thriller']",6.4
+1191,Mel Gibson,Hot Seat,2022,"['Action', 'Thriller']",4.3
+1192,Mel Gibson,Father Stu,2022,"['Biography', 'Drama']",6.5
+1193,Mel Gibson,Agent Game,2022,"['Action', 'Thriller']",4.0
+1194,Mel Gibson,Panama,2022,"['Action', 'Thriller']",3.5
+1195,Mel Gibson,Last Looks,2021,"['Action', 'Comedy', 'Mystery']",5.8
+1196,Mel Gibson,Dangerous,2021,"['Action', 'Thriller']",5.2
+1197,Mel Gibson,Fatman,2020,"['Action', 'Adventure', 'Comedy']",5.9
+1198,Mel Gibson,Force of Nature,2020,"['Action', 'Adventure', 'Crime']",4.6
+1199,Mel Gibson,Boss Level,2020,"['Action', 'Adventure', 'Comedy']",6.8
+1200,Mel Gibson,The Professor and the Madman,2019,"['Biography', 'Drama', 'History']",7.2
+1201,Mel Gibson,Dragged Across Concrete,2018,"['Action', 'Crime', 'Drama']",6.9
+1202,Mel Gibson,"Daddy's Home 2: Mehr Väter, mehr Probleme!",2017,['Comedy'],6.0
+1203,Mel Gibson,Blood Father,2016,"['Action', 'Crime', 'Drama']",6.4
+1204,Mel Gibson,The Expendables 3,2014,"['Action', 'Adventure', 'Thriller']",6.1
+1205,Mel Gibson,Machete Kills,2013,"['Action', 'Comedy', 'Crime']",5.6
+1206,Mel Gibson,Get the Gringo,2012,"['Action', 'Drama', 'Thriller']",6.9
+1207,Mel Gibson,Der Biber,2011,['Drama'],6.6
+1208,Mel Gibson,Auftrag Rache,2010,"['Action', 'Adventure', 'Drama']",6.6
+1209,Mel Gibson,Paparazzi,2004,"['Action', 'Crime', 'Drama']",5.7
+1210,Mel Gibson,The Singing Detective,2003,"['Comedy', 'Crime', 'Musical']",5.4
+1211,Mel Gibson,Signs - Zeichen,2002,"['Drama', 'Mystery', 'Sci-Fi']",6.8
+1212,Mel Gibson,Wir waren Helden,2002,"['Action', 'Drama', 'History']",7.2
+1213,Mel Gibson,Was Frauen wollen,2000,"['Comedy', 'Fantasy', 'Romance']",6.4
+1214,Mel Gibson,Der Patriot,2000,"['Action', 'Drama', 'History']",7.2
+1215,Mel Gibson,Chicken Run - Hennen rennen,2000,"['Animation', 'Adventure', 'Comedy']",7.1
+1216,Mel Gibson,The Million Dollar Hotel,2000,"['Drama', 'Mystery', 'Thriller']",5.7
+1217,Mel Gibson,Payback - Zahltag,1999,"['Action', 'Crime', 'Drama']",7.1
+1218,Mel Gibson,Lethal Weapon 4 - Zwei Profis räumen auf,1998,"['Action', 'Crime', 'Thriller']",6.6
+1219,Mel Gibson,Fremde Wesen,1997,"['Drama', 'Family', 'Fantasy']",6.5
+1220,Mel Gibson,Fletchers Visionen,1997,"['Action', 'Drama', 'Mystery']",6.7
+1221,Mel Gibson,Ein Vater zuviel,1997,"['Comedy', 'Romance']",5.3
+1222,Mel Gibson,Kopfgeld - Einer wird bezahlen,1996,"['Action', 'Crime', 'Thriller']",6.7
+1223,Mel Gibson,Pocahontas,1995,"['Animation', 'Adventure', 'Drama']",6.7
+1224,Mel Gibson,Casper,1995,"['Comedy', 'Family', 'Fantasy']",6.2
+1225,Mel Gibson,Braveheart,1995,"['Biography', 'Drama', 'War']",8.3
+1226,Mel Gibson,"Maverick - Den Colt am Gürtel, ein As im Ärmel",1994,"['Action', 'Adventure', 'Comedy']",7.0
+1227,Mel Gibson,Der Mann ohne Gesicht,1993,['Drama'],6.7
+1228,Mel Gibson,Forever Young,1992,"['Drama', 'Romance', 'Sci-Fi']",6.3
+1229,Mel Gibson,Lethal Weapon 3: Die Profis sind zurück,1992,"['Action', 'Crime', 'Thriller']",6.7
+1230,Mel Gibson,Hamlet,1990,['Drama'],6.7
+1231,Mel Gibson,Air America,1990,"['Action', 'Comedy', 'War']",5.8
+1232,Mel Gibson,Ein Vogel auf dem Drahtseil,1990,"['Action', 'Comedy', 'Crime']",6.0
+1233,Mel Gibson,Lethal Weapon 2 - Brennpunkt L.A.,1989,"['Action', 'Crime', 'Thriller']",7.3
+1234,Mel Gibson,Tequila Sunrise,1988,"['Crime', 'Drama', 'Romance']",6.0
+1235,Mel Gibson,Lethal Weapon - Zwei stahlharte Profis,1987,"['Action', 'Crime', 'Thriller']",7.6
+1236,Mel Gibson,Mad Max - Jenseits der Donnerkuppel,1985,"['Action', 'Adventure', 'Sci-Fi']",6.2
+1237,Mel Gibson,Flucht zu dritt,1984,"['Drama', 'Romance']",6.0
+1238,Mel Gibson,Menschen am Fluss,1984,['Drama'],6.3
+1239,Mel Gibson,Die Bounty,1984,"['Adventure', 'Drama', 'History']",7.0
+1240,Mel Gibson,Ein Jahr in der Hölle,1982,"['Drama', 'Romance', 'War']",7.1
+1241,Mel Gibson,Mad Max: Der Vollstrecker,1981,"['Action', 'Adventure', 'Sci-Fi']",7.6
+1242,Mel Gibson,Gallipoli,1981,"['Adventure', 'Drama', 'History']",7.4
+1243,Mel Gibson,Die grünen Teufel vom Mekong,1981,"['Action', 'Drama', 'History']",5.4
+1244,Mel Gibson,Die Kettenreaktion,1980,"['Action', 'Drama', 'Sci-Fi']",5.4
+1245,Mel Gibson,Tim - Kann das Liebe sein?,1979,"['Drama', 'Romance']",6.4
+1246,Mel Gibson,Mad Max,1979,"['Action', 'Adventure', 'Sci-Fi']",6.8
+1247,Mel Gibson,Summer City,1977,"['Drama', 'Thriller']",3.9
+1248,George Clooney,IF: Imaginäre Freunde,2024,"['Animation', 'Comedy', 'Drama']",6.5
+1249,George Clooney,The Flash,2023,"['Action', 'Adventure', 'Fantasy']",6.7
+1250,George Clooney,Ticket ins Paradies,2022,"['Comedy', 'Romance']",6.1
+1251,George Clooney,The Midnight Sky,2020,"['Adventure', 'Drama', 'Sci-Fi']",5.7
+1252,George Clooney,Money Monster,2016,"['Action', 'Crime', 'Drama']",6.5
+1253,George Clooney,"Hail, Caesar!",2016,"['Comedy', 'Drama', 'Mystery']",6.3
+1254,George Clooney,A World Beyond,2015,"['Action', 'Adventure', 'Family']",6.4
+1255,George Clooney,Monuments Men: Ungewöhnliche Helden,2014,"['Comedy', 'Drama', 'War']",6.1
+1256,George Clooney,Gravity,2013,"['Drama', 'Sci-Fi', 'Thriller']",7.7
+1257,George Clooney,The Descendants - Familie und andere Angelegenheiten,2011,"['Comedy', 'Drama']",7.3
+1258,George Clooney,The Ides of March - Tage des Verrats,2011,"['Drama', 'Thriller']",7.1
+1259,George Clooney,The American,2010,"['Action', 'Crime', 'Drama']",6.3
+1260,George Clooney,Der fantastische Mr. Fox,2009,"['Animation', 'Adventure', 'Comedy']",7.9
+1261,George Clooney,"Männer, die auf Ziegen starren",2009,"['Comedy', 'War']",6.2
+1262,George Clooney,Up in the Air,2009,"['Comedy', 'Drama', 'Romance']",7.4
+1263,George Clooney,Burn After Reading,2008,"['Comedy', 'Crime', 'Drama']",7.0
+1264,George Clooney,Ein verlockendes Spiel,2008,"['Comedy', 'Drama', 'Romance']",6.0
+1265,George Clooney,Michael Clayton,2007,"['Crime', 'Drama', 'Mystery']",7.2
+1266,George Clooney,Ocean's 13,2007,"['Crime', 'Thriller']",6.9
+1267,George Clooney,The Good German,2006,"['Drama', 'Mystery', 'Romance']",6.0
+1268,George Clooney,Syriana,2005,"['Drama', 'Thriller']",6.9
+1269,George Clooney,"Good Night, and Good Luck.",2005,"['Biography', 'Drama', 'History']",7.4
+1270,George Clooney,Ocean's Twelve,2004,"['Crime', 'Thriller']",6.5
+1271,George Clooney,Ein (un)möglicher Härtefall,2003,"['Comedy', 'Crime', 'Romance']",6.3
+1272,George Clooney,Spy Kids 3: Game Over,2003,"['Action', 'Adventure', 'Comedy']",4.4
+1273,George Clooney,Geständnisse - Confessions of a Dangerous Mind,2002,"['Biography', 'Comedy', 'Crime']",7.0
+1274,George Clooney,Solaris,2002,"['Drama', 'Mystery', 'Romance']",6.2
+1275,George Clooney,Safecrackers oder Diebe haben's schwer,2002,"['Comedy', 'Crime']",6.3
+1276,George Clooney,Ocean's Eleven,2001,"['Crime', 'Thriller']",7.7
+1277,George Clooney,Spy Kids,2001,"['Action', 'Adventure', 'Comedy']",5.6
+1278,George Clooney,Der Sturm,2000,"['Action', 'Adventure', 'Drama']",6.5
+1279,George Clooney,"O Brother, Where Art Thou? - Eine Mississippi-Odyssee",2000,"['Comedy', 'Crime', 'Drama']",7.7
+1280,George Clooney,Three Kings - Es ist schön König zu sein,1999,"['Action', 'Adventure', 'Comedy']",7.1
+1281,George Clooney,The Book That Wrote Itself,1999,['Comedy'],4.3
+1282,George Clooney,"South Park: Größer, länger und un(b)geschnitten",1999,"['Animation', 'Comedy', 'Fantasy']",7.7
+1283,George Clooney,Der schmale Grat,1998,"['Drama', 'History', 'War']",7.6
+1284,George Clooney,Out of Sight,1998,"['Comedy', 'Crime', 'Drama']",7.0
+1285,George Clooney,Projekt: Peacemaker,1997,"['Action', 'Drama', 'Thriller']",6.0
+1286,George Clooney,Batman & Robin,1997,"['Action', 'Sci-Fi']",3.8
+1287,George Clooney,Tage wie dieser...,1996,"['Comedy', 'Drama', 'Romance']",6.5
+1288,George Clooney,From Dusk Till Dawn,1996,"['Action', 'Crime', 'Horror']",7.2
+1289,George Clooney,Blutige Ernte - The Harvest,1993,"['Crime', 'Thriller']",5.5
+1290,George Clooney,"Hilfe, Mami dreht durch!",1992,['Comedy'],4.3
+1291,George Clooney,Red Surf,1989,"['Action', 'Crime', 'Drama']",4.1
+1292,George Clooney,Die Rückkehr der Killertomaten,1988,"['Comedy', 'Horror', 'Sci-Fi']",5.2
+1293,George Clooney,Return to Horror High,1987,"['Comedy', 'Horror']",4.4
+1294,George Clooney,Grizzly II: The Predator,1983,"['Horror', 'Music', 'Thriller']",2.7
+1295,George Clooney,And They Are Off,1982,"['Drama', 'Romance']",5.1
+1296,Jack Nicholson,"Woher weißt du, dass es Liebe ist?",2010,"['Comedy', 'Drama', 'Romance']",5.4
+1297,Jack Nicholson,I'm Still Here,2010,"['Comedy', 'Drama', 'Music']",6.2
+1298,Jack Nicholson,Das Beste kommt zum Schluss,2007,"['Adventure', 'Comedy', 'Drama']",7.4
+1299,Jack Nicholson,Departed: Unter Feinden,2006,"['Crime', 'Drama', 'Thriller']",8.5
+1300,Jack Nicholson,Was das Herz begehrt,2003,"['Comedy', 'Drama', 'Romance']",6.7
+1301,Jack Nicholson,Die Wutprobe,2003,['Comedy'],6.3
+1302,Jack Nicholson,About Schmidt,2002,['Drama'],7.2
+1303,Jack Nicholson,Das Versprechen,2001,"['Crime', 'Drama', 'Mystery']",6.8
+1304,Jack Nicholson,Besser geht's nicht,1997,"['Comedy', 'Drama', 'Romance']",7.7
+1305,Jack Nicholson,Mars Attacks!,1996,"['Comedy', 'Sci-Fi']",6.4
+1306,Jack Nicholson,Jahre der Zärtlichkeit,1996,"['Comedy', 'Drama', 'Romance']",5.9
+1307,Jack Nicholson,Blood & Wine,1996,"['Crime', 'Drama', 'Thriller']",6.0
+1308,Jack Nicholson,Crossing Guard,1995,"['Drama', 'Thriller']",6.3
+1309,Jack Nicholson,Wolf - Das Tier im Manne,1994,"['Drama', 'Horror', 'Romance']",6.3
+1310,Jack Nicholson,Jimmy Hoffa,1992,"['Biography', 'Crime', 'Drama']",6.6
+1311,Jack Nicholson,Eine Frage der Ehre,1992,"['Drama', 'Thriller']",7.7
+1312,Jack Nicholson,Man Trouble,1992,"['Comedy', 'Romance']",4.7
+1313,Jack Nicholson,Die Spur führt zurück,1990,"['Crime', 'Drama', 'Mystery']",6.1
+1314,Jack Nicholson,Batman,1989,"['Action', 'Adventure']",7.5
+1315,Jack Nicholson,Wolfsmilch,1987,['Drama'],6.7
+1316,Jack Nicholson,Broadcast News - Nachrichtenfieber,1987,"['Comedy', 'Drama', 'Romance']",7.3
+1317,Jack Nicholson,Die Hexen von Eastwick,1987,"['Comedy', 'Fantasy', 'Horror']",6.5
+1318,Jack Nicholson,Sodbrennen,1986,"['Comedy', 'Drama']",6.1
+1319,Jack Nicholson,Die Ehre der Prizzis,1985,"['Comedy', 'Crime', 'Drama']",6.7
+1320,Jack Nicholson,Zeit der Zärtlichkeit,1983,"['Comedy', 'Drama']",7.4
+1321,Jack Nicholson,Grenzpatrouille,1982,"['Crime', 'Drama']",6.4
+1322,Jack Nicholson,Ein Mann kämpft für Gerechtigkeit,1981,"['Biography', 'Drama', 'History']",7.3
+1323,Jack Nicholson,Wenn der Postmann zweimal klingelt,1981,"['Crime', 'Drama', 'Romance']",6.6
+1324,Jack Nicholson,Shining,1980,"['Drama', 'Horror']",8.4
+1325,Jack Nicholson,Der Galgenstrick,1978,"['Comedy', 'Romance', 'Western']",6.2
+1326,Jack Nicholson,Der letzte Tycoon,1976,"['Drama', 'Romance']",6.2
+1327,Jack Nicholson,Duell am Missouri,1976,"['Drama', 'Western']",6.5
+1328,Jack Nicholson,Einer flog über das Kuckucksnest,1975,['Drama'],8.7
+1329,Jack Nicholson,Mitgiftjäger,1975,"['Comedy', 'Crime', 'Romance']",5.7
+1330,Jack Nicholson,Tommy,1975,"['Drama', 'Musical']",6.6
+1331,Jack Nicholson,Beruf: Reporter,1975,"['Drama', 'Thriller']",7.5
+1332,Jack Nicholson,Chinatown,1974,"['Drama', 'Mystery', 'Thriller']",8.1
+1333,Jack Nicholson,Das letzte Kommando,1973,"['Comedy', 'Drama']",7.5
+1334,Jack Nicholson,Der König von Marvin Gardens,1972,['Drama'],6.5
+1335,Jack Nicholson,Ein Zauberer an meiner Seite,1971,['Drama'],5.0
+1336,Jack Nicholson,Die Kunst zu lieben,1971,"['Comedy', 'Drama']",6.9
+1337,Jack Nicholson,Five Easy Pieces - Ein Mann sucht sich selbst,1970,['Drama'],7.4
+1338,Jack Nicholson,Einst kommt der Tag,1970,"['Comedy', 'Drama', 'Fantasy']",6.4
+1339,Jack Nicholson,Rebel Riders,1970,"['Crime', 'Drama']",4.1
+1340,Jack Nicholson,Easy Rider,1969,"['Adventure', 'Drama']",7.2
+1341,Jack Nicholson,Head,1968,"['Comedy', 'Fantasy', 'Musical']",6.4
+1342,Jack Nicholson,Psych-Out,1968,['Drama'],5.9
+1343,Jack Nicholson,Chicago-Massaker,1967,"['Crime', 'Drama', 'History']",6.6
+1344,Jack Nicholson,Die wilden Schläger von San Francisco,1967,"['Crime', 'Drama', 'Thriller']",5.1
+1345,Jack Nicholson,Ritt im Wirbelwind,1966,"['Drama', 'Western']",6.4
+1346,Jack Nicholson,Das Schießen,1966,"['Drama', 'Western']",6.5
+1347,Jack Nicholson,Back Door to Hell,1964,"['Drama', 'War']",5.2
+1348,Jack Nicholson,Flight to Fury,1964,['Adventure'],5.3
+1349,Jack Nicholson,Operation Pazifik,1964,"['Comedy', 'Drama', 'War']",5.9
+1350,Jack Nicholson,The Terror - Schloß des Schreckens,1963,"['Horror', 'Thriller']",5.0
+1351,Jack Nicholson,Der Rabe - Duell der Zauberer,1963,"['Comedy', 'Fantasy', 'Horror']",6.5
+1352,Jack Nicholson,Das gebrochene Land,1962,['Western'],5.1
+1353,Jack Nicholson,Kein Stern geht verloren,1960,['Drama'],5.0
+1354,Jack Nicholson,Kleiner Laden voller Schrecken,1960,"['Comedy', 'Horror']",6.2
+1355,Jack Nicholson,The Wild Ride,1960,"['Crime', 'Drama']",4.4
+1356,Jack Nicholson,Die Sünde lockt,1960,"['Drama', 'Romance']",5.1
+1357,Jack Nicholson,The Cry Baby Killer,1958,"['Crime', 'Drama', 'Thriller']",5.1
+1358,Scarlett Johansson,North Star,2023,"['Comedy', 'Drama']",6.6
+1359,Scarlett Johansson,Asteroid City,2023,"['Comedy', 'Drama', 'Romance']",6.5
+1360,Scarlett Johansson,Sing - Die Show deines Lebens,2021,"['Animation', 'Adventure', 'Comedy']",7.3
+1361,Scarlett Johansson,Black Widow,2021,"['Action', 'Adventure', 'Sci-Fi']",6.7
+1362,Scarlett Johansson,Jojo Rabbit,2019,"['Comedy', 'Drama', 'War']",7.9
+1363,Scarlett Johansson,Marriage Story,2019,"['Drama', 'Romance']",7.9
+1364,Scarlett Johansson,Avengers: Endgame,2019,"['Action', 'Adventure', 'Drama']",8.4
+1365,Scarlett Johansson,Captain Marvel,2019,"['Action', 'Adventure', 'Sci-Fi']",6.8
+1366,Scarlett Johansson,Avengers: Infinity War,2018,"['Action', 'Adventure', 'Sci-Fi']",8.4
+1367,Scarlett Johansson,Isle of Dogs - Ataris Reise,2018,"['Animation', 'Adventure', 'Comedy']",7.8
+1368,Scarlett Johansson,Girls' Night Out,2017,['Comedy'],5.2
+1369,Scarlett Johansson,Ghost in the Shell,2017,"['Action', 'Crime', 'Drama']",6.3
+1370,Scarlett Johansson,Sing,2016,"['Animation', 'Comedy', 'Family']",7.1
+1371,Scarlett Johansson,The First Avenger: Civil War,2016,"['Action', 'Sci-Fi']",7.8
+1372,Scarlett Johansson,The Jungle Book,2016,"['Animation', 'Action', 'Adventure']",7.4
+1373,Scarlett Johansson,"Hail, Caesar!",2016,"['Comedy', 'Drama', 'Mystery']",6.3
+1374,Scarlett Johansson,Avengers: Age of Ultron,2015,"['Action', 'Adventure', 'Sci-Fi']",7.3
+1375,Scarlett Johansson,Lucy,2014,"['Action', 'Sci-Fi', 'Thriller']",6.4
+1376,Scarlett Johansson,The Return of the First Avenger,2014,"['Action', 'Adventure', 'Sci-Fi']",7.7
+1377,Scarlett Johansson,Kiss the Cook: So schmeckt das Leben,2014,"['Adventure', 'Comedy', 'Drama']",7.3
+1378,Scarlett Johansson,Her,2013,"['Drama', 'Romance', 'Sci-Fi']",8.0
+1379,Scarlett Johansson,Under the Skin - Tödliche Verführung,2013,"['Drama', 'Horror', 'Mystery']",6.3
+1380,Scarlett Johansson,Don Jon,2013,"['Comedy', 'Drama', 'Romance']",6.5
+1381,Scarlett Johansson,Hitchcock,2012,"['Biography', 'Drama', 'Romance']",6.8
+1382,Scarlett Johansson,The Avengers,2012,"['Action', 'Sci-Fi']",8.0
+1383,Scarlett Johansson,Wir kaufen einen Zoo,2011,"['Comedy', 'Drama', 'Family']",7.0
+1384,Scarlett Johansson,Iron Man 2,2010,"['Action', 'Sci-Fi']",6.9
+1385,Scarlett Johansson,Er steht einfach nicht auf Dich,2009,"['Comedy', 'Drama', 'Romance']",6.4
+1386,Scarlett Johansson,The Spirit,2008,"['Action', 'Crime', 'Fantasy']",4.7
+1387,Scarlett Johansson,Vicky Cristina Barcelona,2008,"['Comedy', 'Drama', 'Romance']",7.1
+1388,Scarlett Johansson,Die Schwester der Königin,2008,"['Biography', 'Drama', 'History']",6.7
+1389,Scarlett Johansson,Nanny Diaries,2007,"['Comedy', 'Drama', 'Romance']",6.2
+1390,Scarlett Johansson,Prestige - Die Meister der Magie,2006,"['Drama', 'Mystery', 'Sci-Fi']",8.5
+1391,Scarlett Johansson,Black Dahlia,2006,"['Crime', 'Drama', 'Mystery']",5.6
+1392,Scarlett Johansson,Scoop - Der Knüller,2006,"['Comedy', 'Crime', 'Fantasy']",6.6
+1393,Scarlett Johansson,Die Insel,2005,"['Action', 'Sci-Fi', 'Thriller']",6.8
+1394,Scarlett Johansson,Match Point,2005,"['Drama', 'Romance', 'Thriller']",7.6
+1395,Scarlett Johansson,Reine Chefsache,2004,"['Comedy', 'Drama', 'Romance']",6.5
+1396,Scarlett Johansson,Der SpongeBob Schwammkopf Film,2004,"['Animation', 'Adventure', 'Comedy']",7.2
+1397,Scarlett Johansson,Good Woman - Ein Sommer in Amalfi,2004,"['Drama', 'Comedy', 'Romance']",6.4
+1398,Scarlett Johansson,Lovesong für Bobby Long,2004,['Drama'],7.1
+1399,Scarlett Johansson,Voll gepunktet,2004,"['Comedy', 'Crime', 'Drama']",5.7
+1400,Scarlett Johansson,Das Mädchen mit dem Perlenohrring,2003,"['Biography', 'Drama', 'Romance']",6.9
+1401,Scarlett Johansson,Lost in Translation: Zwischen den Welten,2003,"['Comedy', 'Drama']",7.7
+1402,Scarlett Johansson,Arac Attack - Angriff der achtbeinigen Monster,2002,"['Action', 'Adventure', 'Comedy']",5.5
+1403,Scarlett Johansson,Ein amerikanischer Traum,2001,['Drama'],6.7
+1404,Scarlett Johansson,Ghost World,2001,"['Comedy', 'Drama']",7.3
+1405,Scarlett Johansson,The Man Who Wasn't There,2001,"['Crime', 'Drama']",7.5
+1406,Scarlett Johansson,My Brother the Pig,1999,"['Comedy', 'Family', 'Fantasy']",4.2
+1407,Scarlett Johansson,Der Pferdeflüsterer,1998,"['Drama', 'Romance', 'Western']",6.7
+1408,Scarlett Johansson,Wieder allein zu Haus,1997,"['Action', 'Comedy', 'Crime']",4.6
+1409,Scarlett Johansson,Fall,1997,"['Drama', 'Romance']",5.8
+1410,Scarlett Johansson,Wenn Lucy springt,1996,"['Comedy', 'Romance']",4.9
+1411,Scarlett Johansson,Manny & Lo,1996,"['Comedy', 'Drama']",6.6
+1412,Scarlett Johansson,Im Sumpf des Verbrechens,1995,"['Action', 'Crime', 'Drama']",6.4
+1413,Scarlett Johansson,North,1994,"['Adventure', 'Comedy', 'Drama']",4.5
+1414,Tom Hardy,The Bikeriders,2023,"['Crime', 'Drama']",7.2
+1415,Tom Hardy,Spider-Man: No Way Home,2021,"['Action', 'Adventure', 'Fantasy']",8.2
+1416,Tom Hardy,Venom: Let There Be Carnage,2021,"['Action', 'Sci-Fi', 'Thriller']",5.9
+1417,Tom Hardy,Capone,2020,"['Biography', 'Crime', 'Drama']",4.7
+1418,Tom Hardy,Venom,2018,"['Action', 'Adventure', 'Sci-Fi']",6.6
+1419,Tom Hardy,Dunkirk,2017,"['Action', 'Drama', 'History']",7.8
+1420,Tom Hardy,The Revenant - Der Rückkehrer,2015,"['Action', 'Adventure', 'Drama']",8.0
+1421,Tom Hardy,Legend,2015,"['Biography', 'Crime', 'Drama']",6.9
+1422,Tom Hardy,London Road,2015,"['Crime', 'Drama', 'Musical']",5.3
+1423,Tom Hardy,Mad Max: Fury Road,2015,"['Action', 'Adventure', 'Sci-Fi']",8.1
+1424,Tom Hardy,Kind 44,2015,"['Crime', 'Drama', 'History']",6.4
+1425,Tom Hardy,The Drop - Bargeld,2014,"['Crime', 'Drama', 'Thriller']",7.0
+1426,Tom Hardy,No Turning Back,2013,['Drama'],7.1
+1427,Tom Hardy,The Dark Knight Rises,2012,"['Action', 'Drama', 'Thriller']",8.4
+1428,Tom Hardy,Lawless - Die Gesetzlosen,2012,"['Biography', 'Crime', 'Drama']",7.2
+1429,Tom Hardy,Das gibt Ärger,2012,"['Action', 'Comedy', 'Romance']",6.3
+1430,Tom Hardy,Warrior,2011,"['Action', 'Drama', 'Sport']",8.1
+1431,Tom Hardy,"Dame, König, As, Spion",2011,"['Drama', 'Mystery', 'Thriller']",7.0
+1432,Tom Hardy,Inception,2010,"['Action', 'Adventure', 'Sci-Fi']",8.8
+1433,Tom Hardy,Thick as Thieves,2009,"['Action', 'Crime', 'Thriller']",6.0
+1434,Tom Hardy,Bronson,2008,"['Action', 'Crime', 'Drama']",7.0
+1435,Tom Hardy,RocknRolla,2008,"['Action', 'Crime', 'Thriller']",7.2
+1436,Tom Hardy,Sucker Punch,2008,['Action'],4.8
+1437,Tom Hardy,The Inheritance,2007,['Drama'],5.3
+1438,Tom Hardy,WAZ - Welche Qualen erträgst du?,2007,"['Crime', 'Drama', 'Horror']",5.7
+1439,Tom Hardy,Die Flut - Wenn das Meer die Städte verschlingt,2007,"['Action', 'Drama', 'Thriller']",4.8
+1440,Tom Hardy,Scenes of a Sexual Nature,2006,"['Comedy', 'Drama', 'Romance']",5.9
+1441,Tom Hardy,Marie Antoinette,2006,"['Biography', 'Drama', 'History']",6.5
+1442,Tom Hardy,Minotaur,2006,"['Action', 'Adventure', 'Fantasy']",3.7
+1443,Tom Hardy,Layer Cake,2004,"['Action', 'Crime', 'Drama']",7.3
+1444,Tom Hardy,EMR,2004,['Thriller'],5.4
+1445,Tom Hardy,LD 50 Lethal Dose,2003,['Horror'],3.9
+1446,Tom Hardy,The Reckoning,2003,"['Crime', 'Drama', 'Mystery']",6.4
+1447,Tom Hardy,Ein gefährlicher Kuss,2003,"['Drama', 'Romance', 'Thriller']",6.7
+1448,Tom Hardy,Star Trek - Nemesis,2002,"['Action', 'Adventure', 'Sci-Fi']",6.4
+1449,Tom Hardy,Legion of Honor,2002,"['Drama', 'War']",5.3
+1450,Tom Hardy,Black Hawk Down,2001,"['Action', 'Drama', 'History']",7.7
+1451,Robert Downey Jr.,Oppenheimer,2023,"['Biography', 'Drama', 'History']",8.3
+1452,Robert Downey Jr.,Die fantastische Reise des Dr. Dolittle,2020,"['Adventure', 'Comedy', 'Family']",5.6
+1453,Robert Downey Jr.,Avengers: Endgame,2019,"['Action', 'Adventure', 'Drama']",8.4
+1454,Robert Downey Jr.,Avengers: Infinity War,2018,"['Action', 'Adventure', 'Sci-Fi']",8.4
+1455,Robert Downey Jr.,Spider-Man: Homecoming,2017,"['Action', 'Adventure', 'Sci-Fi']",7.4
+1456,Robert Downey Jr.,The First Avenger: Civil War,2016,"['Action', 'Sci-Fi']",7.8
+1457,Robert Downey Jr.,Avengers: Age of Ultron,2015,"['Action', 'Adventure', 'Sci-Fi']",7.3
+1458,Robert Downey Jr.,Der Richter - Recht oder Ehre,2014,"['Crime', 'Drama', 'Mystery']",7.4
+1459,Robert Downey Jr.,Kiss the Cook: So schmeckt das Leben,2014,"['Adventure', 'Comedy', 'Drama']",7.3
+1460,Robert Downey Jr.,Iron Man 3,2013,"['Action', 'Adventure', 'Sci-Fi']",7.1
+1461,Robert Downey Jr.,The Avengers,2012,"['Action', 'Sci-Fi']",8.0
+1462,Robert Downey Jr.,Sherlock Holmes - Spiel im Schatten,2011,"['Action', 'Adventure', 'Mystery']",7.4
+1463,Robert Downey Jr.,Stichtag - Schluss mit gemütlich,2010,"['Comedy', 'Drama']",6.5
+1464,Robert Downey Jr.,Iron Man 2,2010,"['Action', 'Sci-Fi']",6.9
+1465,Robert Downey Jr.,Sherlock Holmes,2009,"['Action', 'Adventure', 'Mystery']",7.6
+1466,Robert Downey Jr.,Der Solist,2009,"['Biography', 'Drama', 'Music']",6.7
+1467,Robert Downey Jr.,Tropic Thunder,2008,"['Action', 'Comedy', 'War']",7.1
+1468,Robert Downey Jr.,Der unglaubliche Hulk,2008,"['Action', 'Adventure', 'Sci-Fi']",6.6
+1469,Robert Downey Jr.,Iron Man,2008,"['Action', 'Adventure', 'Sci-Fi']",7.9
+1470,Robert Downey Jr.,Charlie Bartlett,2007,"['Comedy', 'Drama', 'Romance']",6.9
+1471,Robert Downey Jr.,Glück im Spiel,2007,"['Drama', 'Romance', 'Sport']",5.9
+1472,Robert Downey Jr.,Zodiac: Die Spur des Killers,2007,"['Crime', 'Drama', 'Mystery']",7.7
+1473,Robert Downey Jr.,Fell - Ein imaginäres Portrait von Diane Arbus,2006,"['Biography', 'Drama', 'Romance']",6.3
+1474,Robert Downey Jr.,A Scanner Darkly - Der dunkle Schirm,2006,"['Animation', 'Comedy', 'Crime']",7.0
+1475,Robert Downey Jr.,"Shaggy Dog - Hör mal, wer da bellt",2006,"['Comedy', 'Family', 'Fantasy']",4.4
+1476,Robert Downey Jr.,Kids in den Straßen New Yorks,2006,"['Crime', 'Drama']",6.9
+1477,Robert Downey Jr.,"Good Night, and Good Luck.",2005,"['Biography', 'Drama', 'History']",7.4
+1478,Robert Downey Jr.,Kiss Kiss Bang Bang,2005,"['Comedy', 'Crime', 'Mystery']",7.5
+1479,Robert Downey Jr.,Game 6,2005,"['Comedy', 'Drama', 'Sport']",5.7
+1480,Robert Downey Jr.,Eros,2004,"['Drama', 'Romance']",5.9
+1481,Robert Downey Jr.,Gothika,2003,"['Horror', 'Mystery', 'Thriller']",5.8
+1482,Robert Downey Jr.,The Singing Detective,2003,"['Comedy', 'Crime', 'Musical']",5.4
+1483,Robert Downey Jr.,Die Wonder Boys,2000,"['Comedy', 'Drama']",7.2
+1484,Robert Downey Jr.,Black and White,1999,"['Crime', 'Drama', 'Music']",5.0
+1485,Robert Downey Jr.,Bowfingers große Nummer,1999,['Comedy'],6.5
+1486,Robert Downey Jr.,Friends & Lovers,1999,"['Comedy', 'Drama', 'Romance']",4.4
+1487,Robert Downey Jr.,Jenseits der Träume,1999,"['Drama', 'Fantasy', 'Thriller']",5.5
+1488,Robert Downey Jr.,Auf der Jagd,1998,"['Action', 'Crime', 'Thriller']",6.6
+1489,Robert Downey Jr.,The Gingerbread Man,1998,"['Crime', 'Mystery', 'Thriller']",5.7
+1490,Robert Downey Jr.,Hugo Pool,1997,"['Comedy', 'Romance']",5.0
+1491,Robert Downey Jr.,Two Girls and a Guy,1997,['Drama'],5.5
+1492,Robert Downey Jr.,One Night Stand,1997,"['Drama', 'Romance']",5.9
+1493,Robert Downey Jr.,Dangerous Zone,1996,"['Action', 'Drama']",4.4
+1494,Robert Downey Jr.,Zeit der Sinnlichkeit,1995,"['Biography', 'Drama', 'History']",6.6
+1495,Robert Downey Jr.,Familienfeste und andere Schwierigkeiten,1995,"['Comedy', 'Drama', 'Romance']",6.6
+1496,Robert Downey Jr.,Richard III,1995,"['Drama', 'Sci-Fi', 'War']",7.3
+1497,Robert Downey Jr.,Nur für Dich,1994,"['Comedy', 'Romance']",6.5
+1498,Robert Downey Jr.,Natural Born Killers,1994,"['Action', 'Crime', 'Romance']",7.2
+1499,Robert Downey Jr.,Julius Caesar Superstar,1994,"['Comedy', 'Music']",3.1
+1500,Robert Downey Jr.,Short Cuts,1993,"['Comedy', 'Drama']",7.6
+1501,Robert Downey Jr.,4 himmlische Freunde,1993,"['Comedy', 'Drama', 'Fantasy']",7.0
+1502,Robert Downey Jr.,Chaplin - Das Leben der unsterblichen Filmlegende,1992,"['Biography', 'Comedy', 'Drama']",7.5
+1503,Robert Downey Jr.,Lieblingsfeinde - Eine Seifenoper,1991,"['Comedy', 'Romance']",6.6
+1504,Robert Downey Jr.,Too Much Sun - Ein Stich zuviel,1990,['Comedy'],4.2
+1505,Robert Downey Jr.,Air America,1990,"['Action', 'Comedy', 'War']",5.8
+1506,Robert Downey Jr.,Ein himmlischer Liebhaber,1989,"['Comedy', 'Fantasy', 'Romance']",6.5
+1507,Robert Downey Jr.,Das dreckige Spiel,1989,"['Crime', 'Drama', 'Mystery']",6.7
+1508,Robert Downey Jr.,That's Adequate,1989,['Comedy'],4.7
+1509,Robert Downey Jr.,Die Generation von 1969,1988,"['Drama', 'War']",5.7
+1510,Robert Downey Jr.,Johnny Be Good,1988,"['Comedy', 'Sport']",4.6
+1511,Robert Downey Jr.,Unter Null,1987,"['Crime', 'Drama']",6.4
+1512,Robert Downey Jr.,Rented Lips,1987,['Comedy'],3.7
+1513,Robert Downey Jr.,"Jack, der Aufreißer",1987,"['Comedy', 'Crime', 'Drama']",5.4
+1514,Robert Downey Jr.,America,1986,['Comedy'],4.3
+1515,Robert Downey Jr.,"Mach's nochmal, Dad",1986,"['Comedy', 'Romance', 'Sport']",6.7
+1516,Robert Downey Jr.,L.I.S.A. - Der helle Wahnsinn,1985,"['Comedy', 'Romance', 'Sci-Fi']",6.6
+1517,Robert Downey Jr.,Lipstick & Ice Cream,1985,"['Comedy', 'Music', 'Romance']",6.0
+1518,Robert Downey Jr.,Love-Fighters - Tuff Turf,1985,"['Action', 'Comedy', 'Drama']",6.0
+1519,Robert Downey Jr.,Moving in - Eine fast intakte Familie,1984,"['Drama', 'Thriller']",6.2
+1520,Robert Downey Jr.,"Baby, It's You",1983,"['Comedy', 'Drama', 'Romance']",6.4
+1521,Robert Downey Jr.,Die Kadeppen Akademie,1980,['Comedy'],4.7
+1522,Robert Downey Jr.,Greaser's Palace,1972,"['Comedy', 'Western']",5.8
+1523,Robert Downey Jr.,Pound,1970,['Fantasy'],5.7
+1524,Orlando Bloom,Red Right Hand,2024,"['Action', 'Thriller']",5.4
+1525,Orlando Bloom,Peppas Kino-Party,2024,"['Animation', 'Family']",5.8
+1526,Orlando Bloom,Gran Turismo,2023,"['Action', 'Adventure', 'Drama']",7.1
+1527,Orlando Bloom,Needle in a Timestack,2021,"['Drama', 'Fantasy', 'Romance']",5.3
+1528,Orlando Bloom,The Outpost - Überleben ist alles,2019,"['Action', 'Drama', 'History']",6.8
+1529,Orlando Bloom,The Shanghai Job,2017,"['Action', 'Thriller']",4.4
+1530,Orlando Bloom,Romans,2017,"['Drama', 'Thriller']",5.5
+1531,Orlando Bloom,Pirates of the Caribbean: Salazars Rache,2017,"['Action', 'Adventure', 'Fantasy']",6.5
+1532,Orlando Bloom,Unlocked,2017,"['Action', 'Thriller']",6.3
+1533,Orlando Bloom,Tim und Lee,2015,"['Comedy', 'Drama']",5.8
+1534,Orlando Bloom,Der Hobbit - Die Schlacht der fünf Heere,2014,"['Adventure', 'Fantasy']",7.4
+1535,Orlando Bloom,Romeo and Juliet,2014,['Romance'],5.4
+1536,Orlando Bloom,Der Hobbit: Smaugs Einöde,2013,"['Adventure', 'Drama', 'Fantasy']",7.8
+1537,Orlando Bloom,Zulu - Blutiges Erbe,2013,"['Action', 'Crime', 'Drama']",6.7
+1538,Orlando Bloom,Die drei Musketiere,2011,"['Action', 'Adventure', 'Fantasy']",5.7
+1539,Orlando Bloom,The Good Doctor - Tödliche Behandlung,2011,"['Drama', 'Mystery', 'Thriller']",5.5
+1540,Orlando Bloom,Main Street,2010,['Drama'],4.8
+1541,Orlando Bloom,Sympathy for Delicious,2010,['Drama'],5.6
+1542,Orlando Bloom,"New York, I Love You",2008,"['Comedy', 'Drama', 'Romance']",6.2
+1543,Orlando Bloom,Pirates of the Caribbean - Am Ende der Welt,2007,"['Action', 'Adventure', 'Fantasy']",7.1
+1544,Orlando Bloom,Love (And Other Disasters),2006,"['Comedy', 'Drama', 'Romance']",6.1
+1545,Orlando Bloom,Pirates of the Caribbean - Fluch der Karibik 2,2006,"['Action', 'Adventure', 'Fantasy']",7.4
+1546,Orlando Bloom,Elizabethtown,2005,"['Comedy', 'Drama', 'Romance']",6.3
+1547,Orlando Bloom,Königreich der Himmel,2005,"['Action', 'Adventure', 'Drama']",7.3
+1548,Orlando Bloom,Haven,2004,"['Crime', 'Drama']",5.7
+1549,Orlando Bloom,Troja,2004,"['Adventure', 'Drama']",7.3
+1550,Orlando Bloom,The Calcium Kid,2004,"['Comedy', 'Sport']",5.6
+1551,Orlando Bloom,Der Herr der Ringe: Die Rückkehr des Königs,2003,"['Action', 'Adventure', 'Drama']",9.0
+1552,Orlando Bloom,Fluch der Karibik,2003,"['Action', 'Adventure', 'Fantasy']",8.1
+1553,Orlando Bloom,Gesetzlos - Die Geschichte des Ned Kelly,2003,"['Action', 'Adventure', 'Biography']",6.4
+1554,Orlando Bloom,Der Herr der Ringe: Die zwei Türme,2002,"['Action', 'Adventure', 'Drama']",8.8
+1555,Orlando Bloom,Black Hawk Down,2001,"['Action', 'Drama', 'History']",7.7
+1556,Orlando Bloom,Der Herr der Ringe: Die Gefährten,2001,"['Action', 'Adventure', 'Drama']",8.9
+1557,Orlando Bloom,Oscar Wilde,1997,"['Biography', 'Drama', 'Romance']",6.9
+1558,Ian McKellen,Hamlet,2024,['Drama'],6.5
+1559,Ian McKellen,The Critic,2023,"['Crime', 'Drama', 'Mystery']",6.6
+1560,Ian McKellen,Hamlet Within,2022,['Drama'],7.1
+1561,Ian McKellen,Infinity - Unbekannte Dimension,2021,"['Mystery', 'Sci-Fi']",4.0
+1562,Ian McKellen,Cats,2019,"['Comedy', 'Drama', 'Family']",2.8
+1563,Ian McKellen,The Good Liar - Das alte Böse,2019,"['Crime', 'Drama', 'Mystery']",6.7
+1564,Ian McKellen,All Is True,2018,"['Biography', 'Drama', 'History']",6.3
+1565,Ian McKellen,National Theatre Live: King Lear,2018,"['Drama', 'History']",8.3
+1566,Ian McKellen,Ein tierischer Zirkus,2017,"['Animation', 'Adventure', 'Comedy']",5.8
+1567,Ian McKellen,Die Schöne und das Biest,2017,"['Adventure', 'Family', 'Fantasy']",7.1
+1568,Ian McKellen,Look Back in Anger,2016,['Drama'],5.3
+1569,Ian McKellen,Mr. Holmes,2015,"['Crime', 'Drama', 'Family']",6.8
+1570,Ian McKellen,Der Hobbit - Die Schlacht der fünf Heere,2014,"['Adventure', 'Fantasy']",7.4
+1571,Ian McKellen,X-Men: Zukunft ist Vergangenheit,2014,"['Action', 'Adventure', 'Sci-Fi']",7.9
+1572,Ian McKellen,Miss in Her Teens,2014,['Comedy'],5.3
+1573,Ian McKellen,Der Hobbit: Smaugs Einöde,2013,"['Adventure', 'Drama', 'Fantasy']",7.8
+1574,Ian McKellen,Wolverine: Weg des Kriegers,2013,"['Action', 'Sci-Fi']",6.7
+1575,Ian McKellen,Der Hobbit: Eine unerwartete Reise,2012,"['Adventure', 'Fantasy']",7.8
+1576,Ian McKellen,Der goldene Kompass,2007,"['Adventure', 'Family', 'Fantasy']",6.1
+1577,Ian McKellen,Der Sternwanderer,2007,"['Adventure', 'Family', 'Fantasy']",7.6
+1578,Ian McKellen,Displaced,2006,"['Action', 'Adventure', 'Sci-Fi']",2.7
+1579,Ian McKellen,Flutsch und weg,2006,"['Animation', 'Action', 'Adventure']",6.6
+1580,Ian McKellen,X-Men: Der letzte Widerstand,2006,"['Action', 'Adventure', 'Sci-Fi']",6.6
+1581,Ian McKellen,The Da Vinci Code - Sakrileg,2006,"['Mystery', 'Thriller']",6.6
+1582,Ian McKellen,Doogal,2006,"['Animation', 'Adventure', 'Comedy']",2.8
+1583,Ian McKellen,Eighteen,2005,['Drama'],6.3
+1584,Ian McKellen,Neverwas,2005,"['Drama', 'Fantasy', 'Mystery']",6.5
+1585,Ian McKellen,Stellas Versuchung,2005,"['Drama', 'Romance', 'Thriller']",6.1
+1586,Ian McKellen,The Magic Roundabout,2005,"['Animation', 'Adventure', 'Comedy']",5.2
+1587,Ian McKellen,Der Herr der Ringe: Die Rückkehr des Königs,2003,"['Action', 'Adventure', 'Drama']",9.0
+1588,Ian McKellen,Emile,2003,['Drama'],6.3
+1589,Ian McKellen,X-Men 2,2003,"['Action', 'Sci-Fi', 'Thriller']",7.4
+1590,Ian McKellen,Der Herr der Ringe: Die zwei Türme,2002,"['Action', 'Adventure', 'Drama']",8.8
+1591,Ian McKellen,Der Herr der Ringe: Die Gefährten,2001,"['Action', 'Adventure', 'Drama']",8.9
+1592,Ian McKellen,X-Men,2000,"['Action', 'Adventure', 'Sci-Fi']",7.3
+1593,Ian McKellen,The Book That Wrote Itself,1999,['Comedy'],4.3
+1594,Ian McKellen,Der Musterschüler,1998,"['Crime', 'Drama', 'Thriller']",6.7
+1595,Ian McKellen,Gods and Monsters,1998,"['Biography', 'Drama']",7.3
+1596,Ian McKellen,Amy Foster - Im Meer der Gefühle,1997,"['Drama', 'Mystery', 'Romance']",6.7
+1597,Ian McKellen,Bent,1997,"['Drama', 'History', 'Romance']",7.1
+1598,Ian McKellen,Zeit der Sinnlichkeit,1995,"['Biography', 'Drama', 'History']",6.6
+1599,Ian McKellen,Richard III,1995,"['Drama', 'Sci-Fi', 'War']",7.3
+1600,Ian McKellen,Jack und Sarah - Daddy im Alleingang,1995,"['Comedy', 'Drama', 'Romance']",6.6
+1601,Ian McKellen,To Die For,1994,"['Comedy', 'Drama', 'Romance']",5.6
+1602,Ian McKellen,Shadow und der Fluch des Khan,1994,"['Action', 'Adventure', 'Crime']",6.0
+1603,Ian McKellen,I'll do anything oder: Geht's hier nach Hollywood?,1994,"['Comedy', 'Drama']",5.5
+1604,Ian McKellen,Das Leben - Ein Sechserpack,1993,"['Comedy', 'Drama', 'Mystery']",6.8
+1605,Ian McKellen,Little Jo - Eine Frau unter Wölfen,1993,"['Drama', 'Romance', 'Western']",6.7
+1606,Ian McKellen,Last Action Hero,1993,"['Action', 'Adventure', 'Comedy']",6.5
+1607,Ian McKellen,Scandal,1989,"['Drama', 'History']",6.4
+1608,Ian McKellen,Zina,1985,"['Biography', 'Drama']",6.6
+1609,Ian McKellen,Eine demanzipierte Frau,1985,['Drama'],6.0
+1610,Ian McKellen,Die unheimliche Macht,1983,"['Drama', 'Fantasy', 'Horror']",5.7
+1611,Ian McKellen,Priest of Love,1981,"['Biography', 'Drama', 'Romance']",6.0
+1612,Ian McKellen,The Promise,1969,['Drama'],7.2
+1613,Ian McKellen,Alfred der Große - Bezwinger der Wikinger,1969,"['Drama', 'History', 'War']",6.2
+1614,Ian McKellen,A Touch of Love,1969,['Drama'],6.3
+1615,Antonio Banderas,The Last Girl,2024,"['Adventure', 'Crime', 'Drama']",4.7
+1616,Antonio Banderas,Journey to Bethlehem,2023,"['Adventure', 'Family', 'Musical']",6.4
+1617,Antonio Banderas,Indiana Jones und das Rad des Schicksals,2023,"['Action', 'Adventure', 'Sci-Fi']",6.5
+1618,Antonio Banderas,Der gestiefelte Kater - Der letzte Wunsch,2022,"['Animation', 'Action', 'Adventure']",7.8
+1619,Antonio Banderas,The Enforcer,2022,"['Action', 'Crime', 'Drama']",5.3
+1620,Antonio Banderas,Code Name Banshee,2022,"['Action', 'Thriller']",3.7
+1621,Antonio Banderas,Uncharted,2022,"['Action', 'Adventure']",6.3
+1622,Antonio Banderas,Der beste Film aller Zeiten,2021,"['Comedy', 'Drama']",7.0
+1623,Antonio Banderas,Killer's Bodyguard 2,2021,"['Action', 'Comedy', 'Crime']",6.1
+1624,Antonio Banderas,Die fantastische Reise des Dr. Dolittle,2020,"['Adventure', 'Comedy', 'Family']",5.6
+1625,Antonio Banderas,Die Geldwäscherei,2019,"['Comedy', 'Crime', 'Drama']",6.3
+1626,Antonio Banderas,Leid und Herrlichkeit,2019,['Drama'],7.5
+1627,Antonio Banderas,Life Itself,2018,"['Drama', 'Romance']",6.9
+1628,Antonio Banderas,Jenseits der Realität,2018,"['Action', 'Adventure', 'Fantasy']",4.5
+1629,Antonio Banderas,Bullet Head,2017,"['Crime', 'Drama', 'Thriller']",5.4
+1630,Antonio Banderas,Pfad der Rache,2017,"['Action', 'Drama', 'Thriller']",5.7
+1631,Antonio Banderas,Gun Shy,2017,"['Action', 'Comedy', 'Thriller']",4.1
+1632,Antonio Banderas,La musica del silenzio,2017,"['Biography', 'Drama', 'Music']",6.6
+1633,Antonio Banderas,Black Butterfly - Der Mörder in mir,2017,"['Drama', 'Mystery', 'Thriller']",6.1
+1634,Antonio Banderas,Security,2017,"['Action', 'Crime', 'Thriller']",5.7
+1635,Antonio Banderas,Altamira,2016,"['Biography', 'Drama', 'History']",6.0
+1636,Antonio Banderas,69 Tage Hoffnung,2015,"['Biography', 'Drama', 'History']",6.9
+1637,Antonio Banderas,Knight of Cups,2015,"['Drama', 'Fantasy', 'Romance']",5.6
+1638,Antonio Banderas,SpongeBob Schwammkopf: Schwamm aus dem Wasser,2015,"['Animation', 'Adventure', 'Comedy']",6.0
+1639,Antonio Banderas,Automata,2014,"['Action', 'Drama', 'Sci-Fi']",6.0
+1640,Antonio Banderas,The Expendables 3,2014,"['Action', 'Adventure', 'Thriller']",6.1
+1641,Antonio Banderas,Machete Kills,2013,"['Action', 'Comedy', 'Crime']",5.6
+1642,Antonio Banderas,Justin - Völlig verrittert!,2013,"['Animation', 'Adventure', 'Comedy']",6.0
+1643,Antonio Banderas,Fliegende Liebende,2013,"['Comedy', 'Musical']",5.6
+1644,Antonio Banderas,Ruby Sparks,2012,"['Comedy', 'Drama', 'Fantasy']",7.2
+1645,Antonio Banderas,Haywire - Trau' keinem,2011,"['Action', 'Drama', 'Thriller']",5.8
+1646,Antonio Banderas,Black Gold,2011,"['Action', 'Drama', 'History']",6.6
+1647,Antonio Banderas,Der gestiefelte Kater,2011,"['Animation', 'Action', 'Adventure']",6.6
+1648,Antonio Banderas,Spy Kids - Alle Zeit der Welt,2011,"['Action', 'Adventure', 'Comedy']",3.5
+1649,Antonio Banderas,"Die Haut, in der ich wohne",2011,"['Drama', 'Mystery', 'Thriller']",7.6
+1650,Antonio Banderas,The Big Bang,2010,"['Action', 'Crime', 'Mystery']",5.4
+1651,Antonio Banderas,Ich sehe den Mann deiner Träume,2010,"['Comedy', 'Drama', 'Romance']",6.3
+1652,Antonio Banderas,Für immer Shrek,2010,"['Animation', 'Adventure', 'Comedy']",6.3
+1653,Antonio Banderas,Thick as Thieves,2009,"['Action', 'Crime', 'Thriller']",6.0
+1654,Antonio Banderas,Der Andere,2008,"['Drama', 'Mystery', 'Thriller']",5.4
+1655,Antonio Banderas,Lauschangriff - My Mom's New Boyfriend,2008,"['Comedy', 'Crime', 'Romance']",5.3
+1656,Antonio Banderas,Shrek der Dritte,2007,"['Animation', 'Adventure', 'Comedy']",6.1
+1657,Antonio Banderas,Bordertown,2007,"['Crime', 'Mystery', 'Thriller']",6.0
+1658,Antonio Banderas,Dance! Jeder Traum beginnt mit dem ersten Schritt,2006,"['Drama', 'Music']",6.6
+1659,Antonio Banderas,Die Legende des Zorro,2005,"['Action', 'Adventure', 'Romance']",6.0
+1660,Antonio Banderas,Shrek 2 - Der tollkühne Held kehrt zurück,2004,"['Animation', 'Adventure', 'Comedy']",7.3
+1661,Antonio Banderas,Imagining Argentina,2003,"['Drama', 'Romance', 'Thriller']",6.1
+1662,Antonio Banderas,Irgendwann in Mexico,2003,"['Action', 'Crime', 'Thriller']",6.3
+1663,Antonio Banderas,Spy Kids 3: Game Over,2003,"['Action', 'Adventure', 'Comedy']",4.4
+1664,Antonio Banderas,Ballistic,2002,"['Action', 'Crime', 'Mystery']",3.7
+1665,Antonio Banderas,Frida,2002,"['Biography', 'Drama', 'Romance']",7.3
+1666,Antonio Banderas,Spy Kids 2: Die Rückkehr der Superspione,2002,"['Action', 'Adventure', 'Comedy']",5.3
+1667,Antonio Banderas,Femme Fatale,2002,"['Crime', 'Drama', 'Mystery']",6.2
+1668,Antonio Banderas,Original Sin,2001,"['Drama', 'Mystery', 'Romance']",6.0
+1669,Antonio Banderas,Spy Kids,2001,"['Action', 'Adventure', 'Comedy']",5.6
+1670,Antonio Banderas,The Body,2001,"['Drama', 'Mystery', 'Romance']",5.3
+1671,Antonio Banderas,Knocked Out - Eine schlagkräftige Freundschaft,1999,"['Comedy', 'Drama', 'Sport']",5.5
+1672,Antonio Banderas,White River Kid,1999,"['Action', 'Comedy']",4.7
+1673,Antonio Banderas,Der 13. Krieger,1999,"['Action', 'Adventure', 'History']",6.6
+1674,Antonio Banderas,Die Maske des Zorro,1998,"['Action', 'Adventure', 'Comedy']",6.8
+1675,Antonio Banderas,Evita,1996,"['Biography', 'Drama', 'History']",6.3
+1676,Antonio Banderas,Eine Blondine zuviel - Two Much,1995,"['Comedy', 'Romance']",5.4
+1677,Antonio Banderas,Spiel mit dem Feuer,1995,"['Crime', 'Drama', 'Mystery']",5.2
+1678,Antonio Banderas,Assassins - Die Killer,1995,"['Action', 'Crime', 'Thriller']",6.3
+1679,Antonio Banderas,Silvester in fremden Betten,1995,['Comedy'],6.7
+1680,Antonio Banderas,Desperado,1995,"['Action', 'Crime', 'Drama']",7.1
+1681,Antonio Banderas,Miami Rhapsody - Heiße Nächte in Florida,1995,"['Comedy', 'Romance']",5.4
+1682,Antonio Banderas,Interview mit einem Vampir,1994,"['Drama', 'Fantasy', 'Horror']",7.5
+1683,Antonio Banderas,Von Liebe und Schatten,1994,"['Drama', 'Romance', 'Thriller']",4.9
+1684,Antonio Banderas,Philadelphia,1993,['Drama'],7.7
+1685,Antonio Banderas,Das Geisterhaus,1993,"['Drama', 'Romance']",6.9
+1686,Antonio Banderas,¡Dispara!,1993,"['Drama', 'Romance', 'Thriller']",6.0
+1687,Antonio Banderas,Una mujer bajo la lluvia,1992,['Comedy'],5.0
+1688,Antonio Banderas,Mambo Kings,1992,"['Drama', 'Music']",6.4
+1689,Antonio Banderas,Terra Nova,1991,['Drama'],6.8
+1690,Antonio Banderas,La bianca Paloma,1990,['Drama'],5.4
+1691,Antonio Banderas,El acto,1989,['Drama'],4.9
+1692,Antonio Banderas,Feßle mich!,1989,"['Comedy', 'Crime', 'Drama']",7.0
+1693,Antonio Banderas,La blanca paloma,1989,"['Action', 'Drama', 'Romance']",5.4
+1694,Antonio Banderas,Si te dicen que caí,1989,"['Drama', 'Mystery', 'Romance']",5.5
+1695,Antonio Banderas,Bajarse al moro,1989,['Comedy'],6.2
+1696,Antonio Banderas,Tödliche Therapie,1988,"['Crime', 'Mystery', 'Romance']",6.0
+1697,Antonio Banderas,Sie töten aus Lust,1988,"['Crime', 'Thriller']",4.9
+1698,Antonio Banderas,Frauen am Rande des Nervenzusammenbruchs,1988,"['Comedy', 'Drama']",7.5
+1699,Antonio Banderas,Así como habían sido,1987,['Drama'],5.5
+1700,Antonio Banderas,Das Gesetz der Begierde,1987,"['Comedy', 'Drama', 'Thriller']",7.1
+1701,Antonio Banderas,Delirios de amor,1986,['Drama'],5.5
+1702,Antonio Banderas,27 Stunden,1986,['Drama'],6.3
+1703,Antonio Banderas,Puzzle,1986,"['Action', 'Crime', 'Thriller']",6.2
+1704,Antonio Banderas,Matador,1986,"['Drama', 'Thriller']",6.9
+1705,Antonio Banderas,Caso cerrado,1985,['Drama'],5.6
+1706,Antonio Banderas,La corte de Faraón,1985,"['Comedy', 'Musical']",6.2
+1707,Antonio Banderas,Réquiem por un campesino español,1985,['Drama'],6.6
+1708,Antonio Banderas,Zeit der Illusion,1984,['Drama'],6.3
+1709,Antonio Banderas,El señor Galíndez,1984,['Drama'],4.6
+1710,Antonio Banderas,Der Fall Almeria,1984,['Drama'],6.5
+1711,Antonio Banderas,Y del seguro... líbranos Señor!,1983,['Comedy'],5.2
+1712,Antonio Banderas,Labyrinth der Leidenschaften,1982,"['Comedy', 'Drama', 'Romance']",6.1
+1713,Antonio Banderas,Pestañas postizas,1982,['Drama'],6.0
+1714,Guy Pearce,The Shrouds,2024,"['Horror', 'Sci-Fi', 'Thriller']",5.3
+1715,Guy Pearce,Sunrise,2024,"['Horror', 'Thriller']",3.7
+1716,Guy Pearce,The Convert,2023,"['Action', 'Drama']",7.4
+1717,Guy Pearce,The Infernal Machine,2022,"['Mystery', 'Thriller']",5.4
+1718,Guy Pearce,Memory - Sein letzter Auftrag,2022,"['Action', 'Crime', 'Thriller']",5.7
+1719,Guy Pearce,Zurück ins Outback,2021,"['Animation', 'Adventure', 'Comedy']",6.5
+1720,Guy Pearce,Zone 414,2021,"['Adventure', 'Crime', 'Drama']",5.0
+1721,Guy Pearce,Tom Clancy's Gnadenlos,2021,"['Action', 'Drama', 'Thriller']",5.8
+1722,Guy Pearce,The Seventh Day - Gott steh uns bei,2021,"['Horror', 'Mystery']",4.5
+1723,Guy Pearce,Bloodshot,2020,"['Action', 'Adventure', 'Sci-Fi']",5.7
+1724,Guy Pearce,Disturbing the Peace,2020,"['Action', 'Thriller']",3.4
+1725,Guy Pearce,The last Vermeer,2019,"['Drama', 'War']",6.7
+1726,Guy Pearce,Domino,2019,"['Action', 'Crime', 'Thriller']",4.5
+1727,Guy Pearce,"Maria Stuart, Königin von Schottland",2018,"['Biography', 'Drama', 'History']",6.3
+1728,Guy Pearce,Spinning Man,2018,"['Drama', 'Mystery', 'Thriller']",5.7
+1729,Guy Pearce,The Catcher Was a Spy,2018,"['Biography', 'Drama', 'War']",6.3
+1730,Guy Pearce,Swinging Summer - Willkommen in den 70ern,2018,"['Comedy', 'Drama']",5.6
+1731,Guy Pearce,Alien: Covenant,2017,"['Horror', 'Sci-Fi', 'Thriller']",6.4
+1732,Guy Pearce,Brimstone - Erlöse uns von dem Bösen,2016,"['Drama', 'Mystery', 'Thriller']",7.0
+1733,Guy Pearce,Genius: Die tausend Seiten einer Freundschaft,2016,"['Biography', 'Drama']",6.5
+1734,Guy Pearce,Equals - Euch gehört die Zukunft,2015,"['Drama', 'Romance', 'Sci-Fi']",6.0
+1735,Guy Pearce,Holding the Man,2015,"['Biography', 'Drama', 'History']",7.4
+1736,Guy Pearce,Results,2015,"['Comedy', 'Romance']",5.5
+1737,Guy Pearce,The Rover,2014,"['Action', 'Crime', 'Drama']",6.4
+1738,Guy Pearce,Hateship Loveship,2013,"['Drama', 'Romance']",6.1
+1739,Guy Pearce,Iron Man 3,2013,"['Action', 'Adventure', 'Sci-Fi']",7.1
+1740,Guy Pearce,Breathe in - Eine unmögliche Liebe,2013,"['Drama', 'Romance']",6.3
+1741,Guy Pearce,Lawless - Die Gesetzlosen,2012,"['Biography', 'Crime', 'Drama']",7.2
+1742,Guy Pearce,Prometheus - Dunkle Zeichen,2012,"['Adventure', 'Mystery', 'Sci-Fi']",7.0
+1743,Guy Pearce,Lockout,2012,"['Action', 'Sci-Fi', 'Thriller']",6.0
+1744,Guy Pearce,Pakt der Rache,2011,"['Action', 'Crime', 'Drama']",6.1
+1745,Guy Pearce,Don't Be Afraid of the Dark,2010,"['Fantasy', 'Horror', 'Thriller']",5.5
+1746,Guy Pearce,The King's Speech - Die Rede des Königs,2010,"['Biography', 'Drama', 'History']",8.0
+1747,Guy Pearce,33 Postcards,2010,"['Crime', 'Drama', 'Music']",6.1
+1748,Guy Pearce,Königreich des Verbrechens,2010,"['Crime', 'Drama', 'Thriller']",7.2
+1749,Guy Pearce,The Road,2009,"['Drama', 'Thriller']",7.2
+1750,Guy Pearce,I Am You - Mörderische Sehnsucht,2009,"['Biography', 'Crime', 'Drama']",6.4
+1751,Guy Pearce,Bedtime Stories,2008,"['Adventure', 'Comedy', 'Family']",6.0
+1752,Guy Pearce,Tödliches Kommando - The Hurt Locker,2008,"['Drama', 'Thriller', 'War']",7.5
+1753,Guy Pearce,Traitor,2008,"['Action', 'Crime', 'Drama']",6.9
+1754,Guy Pearce,Winged Creatures,2008,"['Crime', 'Drama']",5.6
+1755,Guy Pearce,Tödliche Magie,2007,"['Drama', 'History', 'Romance']",5.8
+1756,Guy Pearce,Factory Girl,2006,"['Biography', 'Drama']",6.3
+1757,Guy Pearce,First Snow,2006,"['Drama', 'Thriller']",6.2
+1758,Guy Pearce,The Proposition - Tödliches Angebot,2005,"['Crime', 'Drama', 'Western']",7.3
+1759,Guy Pearce,Zwei Brüder,2004,"['Adventure', 'Drama', 'Family']",7.0
+1760,Guy Pearce,Till Human Voices Wake Us,2002,"['Drama', 'Romance']",6.3
+1761,Guy Pearce,The Australian Job,2002,"['Action', 'Comedy', 'Crime']",6.0
+1762,Guy Pearce,The Time Machine,2002,"['Action', 'Adventure', 'Sci-Fi']",6.0
+1763,Guy Pearce,Monte Cristo,2002,"['Action', 'Adventure', 'Drama']",7.7
+1764,Guy Pearce,Memento,2000,"['Mystery', 'Thriller']",8.4
+1765,Guy Pearce,Rules - Sekunden der Entscheidung,2000,"['Drama', 'Thriller', 'War']",6.4
+1766,Guy Pearce,A Slipping-Down Life,1999,"['Drama', 'Music', 'Romance']",6.1
+1767,Guy Pearce,Ravenous - Friß oder stirb,1999,"['Adventure', 'Drama', 'Horror']",6.9
+1768,Guy Pearce,Zeit der Grausamkeit,1998,"['Drama', 'Sci-Fi']",3.8
+1769,Guy Pearce,L.A. Confidential,1997,"['Crime', 'Drama', 'Mystery']",8.2
+1770,Guy Pearce,"Liebling, bleib so wie ich bin!",1996,"['Comedy', 'Fantasy', 'Romance']",6.4
+1771,Guy Pearce,Priscilla - Königin der Wüste,1994,"['Comedy', 'Music']",7.5
+1772,Guy Pearce,My Forgotten Man,1993,"['Biography', 'Drama']",5.1
+1773,Guy Pearce,Friday on My Mind,1990,['Thriller'],5.8
+1774,Guy Pearce,Hunting,1990,['Drama'],4.5
+1775,Guy Pearce,Heaven Tonight,1989,"['Drama', 'Music']",6.0
+1776,Samuel L. Jackson,Garfield: Eine extra Portion Abenteuer,2024,"['Animation', 'Adventure', 'Comedy']",5.8
+1777,Samuel L. Jackson,Damaged,2024,"['Action', 'Crime', 'Drama']",4.6
+1778,Samuel L. Jackson,Argylle,2024,"['Action', 'Comedy', 'Thriller']",5.7
+1779,Samuel L. Jackson,The Marvels,2023,"['Action', 'Adventure', 'Fantasy']",5.5
+1780,Samuel L. Jackson,The Kill Room,2023,"['Comedy', 'Thriller']",5.5
+1781,Samuel L. Jackson,Paws of Fury: The Legend of Hank,2022,"['Animation', 'Action', 'Adventure']",5.7
+1782,Samuel L. Jackson,The Protégé - Made for Revenge,2021,"['Action', 'Thriller']",6.1
+1783,Samuel L. Jackson,Killer's Bodyguard 2,2021,"['Action', 'Comedy', 'Crime']",6.1
+1784,Sandra Bullock,Bullet Train,2022,"['Action', 'Comedy', 'Thriller']",7.3
+1785,Sandra Bullock,The Lost City,2022,"['Action', 'Adventure', 'Comedy']",6.1
+1786,Sandra Bullock,The Unforgivable,2021,"['Crime', 'Drama', 'Mystery']",7.1
+1787,Sandra Bullock,Bird Box,2018,"['Horror', 'Mystery', 'Sci-Fi']",6.6
+1788,Sandra Bullock,Ocean's Eight,2018,"['Action', 'Comedy', 'Crime']",6.3
+1789,Sandra Bullock,Our Brand Is Crisis,2015,"['Comedy', 'Drama']",6.1
+1790,Sandra Bullock,Minions,2015,"['Animation', 'Adventure', 'Comedy']",6.4
+1791,Sandra Bullock,Gravity,2013,"['Drama', 'Sci-Fi', 'Thriller']",7.7
+1792,Sandra Bullock,The Heat,2013,"['Action', 'Comedy', 'Crime']",6.6
+1793,Sandra Bullock,Extremely Loud & Incredibly Close,2011,"['Adventure', 'Drama', 'Mystery']",6.9
+1794,Sandra Bullock,The Blind Side,2009,"['Biography', 'Drama', 'Sport']",7.6
+1795,Sandra Bullock,All About Steve,2009,"['Comedy', 'Family', 'Romance']",4.8
+1796,Sandra Bullock,The Proposal,2009,"['Comedy', 'Drama', 'Romance']",6.8
+1797,Sandra Bullock,Premonition,2007,"['Drama', 'Fantasy', 'Mystery']",5.9
+1798,Meg Ryan,What Happens Later,2023,"['Comedy', 'Romance']",4.8
+1799,Meg Ryan,Ithaca,2015,"['Drama', 'War']",5.5
+1800,Meg Ryan,Serious Moonlight,2009,"['Comedy', 'Crime', 'Drama']",5.3
+1801,Meg Ryan,The Women - Von großen und kleinen Affären,2008,"['Comedy', 'Drama']",5.0
+1802,Meg Ryan,Lauschangriff - My Mom's New Boyfriend,2008,"['Comedy', 'Crime', 'Romance']",5.3
+1803,Meg Ryan,The Deal,2008,"['Comedy', 'Romance']",5.6
+1804,Meg Ryan,Im Land der Frauen,2007,"['Comedy', 'Drama', 'Romance']",6.4
+1805,Meg Ryan,Die Promoterin,2004,"['Biography', 'Drama', 'Romance']",5.3
+1806,Meg Ryan,In the Cut,2003,"['Mystery', 'Thriller']",5.4
+1807,Meg Ryan,Kate & Leopold,2001,"['Comedy', 'Fantasy', 'Romance']",6.4
+1808,Meg Ryan,Lebenszeichen - Proof of Life,2000,"['Action', 'Drama', 'Thriller']",6.3
+1809,Meg Ryan,Aufgelegt!,2000,"['Comedy', 'Drama']",4.8
+1810,Meg Ryan,e-m@il für Dich,1998,"['Comedy', 'Drama', 'Romance']",6.7
+1811,Meg Ryan,Hurlyburly,1998,"['Comedy', 'Drama']",5.8
+1812,Meg Ryan,Stadt der Engel,1998,"['Drama', 'Fantasy', 'Romance']",6.7
+1813,Meg Ryan,Anastasia,1997,"['Animation', 'Adventure', 'Drama']",7.1
+1814,Meg Ryan,In Sachen Liebe,1997,"['Comedy', 'Romance']",6.1
+1815,Meg Ryan,Mut zur Wahrheit,1996,"['Action', 'Drama', 'Mystery']",6.6
+1816,Meg Ryan,Zeit der Sinnlichkeit,1995,"['Biography', 'Drama', 'History']",6.6
+1817,Meg Ryan,French Kiss,1995,"['Comedy', 'Drama', 'Romance']",6.6
+1818,Meg Ryan,I.Q. - Liebe ist relativ,1994,"['Comedy', 'Romance']",6.2
+1819,Meg Ryan,When a Man Loves a Woman - Eine fast perfekte Liebe,1994,"['Drama', 'Romance']",6.5
+1820,Meg Ryan,Ein Blutiges Erbe,1993,"['Drama', 'Mystery', 'Romance']",6.3
+1821,Meg Ryan,Schlaflos in Seattle,1993,"['Comedy', 'Drama', 'Romance']",6.8
+1822,Meg Ryan,Bodyswitch - Verhexte Küsse,1992,"['Comedy', 'Fantasy', 'Romance']",5.6
+1823,Meg Ryan,The Doors,1991,"['Biography', 'Drama', 'Music']",7.2
+1824,Meg Ryan,Joe gegen den Vulkan,1990,"['Comedy', 'Romance']",5.9
+1825,Meg Ryan,Harry und Sally,1989,"['Comedy', 'Drama', 'Romance']",7.7
+1826,Meg Ryan,Presidio,1988,"['Action', 'Crime', 'Mystery']",5.9
+1827,Meg Ryan,D.O.A. - Bei Ankunft Mord,1988,"['Mystery', 'Thriller']",6.1
+1828,Meg Ryan,Gelobtes Land,1987,['Drama'],5.7
+1829,Meg Ryan,Die Reise ins Ich,1987,"['Action', 'Adventure', 'Comedy']",6.8
+1830,Meg Ryan,Zwei Unter Volldampf,1986,"['Action', 'Comedy', 'Crime']",5.7
+1831,Meg Ryan,Top Gun,1986,"['Action', 'Drama']",6.9
+1832,Meg Ryan,Amityville 3,1983,['Horror'],4.2
+1833,Meg Ryan,Die wilden Reichen,1981,['Drama'],5.8
+1834,Megan Fox,The Expendables 4,2023,"['Action', 'Adventure', 'Thriller']",4.8
+1835,Megan Fox,Johnny & Clyde,2023,"['Action', 'Adventure', 'Crime']",2.7
+1836,Megan Fox,Good Mourning,2022,['Comedy'],3.1
+1837,Megan Fox,Big Gold Brick,2022,"['Comedy', 'Fantasy']",3.4
+1838,Megan Fox,Taurus,2022,"['Biography', 'Drama', 'Music']",4.6
+1839,Megan Fox,Night Teeth,2021,"['Action', 'Crime', 'Drama']",5.7
+1840,Megan Fox,Till Death: Bis dass dein Tod uns scheidet,2021,['Thriller'],5.9
+1841,Megan Fox,Midnight in the Switchgrass,2021,"['Crime', 'Mystery', 'Thriller']",4.5
+1842,Megan Fox,Rogue,2020,"['Action', 'Horror', 'Thriller']",4.2
+1843,Megan Fox,Denke wie ein Hund,2020,"['Comedy', 'Drama', 'Family']",5.2
+1844,Megan Fox,Jangsa-ri 9.15,2019,"['Action', 'Drama', 'War']",6.2
+1845,Megan Fox,Zeroville,2019,"['Comedy', 'Drama', 'Mystery']",4.6
+1846,Megan Fox,Above the Shadows,2019,"['Drama', 'Fantasy', 'Romance']",6.1
+1847,Megan Fox,Teenage Mutant Ninja Turtles: Out of the Shadows,2016,"['Action', 'Adventure', 'Comedy']",5.9
+1848,Megan Fox,Teenage Mutant Ninja Turtles,2014,"['Action', 'Adventure', 'Comedy']",5.8
+1849,Megan Fox,Immer Ärger mit 40,2012,"['Comedy', 'Drama', 'Romance']",6.2
+1850,Megan Fox,Der Diktator,2012,['Comedy'],6.5
+1851,Megan Fox,Friends with Kids,2011,"['Comedy', 'Drama', 'Romance']",6.1
+1852,Megan Fox,Passion Play,2010,"['Drama', 'Fantasy', 'Horror']",4.5
+1853,Megan Fox,Jonah Hex,2010,"['Action', 'Drama', 'Fantasy']",4.7
+1854,Megan Fox,Jennifer's Body - Jungs nach ihrem Geschmack,2009,"['Comedy', 'Horror']",5.5
+1855,Megan Fox,Transformers: Die Rache,2009,"['Action', 'Adventure', 'Sci-Fi']",6.0
+1856,Megan Fox,Whore,2008,['Drama'],4.9
+1857,Megan Fox,New York für Anfänger,2008,"['Biography', 'Comedy', 'Drama']",6.4
+1858,Megan Fox,Transformers,2007,"['Action', 'Adventure', 'Sci-Fi']",7.0
+1859,Megan Fox,Bekenntnisse einer Highschool-Diva,2004,"['Comedy', 'Family', 'Music']",4.7
+1860,Megan Fox,Bad Boys II,2003,"['Action', 'Comedy', 'Crime']",6.6
+1861,Nicole Kidman,Aquaman - Lost Kingdom,2023,"['Action', 'Adventure', 'Fantasy']",5.6
+1862,Nicole Kidman,The Northman,2022,"['Action', 'Adventure', 'Drama']",7.0
+1863,Nicole Kidman,Being the Ricardos,2021,"['Biography', 'Drama']",6.5
+1864,Nicole Kidman,The Prom,2020,"['Comedy', 'Drama', 'Musical']",5.9
+1865,Nicole Kidman,Bombshell - Das Ende des Schweigens,2019,"['Biography', 'Drama']",6.8
+1866,Nicole Kidman,Der Distelfink,2019,"['Crime', 'Drama', 'Mystery']",6.4
+1867,Nicole Kidman,Aquaman,2018,"['Action', 'Adventure', 'Fantasy']",6.8
+1868,Nicole Kidman,Der verlorene Sohn,2018,"['Biography', 'Drama']",6.9
+1869,Nicole Kidman,Destroyer,2018,"['Action', 'Crime', 'Drama']",6.2
+1870,Nicole Kidman,Mein Bester & ich,2017,"['Comedy', 'Drama']",7.0
+1871,Nicole Kidman,Die Verführten,2017,"['Drama', 'History', 'Thriller']",6.3
+1872,Nicole Kidman,The Killing of a Sacred Deer,2017,"['Drama', 'Horror', 'Mystery']",7.0
+1873,Nicole Kidman,How to Talk to Girls at Parties,2017,"['Comedy', 'Music', 'Romance']",5.7
+1874,Nicole Kidman,Lion: Der lange Weg nach Hause,2016,"['Biography', 'Drama']",8.0
+1875,Nicole Kidman,Genius: Die tausend Seiten einer Freundschaft,2016,"['Biography', 'Drama']",6.5
+1876,Nicole Kidman,Die Schutzbrüder,2015,"['Animation', 'Comedy', 'Family']",5.5
+1877,Nicole Kidman,Vor ihren Augen,2015,"['Crime', 'Drama', 'Mystery']",6.3
+1878,Nicole Kidman,Die gesammelten Peinlichkeiten unserer Eltern in der Reihenfolge ihrer Erstaufführung,2015,"['Comedy', 'Drama', 'Mystery']",6.1
+1879,Nicole Kidman,Königin der Wüste,2015,"['Adventure', 'Biography', 'Drama']",5.7
+1880,Nicole Kidman,Spurlos - Ein Sturm wird kommen,2015,"['Drama', 'Mystery', 'Thriller']",5.2
+1881,Nicole Kidman,Paddington,2014,"['Adventure', 'Comedy', 'Family']",7.3
+1882,Nicole Kidman,Ich. Darf. Nicht. Schlafen.,2014,"['Drama', 'Mystery', 'Thriller']",6.3
+1883,Nicole Kidman,Grace of Monaco,2014,"['Biography', 'Drama', 'Romance']",5.7
+1884,Nicole Kidman,The Railway Man - Die Liebe seines Lebens,2013,"['Biography', 'Drama', 'Romance']",7.1
+1885,Nicole Kidman,Stoker - Die Unschuld endet,2013,"['Drama', 'Thriller']",6.7
+1886,Nicole Kidman,The Paperboy,2012,"['Crime', 'Drama', 'Mystery']",5.7
+1887,Nicole Kidman,Trespass - Auf Leben und Tod,2011,"['Crime', 'Drama', 'Mystery']",5.3
+1888,Nicole Kidman,Meine erfundene Frau,2011,"['Comedy', 'Romance']",6.4
+1889,Nicole Kidman,Rabbit Hole - Neue Wege,2010,['Drama'],7.0
+1890,Nicole Kidman,Nine,2009,"['Drama', 'Musical', 'Romance']",5.8
+1891,Nicole Kidman,Australia,2008,"['Adventure', 'Drama', 'Romance']",6.6
+1892,Nicole Kidman,Der goldene Kompass,2007,"['Adventure', 'Family', 'Fantasy']",6.1
+1893,Nicole Kidman,Margot und die Hochzeit,2007,"['Comedy', 'Drama']",6.0
+1894,Nicole Kidman,Invasion,2007,"['Sci-Fi', 'Thriller']",5.9
+1895,Nicole Kidman,Happy Feet,2006,"['Animation', 'Adventure', 'Comedy']",6.4
+1896,Nicole Kidman,Fell - Ein imaginäres Portrait von Diane Arbus,2006,"['Biography', 'Drama', 'Romance']",6.3
+1897,Nicole Kidman,Verliebt in eine Hexe,2005,"['Comedy', 'Fantasy', 'Romance']",4.8
+1898,Nicole Kidman,Die Dolmetscherin,2005,"['Crime', 'Mystery', 'Thriller']",6.4
+1899,Nicole Kidman,Birth,2004,"['Drama', 'Fantasy', 'Mystery']",6.3
+1900,Nicole Kidman,Die Frauen von Stepford,2004,"['Comedy', 'Horror', 'Sci-Fi']",5.3
+1901,Nicole Kidman,Unterwegs nach Cold Mountain,2003,"['Adventure', 'Drama', 'Romance']",7.2
+1902,Nicole Kidman,Der menschliche Makel,2003,"['Drama', 'Romance', 'Thriller']",6.2
+1903,Nicole Kidman,Dogville,2003,"['Crime', 'Drama']",8.0
+1904,Nicole Kidman,The Hours - Von Ewigkeit zu Ewigkeit,2002,"['Drama', 'Romance']",7.5
+1905,Nicole Kidman,Panic Room,2002,"['Crime', 'Drama', 'Thriller']",6.8
+1906,Nicole Kidman,Birthday Girl - Braut auf Bestellung,2001,"['Comedy', 'Crime', 'Thriller']",6.0
+1907,Nicole Kidman,The Others,2001,"['Horror', 'Mystery', 'Thriller']",7.6
+1908,Nicole Kidman,Moulin Rouge!,2001,"['Drama', 'Musical', 'Romance']",7.6
+1909,Nicole Kidman,Eyes Wide Shut,1999,"['Drama', 'Mystery', 'Thriller']",7.5
+1910,Nicole Kidman,Zauberhafte Schwestern,1998,"['Comedy', 'Drama', 'Fantasy']",6.3
+1911,Nicole Kidman,Projekt: Peacemaker,1997,"['Action', 'Drama', 'Thriller']",6.0
+1912,Nicole Kidman,Die Stunde des Verführers,1996,"['Drama', 'Romance', 'Thriller']",5.6
+1913,Nicole Kidman,Portrait of a Lady,1996,"['Drama', 'Romance']",6.2
+1914,Nicole Kidman,Batman Forever,1995,"['Action', 'Adventure']",5.4
+1915,Nicole Kidman,To Die For,1995,"['Comedy', 'Crime', 'Drama']",6.8
+1916,Nicole Kidman,Mein Leben für dich,1993,['Drama'],6.8
+1917,Nicole Kidman,Malice - Eine Intrige,1993,"['Crime', 'Mystery', 'Thriller']",6.5
+1918,Nicole Kidman,In einem fernen Land,1992,"['Adventure', 'Drama', 'Romance']",6.6
+1919,Nicole Kidman,Billy Bathgate,1991,"['Crime', 'Drama', 'Thriller']",5.9
+1920,Nicole Kidman,Flirting - Spiel mit der Liebe,1991,"['Drama', 'Romance']",7.1
+1921,Nicole Kidman,Tage des Donners,1990,"['Action', 'Drama', 'Sport']",6.1
+1922,Nicole Kidman,Todesstille,1989,"['Horror', 'Thriller']",6.8
+1923,Nicole Kidman,Trendsetters - Jahrmarkt der Illusionen,1988,"['Comedy', 'Drama']",5.2
+1924,Nicole Kidman,The Bit Part,1987,['Comedy'],5.1
+1925,Nicole Kidman,Wind der Liebe,1986,"['Comedy', 'Drama', 'Romance']",5.1
+1926,Nicole Kidman,Wills & Burke,1985,"['Biography', 'Comedy']",4.3
+1927,Nicole Kidman,Die BMX-Bande,1983,"['Action', 'Crime', 'Drama']",5.5
+1928,Nicole Kidman,40 Grad im Schatten,1983,"['Drama', 'Family']",5.2
+1929,Gerard Butler,Kandahar,2023,"['Action', 'Drama', 'Thriller']",6.1
+1930,Gerard Butler,Plane,2023,"['Action', 'Adventure', 'Thriller']",6.5
+1931,Gerard Butler,Chase,2022,"['Action', 'Adventure', 'Crime']",5.7
+1932,Gerard Butler,Copshop,2021,"['Action', 'Thriller']",6.2
+1933,Gerard Butler,Greenland,2020,"['Action', 'Thriller']",6.4
+1934,Gerard Butler,Angel Has Fallen,2019,"['Action', 'Thriller']",6.4
+1935,Gerard Butler,Drachenzähmen leicht gemacht 3: Die geheime Welt,2019,"['Animation', 'Action', 'Adventure']",7.4
+1936,Gerard Butler,Keepers - Die Leuchtturmwärter,2018,"['Drama', 'Mystery', 'Thriller']",5.9
+1937,Gerard Butler,Hunter Killer,2018,"['Action', 'Thriller']",6.6
+1938,Gerard Butler,Criminal Squad,2018,"['Action', 'Crime', 'Drama']",7.0
+1939,Gerard Butler,Geostorm,2017,"['Action', 'Sci-Fi', 'Thriller']",5.3
+1940,Gerard Butler,Das Glück des Augenblicks,2016,['Drama'],6.5
+1941,Gerard Butler,London Has Fallen,2016,"['Action', 'Thriller']",5.9
+1942,Gerard Butler,Gods of Egypt,2016,"['Action', 'Adventure', 'Drama']",5.4
+1943,Gerard Butler,Drachenzähmen leicht gemacht 2,2014,"['Animation', 'Action', 'Adventure']",7.8
+1944,Gerard Butler,Olympus Has Fallen - Die Welt in Gefahr,2013,"['Action', 'Thriller']",6.5
+1945,Gerard Butler,Movie 43,2013,['Comedy'],4.3
+1946,Gerard Butler,Kiss the Coach,2012,"['Comedy', 'Romance', 'Sport']",5.7
+1947,Gerard Butler,Mavericks,2012,"['Biography', 'Drama', 'Sport']",7.1
+1948,Gerard Butler,Machine Gun Preacher,2011,"['Action', 'Biography', 'Crime']",6.7
+1949,Gerard Butler,Coriolanus,2011,"['Drama', 'Thriller', 'War']",6.1
+1950,Gerard Butler,Drachenzähmen leicht gemacht,2010,"['Animation', 'Action', 'Adventure']",8.1
+1951,Gerard Butler,Der Kautions-Cop,2010,"['Action', 'Comedy', 'Romance']",5.5
+1952,Gerard Butler,Gesetz der Rache,2009,"['Action', 'Crime', 'Drama']",7.4
+1953,Gerard Butler,Gamer,2009,"['Action', 'Sci-Fi', 'Thriller']",5.7
+1954,Gerard Butler,Die nackte Wahrheit,2009,"['Comedy', 'Romance']",6.4
+1955,Gerard Butler,RocknRolla,2008,"['Action', 'Crime', 'Thriller']",7.2
+1956,Gerard Butler,Die Insel der Abenteuer,2008,"['Adventure', 'Family', 'Fantasy']",6.0
+1957,Gerard Butler,P.S. Ich Liebe Dich,2007,"['Comedy', 'Drama', 'Romance']",7.0
+1958,Gerard Butler,Spiel mit der Angst,2007,"['Crime', 'Drama', 'Thriller']",6.6
+1959,Gerard Butler,Guilty Hearts,2006,['Drama'],4.6
+1960,Gerard Butler,300,2006,"['Action', 'Drama']",7.6
+1961,Gerard Butler,Beowulf & Grendel,2005,"['Action', 'Adventure', 'Drama']",5.8
+1962,Gerard Butler,Das Spiel ihres Lebens,2005,"['Drama', 'History', 'Sport']",6.1
+1963,Gerard Butler,Das Phantom der Oper,2004,"['Drama', 'Musical', 'Romance']",7.2
+1964,Gerard Butler,Lieber Frankie,2004,"['Drama', 'Romance']",7.7
+1965,Gerard Butler,Timeline,2003,"['Action', 'Adventure', 'Sci-Fi']",5.6
+1966,Gerard Butler,Lara Croft - Tomb Raider: Die Wiege des Lebens,2003,"['Action', 'Adventure', 'Fantasy']",5.5
+1967,Gerard Butler,Die Herrschaft des Feuers,2002,"['Action', 'Adventure', 'Fantasy']",6.2
+1968,Gerard Butler,Shooters,2002,"['Action', 'Crime', 'Drama']",5.4
+1969,Gerard Butler,Wes Craven präsentiert Dracula,2000,"['Action', 'Fantasy', 'Horror']",4.9
+1970,Gerard Butler,Harrison's Flowers,2000,"['Drama', 'Romance', 'War']",7.0
+1971,Gerard Butler,The Cherry Orchard,1999,['Drama'],6.4
+1972,Gerard Butler,One More Kiss,1999,"['Drama', 'Romance']",5.8
+1973,Gerard Butler,Fast Food,1998,"['Action', 'Comedy']",4.5
+1974,Gerard Butler,"Talos, die Mumie",1998,"['Adventure', 'Fantasy', 'Horror']",4.0
+1975,Gerard Butler,Der Morgen stirbt nie,1997,"['Action', 'Adventure', 'Thriller']",6.5
+1976,Gerard Butler,Ihre Majestät Mrs. Brown,1997,"['Biography', 'Drama', 'History']",7.2
+1977,Simon Baker,Limbo,2023,"['Crime', 'Drama', 'Mystery']",6.1
+1978,Simon Baker,Blaze,2022,"['Crime', 'Drama', 'Fantasy']",5.9
+1979,Simon Baker,High Ground,2020,"['Action', 'Drama', 'Thriller']",6.5
+1980,Simon Baker,Im Hier und Jetzt: Der beste Tag meines Lebens,2018,"['Drama', 'Music', 'Romance']",4.5
+1981,Simon Baker,Breath,2017,"['Adventure', 'Drama', 'Romance']",6.7
+1982,Simon Baker,Das hält kein Jahr ...!,2013,"['Comedy', 'Romance']",5.7
+1983,Simon Baker,Der große Crash - Margin Call,2011,"['Drama', 'Thriller']",7.1
+1984,Simon Baker,The Killer Inside Me,2010,"['Crime', 'Drama', 'Mystery']",6.1
+1985,Simon Baker,Women in Trouble,2009,"['Comedy', 'Drama']",5.6
+1986,Simon Baker,Unvergessen,2009,"['Horror', 'Thriller']",4.7
+1987,Simon Baker,The Lodger - Der Untermieter,2009,"['Crime', 'Horror', 'Mystery']",5.7
+1988,Simon Baker,Der Aufreisser,2007,"['Comedy', 'Drama', 'Fantasy']",5.9
+1989,Simon Baker,Der Teufel trägt Prada,2006,"['Comedy', 'Drama']",6.9
+1990,Simon Baker,"Neue Liebe, neues Glück",2006,"['Comedy', 'Drama', 'Romance']",6.6
+1991,Simon Baker,Land of the Dead,2005,"['Horror', 'Sci-Fi', 'Thriller']",6.2
+1992,Simon Baker,Ring 2,2005,"['Horror', 'Mystery']",5.4
+1993,Simon Baker,Book of Love,2004,"['Comedy', 'Drama']",5.4
+1994,Simon Baker,Das Halsband der Königin,2001,"['Drama', 'History', 'Romance']",6.0
+1995,Simon Baker,Red Planet,2000,"['Action', 'Sci-Fi', 'Thriller']",5.7
+1996,Simon Baker,Sunset Strip,2000,"['Comedy', 'Drama']",5.6
+1997,Simon Baker,Wer mit dem Teufel reitet,1999,"['Drama', 'Romance', 'War']",6.7
+1998,Simon Baker,Love from Ground Zero,1998,"['Comedy', 'Drama']",7.4
+1999,Simon Baker,Judas Kiss,1998,"['Crime', 'Drama', 'Thriller']",6.1
+2000,Simon Baker,Restaurant,1998,['Drama'],6.0
+2001,Simon Baker,America's Most Wanted,1997,"['Action', 'Thriller']",5.6
+2002,Simon Baker,L.A. Confidential,1997,"['Crime', 'Drama', 'Mystery']",8.2
+2003,Cameron Diaz,Annie,2014,"['Comedy', 'Drama', 'Family']",5.4
+2004,Cameron Diaz,Sex Tape,2014,"['Comedy', 'Romance']",5.1
+2005,Cameron Diaz,Die Schadenfreundinnen,2014,"['Comedy', 'Romance']",6.0
+2006,Cameron Diaz,The Counselor,2013,"['Action', 'Adventure', 'Crime']",5.4
+2007,Cameron Diaz,In a World ... - Die Macht der Stimme,2013,['Comedy'],6.7
+2008,Cameron Diaz,Gambit - Der Masterplan,2012,"['Comedy', 'Crime']",5.7
+2009,Cameron Diaz,A Liar's Autobiography: The Untrue Story of Monty Python's Graham Chapman,2012,"['Animation', 'Comedy']",5.8
+2010,Cameron Diaz,"Was passiert, wenn's passiert ist",2012,"['Comedy', 'Drama', 'Romance']",5.7
+2011,Cameron Diaz,Bad Teacher,2011,"['Comedy', 'Romance']",5.7
+2012,Cameron Diaz,The Green Hornet,2011,"['Action', 'Comedy', 'Crime']",5.8
+2013,Cameron Diaz,Knight and Day,2010,"['Action', 'Adventure', 'Comedy']",6.3
+2014,Cameron Diaz,Für immer Shrek,2010,"['Animation', 'Adventure', 'Comedy']",6.3
+2015,Cameron Diaz,The Box - Du bist das Experiment,2009,"['Drama', 'Mystery', 'Thriller']",5.6
+2016,Cameron Diaz,Beim Leben meiner Schwester,2009,"['Drama', 'Family']",7.3
+2017,Cameron Diaz,Love Vegas,2008,"['Comedy', 'Romance']",6.1
+2018,Cameron Diaz,Shrek der Dritte,2007,"['Animation', 'Adventure', 'Comedy']",6.1
+2019,Cameron Diaz,Liebe braucht keine Ferien,2006,"['Comedy', 'Romance']",6.9
+2020,Cameron Diaz,In den Schuhen meiner Schwester,2005,"['Comedy', 'Drama', 'Romance']",6.5
+2021,Cameron Diaz,Shrek 2 - Der tollkühne Held kehrt zurück,2004,"['Animation', 'Adventure', 'Comedy']",7.3
+2022,Cameron Diaz,3 Engel für Charlie - Volle Power,2003,"['Action', 'Adventure', 'Comedy']",4.9
+2023,Cameron Diaz,Gangs of New York,2002,"['Crime', 'Drama']",7.5
+2024,Cameron Diaz,Minority Report,2002,"['Action', 'Crime', 'Mystery']",7.6
+2025,Cameron Diaz,My Father's House,2002,['Drama'],6.2
+2026,Cameron Diaz,Super süß und super sexy,2002,"['Comedy', 'Romance']",5.2
+2027,Cameron Diaz,Slackers,2002,"['Comedy', 'Romance']",5.3
+2028,Cameron Diaz,Vanilla Sky,2001,"['Fantasy', 'Mystery', 'Romance']",6.9
+2029,Cameron Diaz,Shrek - Der tollkühne Held,2001,"['Animation', 'Adventure', 'Comedy']",7.9
+2030,Cameron Diaz,The Invisible Circus,2001,['Drama'],5.5
+2031,Cameron Diaz,3 Engel für Charlie,2000,"['Action', 'Adventure', 'Comedy']",5.6
+2032,Cameron Diaz,"Gefühle, die man sieht... - Things you can tell",2000,"['Drama', 'Romance']",6.4
+2033,Cameron Diaz,An jedem verdammten Sonntag,1999,"['Drama', 'Sport']",6.9
+2034,Cameron Diaz,Being John Malkovich,1999,"['Comedy', 'Drama', 'Fantasy']",7.7
+2035,Cameron Diaz,Man Woman Film,1999,['Comedy'],2.2
+2036,Cameron Diaz,Willkommen in Hollywood,1998,['Comedy'],4.9
+2037,Cameron Diaz,Very Bad Things,1998,"['Comedy', 'Crime', 'Thriller']",6.3
+2038,Cameron Diaz,Verrückt nach Mary,1998,"['Comedy', 'Romance']",7.1
+2039,Cameron Diaz,Angst und Schrecken in Las Vegas,1998,"['Adventure', 'Comedy', 'Drama']",7.5
+2040,Cameron Diaz,Lebe lieber ungewöhnlich,1997,"['Comedy', 'Crime', 'Fantasy']",6.3
+2041,Cameron Diaz,Die Hochzeit meines besten Freundes,1997,"['Comedy', 'Drama', 'Romance']",6.3
+2042,Cameron Diaz,Keys to Tulsa,1997,"['Crime', 'Drama', 'Thriller']",5.2
+2043,Cameron Diaz,Kopf über Wasser,1996,"['Comedy', 'Thriller']",6.0
+2044,Cameron Diaz,Minnesota,1996,"['Comedy', 'Crime', 'Drama']",5.4
+2045,Cameron Diaz,She's the One - Eine fürs Leben,1996,"['Comedy', 'Drama', 'Romance']",6.0
+2046,Cameron Diaz,Last Supper - Die Henkersmahlzeit,1995,"['Comedy', 'Crime', 'Drama']",6.7
+2047,Cameron Diaz,Die Maske,1994,"['Action', 'Comedy', 'Crime']",6.9
+2048,Katherine Heigl,Fear of Rain,2021,"['Drama', 'Horror', 'Mystery']",5.9
+2049,Katherine Heigl,Operation: Nussknacker 2 - Voll auf die Nüsse,2017,"['Animation', 'Adventure', 'Comedy']",5.5
+2050,Katherine Heigl,Unforgettable - Tödliche Liebe,2017,"['Drama', 'Thriller']",5.1
+2051,Katherine Heigl,Jenny's Wedding,2015,"['Comedy', 'Drama', 'Romance']",5.6
+2052,Katherine Heigl,Home Sweet Hell,2015,"['Comedy', 'Crime', 'Thriller']",5.5
+2053,Katherine Heigl,Love Me Like You Do - Aus Schicksal wird Liebe,2014,"['Drama', 'Family', 'Music']",5.9
+2054,Katherine Heigl,"Operation: Nussknacker - Auf die Nüsse, fertig, los!",2014,"['Animation', 'Adventure', 'Comedy']",5.7
+2055,Katherine Heigl,The Big Wedding,2013,"['Comedy', 'Drama', 'Romance']",5.6
+2056,Katherine Heigl,Einmal ist keinmal,2012,"['Action', 'Comedy', 'Crime']",5.3
+2057,Katherine Heigl,Happy New Year,2011,"['Comedy', 'Romance']",5.6
+2058,Katherine Heigl,So spielt das Leben,2010,"['Comedy', 'Drama', 'Romance']",6.5
+2059,Katherine Heigl,Kiss & Kill,2010,"['Action', 'Comedy', 'Romance']",5.4
+2060,Katherine Heigl,Die nackte Wahrheit,2009,"['Comedy', 'Romance']",6.4
+2061,Katherine Heigl,27 Dresses,2008,"['Comedy', 'Romance']",6.1
+2062,Katherine Heigl,Beim ersten Mal,2007,"['Comedy', 'Romance']",6.9
+2063,Katherine Heigl,Caffeine,2006,['Comedy'],5.4
+2064,Katherine Heigl,Zyzzyx Rd,2006,"['Crime', 'Drama', 'Thriller']",3.8
+2065,Katherine Heigl,Dabei sein ist alles,2005,"['Comedy', 'Sport']",5.8
+2066,Katherine Heigl,Side Effects,2005,"['Comedy', 'Drama', 'Romance']",4.9
+2067,Katherine Heigl,Descendant,2003,"['Horror', 'Thriller']",4.2
+2068,Katherine Heigl,"Schrei, wenn Du kannst",2001,"['Horror', 'Mystery', 'Thriller']",4.9
+2069,Katherine Heigl,"Eins, zwei, Pie - Wer die Qual hat, hat die Wahl",2000,"['Comedy', 'Romance']",5.8
+2070,Katherine Heigl,Bug Buster,1998,"['Comedy', 'Horror', 'Sci-Fi']",3.9
+2071,Katherine Heigl,Chucky und seine Braut,1998,"['Comedy', 'Horror', 'Thriller']",5.6
+2072,Katherine Heigl,Stardust - Entscheidung in Hollywood,1997,['Drama'],4.7
+2073,Katherine Heigl,Prinz Eisenherz,1997,"['Adventure', 'Fantasy', 'Romance']",5.1
+2074,Katherine Heigl,Alarmstufe: Rot 2,1995,"['Action', 'Adventure', 'Thriller']",5.5
+2075,Katherine Heigl,Daddy Cool,1994,"['Comedy', 'Romance']",5.5
+2076,Katherine Heigl,König der Murmelspieler,1993,"['Drama', 'History']",7.3
+2077,Katherine Heigl,Sexy Sheryl - Ein heißer Sommer,1992,"['Drama', 'Romance']",6.6
